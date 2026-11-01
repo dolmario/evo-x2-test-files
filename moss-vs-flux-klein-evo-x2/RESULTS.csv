@@ -1,0 +1,11 @@
+profile,seed,width,height,steps,seconds_request_to_saved_image,loading_note,original_image_sha256
+MOSS SFT,11,1024,1024,25,168.391,includes loading/initialisation,9e8f5ba899bb7080dbc39cb2db339d351bb3347c95a6e05cdf59aca4e5d85111
+MOSS SFT + Destripe 1.5,11,1024,1024,25,132.656,warm; single observation,04b422c7e7a107886256c1ccdf68b32518f6d979d527567cba113db3a7347364
+MOSS SFT,22,1024,1024,25,132.359,warm; single observation,04c876927f4c92548677f96981aa8eba00c45cb518687baa38c87d3ae89c382a
+MOSS SFT + Destripe 1.5,22,1024,1024,25,132.36,warm; single observation,d4a03c40ae2b4baa869abec7e79a13dcd8ab46063116f2b2a4fb0d8b3d334053
+MOSS IDM v1 export750,11,1024,1024,2,51.188,includes loading/initialisation,fbbfbd2b878c0f125dbeb5933590a1e1ca8f5c85c77eeac1f634797deee7b001
+MOSS IDM v1 export750,22,1024,1024,2,9.031,warm; single observation,e80d1975677ed529f8c3b029b705c012342066882263b916acdeb258848760e1
+FLUX3 Klein SD,11,1024,1024,4,51.172,includes loading/initialisation,586ab858bbc10a26f008321105f2ad2c5889ccad0d13ae5ef20a5172312a44a9
+FLUX3 Klein SD,11,1024,1024,16,36.141,warm; single observation,5492d0a5a84521bb575af3518f24de4178a4cf797a672406437ceff404c81515
+FLUX3 Klein SD,22,1024,1024,4,12.078,warm; single observation,dd03057af6af6e66976860f62b01359ce79d019f99c13278aac3ab28f5ad21e2
+FLUX3 Klein SD,22,1024,1024,16,33.093,warm; single observation,9d4595be37100be587a2e5dc31681dc8be873e8c4702ce0175ad0f497e5f1948

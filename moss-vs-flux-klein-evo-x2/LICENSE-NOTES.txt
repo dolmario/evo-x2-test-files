@@ -1,0 +1,3 @@
+The MOSS Image original repository and the two adapter model cards display Apache-2.0. This note records those named upstream declarations, not a general clearance for every possible model, output or third-party asset.
+The local comparison uses existing FLUX3 Klein SD weights. This package distributes no model weights, program code, private source pictures, prompts, reference audio or brand assets.
+Public release of the film and private character pictures requires the channel owner's approval. No output licence or personality permission is inferred from model-card tags.

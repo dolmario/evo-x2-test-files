@@ -1,0 +1,25 @@
+COLOUR-EDIT COMPARISON METHOD
+
+Hardware: GMKtec EVO-X2, AMD Strix Halo / Ryzen AI Max+ 395, 64 GB shared memory, Windows. This is image inference, not training.
+
+Input: one 1024 × 1024 generic adult steampunk captain, originally generated with MOSS Image SFT at 25 steps and seed 11. Its gold evening illumination is intentional. It is not an independently colour-calibrated reference.
+Input JPEG SHA-256: 1e45b610c53473d3688d9c5ac859a51ec5ac951142a7185ca0ee22ce491a6e6b
+
+Controlled edit settings:
+- FLUX3 Klein Base BF16, appropriate family encoder and VAE.
+- One unchanged input image/crop at 1024 × 1024, no stretching.
+- 50 sampling steps, CFG 3.5, Euler/simple, seed 11.
+- Same reference conditioning on both CFG branches.
+- Same edit instruction and complete graph, except colour-adapter strength 0 versus 1.
+- Same rank-16 colour adapter; strength 1 is our test setting, not an author-prescribed optimum.
+- No character identity adapter, training or private character reference.
+
+Inspect output A against B and the original at the same pixel coordinates:
+1. Face: outline, eyes, nose, mouth and expression.
+2. Costume: burgundy fabric, gold embroidery, collar, puff sleeves, cream lace cuffs and brass goggles.
+3. Colour: skin, metal, fabric, sky and intended evening light independently.
+4. Geometry: image alignment and layout, separately from colour.
+
+Keep scene-wide colour change separate from face/costume changes. A numerically smaller red/yellow channel average alone is not a correctness score. A claim of broad cast removal would additionally require a neutral/known-colour reference and more scenes.
+
+This document describes the comparison method. Actual images and observations must be assessed together; the method alone asserts no successful correction.

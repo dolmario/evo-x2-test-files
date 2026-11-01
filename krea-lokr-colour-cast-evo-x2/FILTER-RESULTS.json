@@ -1,0 +1,39 @@
+{
+  "public_label": "Yellow Tint Remover",
+  "date": "2026-11-01",
+  "actual_model": "FLUX3 Klein Base BF16",
+  "size": [
+    1024,
+    1024
+  ],
+  "steps": 50,
+  "cfg": 3.5,
+  "sampler": "euler",
+  "scheduler": "simple",
+  "seed": 11,
+  "input_sha256": "8c2c39c09f3c17c9b740b24cb33cc62b8d75f3df3cf578dae295670c5926ae57",
+  "input_decoded_pixels_identical_to_source_jpeg": true,
+  "lora_sha256": "727b377d0ea7263f76bb7f188482c44caa36bf47b78e19c68355109077300333",
+  "base_sha256": "5c921759dc03663dbb67df11d8e3d317d2d5b893b31b969c95dc77ebf861b19c",
+  "no_character_lora_or_private_reference": true,
+  "input_has_intended_warm_sunset": true,
+  "neutral_colour_ground_truth": false,
+  "one_output_per_arm_no_retries": true,
+  "reference_latent_both_cfg_branches": true,
+  "strength1_is_our_choice_not_author_recommendation": true,
+  "results": [
+    {
+      "arm": "yellow_control_s0",
+      "strength": 0.0,
+      "png_sha256": "5333da3f962eae5e6fd400d41fdc6a6f355e1cbe61f5273d10e1e51601ae5b7b",
+      "seconds_including_load_if_any": 442.625
+    },
+    {
+      "arm": "yellow_filter_s1",
+      "strength": 1.0,
+      "png_sha256": "fc60b33a87587a1d9b5c4333bc2eb8a10d21eb0516800d3e4fabeeef45779743",
+      "seconds_including_load_if_any": 409.563
+    }
+  ],
+  "timing_note": "Do not compare these two durations as adapter speed: first arm includes cold model loading; second arm follows patching/loading. No repeated speed study."
+}

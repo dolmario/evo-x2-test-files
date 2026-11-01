@@ -1,0 +1,87 @@
+{
+  "source_log": "<local-path>/1234.CSV",
+  "snapshot_sha256": "084e7051ac8d52b836f873f3c954a1af6a93e344b03f8ce83873ac457a32c4c4",
+  "timezone": "Europe/Berlin inferred; CSV has no timezone",
+  "first_seconds_excluded": 5,
+  "phases": {
+    "A-GPU-Stack-Leerlauf": {
+      "samples": 28,
+      "start_after_exclusion": "2026-10-31T19:47:49.462000+01:00",
+      "end": "2026-10-31T19:48:44.454000+01:00",
+      "sensors": {
+        "CPU-Gesamt-Leistungsaufnahme [W]": {
+          "mean": 18.107321428571428,
+          "min": 15.128,
+          "max": 26.613
+        },
+        "Gesamte CPU-Auslastung [%]": {
+          "mean": 5.185714285714286,
+          "min": 4.0,
+          "max": 7.5
+        },
+        "GPU-Auslastung [%]": {
+          "mean": 6.392857142857143,
+          "min": 5.0,
+          "max": 9.0
+        },
+        "NPU D3D-Nutzung [%]": {
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0
+        },
+        "CPU (Tctl/Tdie) [°C]": {
+          "mean": 45.92142857142857,
+          "min": 42.0,
+          "max": 57.5
+        }
+      }
+    },
+    "B-GPU-Text": {
+      "samples": 43,
+      "start_after_exclusion": "2026-10-31T19:48:49.455000+01:00",
+      "end": "2026-10-31T19:50:14.566000+01:00",
+      "sensors": {
+        "CPU-Gesamt-Leistungsaufnahme [W]": {
+          "mean": 85.8593488372093,
+          "min": 83.177,
+          "max": 97.701
+        },
+        "Gesamte CPU-Auslastung [%]": {
+          "mean": 10.26046511627907,
+          "min": 7.4,
+          "max": 23.9
+        },
+        "GPU-Auslastung [%]": {
+          "mean": 88.0,
+          "min": 85.0,
+          "max": 92.0
+        },
+        "NPU D3D-Nutzung [%]": {
+          "mean": 0.0,
+          "min": 0.0,
+          "max": 0.0
+        },
+        "CPU (Tctl/Tdie) [°C]": {
+          "mean": 59.72558139534884,
+          "min": 55.0,
+          "max": 67.9
+        }
+      }
+    }
+  },
+  "stable_request_count": 44,
+  "stable_output_tokens": 17600,
+  "wall_output_tokens_per_second": 208.43365387314424,
+  "backend_decode_tokens_per_second": 211.638995148633,
+  "package_idle_w": 18.107321428571428,
+  "package_load_w": 85.8593488372093,
+  "package_delta_w": 67.75202740863787,
+  "approx_backend_tokens_per_package_joule": 2.4649499211775288,
+  "backend_proof": [],
+  "limits": [
+    "FLM q4nx vs GGUF Q4_K_M, same base model but different quantization/runtime. NPU prior phase kept services loaded; GPU has its own paused-services baseline. No isolated hardware efficiency claim.",
+    "Software APU package values, not wall power or isolated GPU/NPU watts.",
+    "Token/J is a package-level cross-phase approximation, not integrated per-request energy.",
+    "No matched GPU Whisper measurement."
+  ]
+}

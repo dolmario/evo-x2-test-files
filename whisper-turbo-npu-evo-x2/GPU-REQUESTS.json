@@ -1,0 +1,1298 @@
+[
+  {
+    "phase": "WARMUP",
+    "start": "2026-10-31T19:47:42.592+01:00",
+    "end": "2026-10-31T19:47:44.460+01:00",
+    "elapsed_seconds": 1.8683691000333056,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 23.393,
+      "prompt_per_token_ms": 0.5198444444444444,
+      "prompt_per_second": 1923.6523746419866,
+      "predicted_n": 400,
+      "predicted_ms": 1816.302,
+      "predicted_per_token_ms": 4.552135338345864,
+      "predicted_per_second": 219.67712417868833
+    },
+    "content": "The world of computers has undergone significant transformations over the years, with advancements in technology leading to the development of quiet, efficient computers that have revolutionized the way we live, work, and communicate. In this essay, we will delve into the world of quiet, efficient computers, exploring their characteristics, benefits, and applications.\n\nQuiet, efficient computers are designed to minimize noise and energy consumption, making them ideal for use in various settings, from homes and offices to data centers and server rooms. These computers are built with advanced cooling systems, which help to regulate temperature and reduce noise levels. This is particularly important in environments where noise can be a significant issue, such as in homes with multiple occupants or in areas with high foot traffic.\n\nOne of the key characteristics of quiet, efficient computers is their ability to operate at lower power consumption. This is achieved through the use of advanced power management techniques, such as dynamic voltage and frequency scaling (DVFS), which allow the computer to adjust its power consumption based on the workload. This results in significant energy savings, making quiet, efficient computers an attractive option for users who want to reduce their environmental impact.\n\nAnother important aspect of quiet, efficient computers is their ability to maintain a stable operating temperature. This is achieved through the use of advanced cooling systems, such as liquid cooling and air cooling, which help to dissipate heat away from the computer's components. This results in improved performance, reduced noise levels, and increased lifespan.\n\nQuiet, efficient computers also benefit from advanced power delivery systems. These systems, such as high-frequency power delivery (HFPD) and low-frequency power delivery (LFPD), allow the computer to deliver power to its components at optimal frequencies, resulting in improved performance and reduced power consumption.\n\nIn addition to their technical advantages, quiet, efficient computers also offer several practical benefits. For example, they are often quieter than traditional computers, making them ideal for use in homes and offices where noise can be a significant issue. They are also more energy-efficient,",
+    "wall_output_tokens_per_second": 214.09045995936756
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:44.456+01:00",
+    "end": "2026-10-31T19:48:46.304+01:00",
+    "elapsed_seconds": 1.847708799992688,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.051,
+      "prompt_per_token_ms": 0.3344666666666667,
+      "prompt_per_second": 2989.8345624875424,
+      "predicted_n": 400,
+      "predicted_ms": 1799.156,
+      "predicted_per_token_ms": 4.509162907268171,
+      "predicted_per_second": 221.77065246148751
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and servers, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were loud and power-hungry, with fans and heat sinks that contributed to their high noise levels. However, as technology advanced, manufacturers began to focus on reducing noise and increasing efficiency. One of the key innovations was the introduction of the \"silent fan\" design, which used advanced materials and cooling systems to minimize noise levels.\n\nOne of the pioneers in quiet computing was the IBM PC, released in 1981. This machine was designed to be as quiet as possible, with a fan that was only active when the system was running. The IBM PC's design was a significant improvement over its predecessors, and it paved the way for future quiet computing machines.\n\nIn the 1990s, the introduction of the \"low-power\" processor architecture revolutionized the way computers were designed. These processors were optimized for low power consumption, which led to significant reductions in noise levels and increased efficiency. The Intel Pentium III and AMD Athlon processors, released in the late 1990s, were among the first to use low-power architecture, and they quickly became popular among consumers and businesses alike.\n\nThe introduction of the \"power-saving\" features in the early 2000s further accelerated the development of quiet, efficient computers. These features included dynamic voltage and frequency scaling (DVFS), which allowed the processor to adjust its speed in response to changing workloads. Other features, such as power management units (PMUs) and low",
+    "wall_output_tokens_per_second": 216.48432913323947
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:46.306+01:00",
+    "end": "2026-10-31T19:48:48.176+01:00",
+    "elapsed_seconds": 1.870539200026542,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.499,
+      "prompt_per_token_ms": 0.3222,
+      "prompt_per_second": 3103.662321539416,
+      "predicted_n": 400,
+      "predicted_ms": 1833.227,
+      "predicted_per_token_ms": 4.59455388471178,
+      "predicted_per_second": 217.64898727762574
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were loud and power-hungry, with fans and heat sinks that generated significant noise and heat. The introduction of the IBM PC in 1981 marked the beginning of the personal computer era, and it was during this time that the need for quiet computing became apparent. As the demand for personal computers grew, so did the need for devices that could operate without excessive noise and heat.\n\nOne of the key factors that contributed to the development of quiet computers was the introduction of the \"silent fans\" technology. These fans were designed to be quieter and more efficient than traditional fans, using advanced materials and designs to reduce noise levels. The use of silent fans has become a standard feature in modern computers, and they have played a significant role in reducing noise levels and improving overall quietness.\n\nAnother significant factor that has contributed to the development of quiet computers is the advancement of power management technologies. In the early days of computing, power management was a relatively simple concept, with devices using a fixed amount of power regardless of usage. However, as computing power and performance increased, so did the need for more efficient power management systems. The introduction of technologies such as dynamic voltage and frequency scaling (DVFS) and power gating has enabled computers to dynamically adjust power consumption based on usage, reducing energy waste and heat generation.\n\nThe development of quiet computers has also been driven by advances in cooling technologies. In the past, cooling systems were",
+    "wall_output_tokens_per_second": 213.8420836057989
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:48.176+01:00",
+    "end": "2026-10-31T19:48:50.012+01:00",
+    "elapsed_seconds": 1.8345946999033913,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.564,
+      "prompt_per_token_ms": 0.32364444444444446,
+      "prompt_per_second": 3089.8104916231805,
+      "predicted_n": 400,
+      "predicted_ms": 1801.224,
+      "predicted_per_token_ms": 4.514345864661654,
+      "predicted_per_second": 221.51603576234825
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe Quest for Quiet Computing\n\nIn the early 2000s, computers were known for their loud and boisterous nature. The sound of fans spinning, the hum of the hard drive, and the constant beeping of the keyboard were all hallmarks of a typical computer. However, as technology advanced, manufacturers began to focus on creating quieter and more energy-efficient devices. This shift was driven by growing concerns about noise pollution, energy consumption, and the environmental impact of electronic waste.\n\nOne of the key factors that contributed to the development of quiet computers was the introduction of advanced cooling technologies. The use of heat sinks, fans, and liquid cooling systems allowed manufacturers to reduce the noise level of their devices. For example, the introduction of the \"silent fan\" technology, which uses a specially designed fan that is designed to produce less noise, has become a standard feature in many modern computers.\n\nEfficient Power Consumption\n\nAnother crucial aspect of quiet, efficient computers is their power consumption. As technology advances, it becomes increasingly difficult to reduce power consumption without sacrificing performance. However, manufacturers have found innovative ways to achieve this balance. For instance, the use of low-power processors, such as Intel's Core i3 and i5 processors, has enabled computers to perform complex tasks without consuming excessive power.\n\nAnother key factor is the development of power-saving technologies, such as Intel's Power Gating and AMD's PowerTune. These technologies allow manufacturers to reduce power consumption by temporarily disabling certain components, such as the hard drive or graphics card,",
+    "wall_output_tokens_per_second": 218.0318083449515
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:50.013+01:00",
+    "end": "2026-10-31T19:48:51.865+01:00",
+    "elapsed_seconds": 1.851252599968575,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.566,
+      "prompt_per_token_ms": 0.3236888888888889,
+      "prompt_per_second": 3089.3862419332686,
+      "predicted_n": 400,
+      "predicted_ms": 1804.952,
+      "predicted_per_token_ms": 4.523689223057644,
+      "predicted_per_second": 221.05851014320604
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance in quiet environments. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the key innovations was the introduction of the \"silent fan\" design, which used advanced materials and cooling systems to minimize noise.\n\nOne of the pioneers in quiet computing was the IBM PC, released in 1981. This machine was designed to be as quiet as possible, with a fan that was only active when the system was running. The IBM PC's design was a significant improvement over its predecessors, and it paved the way for future quiet computing machines.\n\nIn the 1990s, the introduction of the \"low-power\" processor architecture marked a significant shift towards quieter and more efficient computers. These processors used advanced technologies such as power management and clock speed optimization to reduce power consumption. This led to the development of laptops and all-in-one desktops that were not only quieter but also more portable.\n\nThe introduction of the Intel Core i3 and i5 processors in 2008 marked a significant milestone in quiet computing. These processors used advanced technologies such as multi-threading and power management to reduce power consumption. The Intel Core i3 and i5 processors were designed to be more efficient than their predecessors, and they quickly gained popularity among consumers and businesses alike.\n\nAnother key innovation in quiet computing was the development of solid",
+    "wall_output_tokens_per_second": 216.06991936529354
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:51.866+01:00",
+    "end": "2026-10-31T19:48:53.755+01:00",
+    "elapsed_seconds": 1.8894446000922471,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.567,
+      "prompt_per_token_ms": 0.3237111111111111,
+      "prompt_per_second": 3089.1741607743534,
+      "predicted_n": 400,
+      "predicted_ms": 1843.075,
+      "predicted_per_token_ms": 4.6192355889724315,
+      "predicted_per_second": 216.486035565563
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 211.70242301916184
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:53.756+01:00",
+    "end": "2026-10-31T19:48:55.601+01:00",
+    "elapsed_seconds": 1.8448276999406517,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.599,
+      "prompt_per_token_ms": 0.3244222222222222,
+      "prompt_per_second": 3082.4029043085143,
+      "predicted_n": 400,
+      "predicted_ms": 1823.463,
+      "predicted_per_token_ms": 4.570082706766917,
+      "predicted_per_second": 218.81442069293425
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 1.44 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe introduction of the Pentium",
+    "wall_output_tokens_per_second": 216.82241653942427
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:55.603+01:00",
+    "end": "2026-10-31T19:48:57.510+01:00",
+    "elapsed_seconds": 1.9064882000675425,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.294,
+      "prompt_per_token_ms": 0.31764444444444445,
+      "prompt_per_second": 3148.1740590457534,
+      "predicted_n": 400,
+      "predicted_ms": 1865.328,
+      "predicted_per_token_ms": 4.675007518796993,
+      "predicted_per_second": 213.90339929492293
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe introduction of the Pentium processor was",
+    "wall_output_tokens_per_second": 209.80984827801657
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:57.512+01:00",
+    "end": "2026-10-31T19:48:59.434+01:00",
+    "elapsed_seconds": 1.92234659998212,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.623,
+      "prompt_per_token_ms": 0.32495555555555555,
+      "prompt_per_second": 3077.343910278329,
+      "predicted_n": 400,
+      "predicted_ms": 1899.406,
+      "predicted_per_token_ms": 4.76041604010025,
+      "predicted_per_second": 210.06567316308363
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe introduction of the Pentium processor was",
+    "wall_output_tokens_per_second": 208.0790217558688
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:48:59.436+01:00",
+    "end": "2026-10-31T19:49:01.274+01:00",
+    "elapsed_seconds": 1.837428400060162,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.093,
+      "prompt_per_token_ms": 0.3354,
+      "prompt_per_second": 2981.514609421586,
+      "predicted_n": 400,
+      "predicted_ms": 1819.91,
+      "predicted_per_token_ms": 4.561177944862155,
+      "predicted_per_second": 219.24161084888812
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 217.6955575449378
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:01.275+01:00",
+    "end": "2026-10-31T19:49:03.162+01:00",
+    "elapsed_seconds": 1.8865208000643179,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.373,
+      "prompt_per_token_ms": 0.3416222222222222,
+      "prompt_per_second": 2927.210043582905,
+      "predicted_n": 400,
+      "predicted_ms": 1868.806,
+      "predicted_per_token_ms": 4.683724310776943,
+      "predicted_per_second": 213.50530766703446
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe introduction of the Pentium processor was",
+    "wall_output_tokens_per_second": 212.03052729997074
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:03.163+01:00",
+    "end": "2026-10-31T19:49:05.027+01:00",
+    "elapsed_seconds": 1.8640015999553725,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.555,
+      "prompt_per_token_ms": 0.3456666666666667,
+      "prompt_per_second": 2892.960462873674,
+      "predicted_n": 400,
+      "predicted_ms": 1846.178,
+      "predicted_per_token_ms": 4.6270125313283215,
+      "predicted_per_second": 216.1221724015777
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 214.59209048403
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:05.029+01:00",
+    "end": "2026-10-31T19:49:06.882+01:00",
+    "elapsed_seconds": 1.8526085999328643,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.25,
+      "prompt_per_token_ms": 0.3388888888888889,
+      "prompt_per_second": 2950.8196721311474,
+      "predicted_n": 400,
+      "predicted_ms": 1824.278,
+      "predicted_per_token_ms": 4.572125313283208,
+      "predicted_per_second": 218.716664894276
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 215.91176895891306
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:06.883+01:00",
+    "end": "2026-10-31T19:49:08.881+01:00",
+    "elapsed_seconds": 1.9983782999916002,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.773,
+      "prompt_per_token_ms": 0.3505111111111111,
+      "prompt_per_second": 2852.976605591834,
+      "predicted_n": 400,
+      "predicted_ms": 1955.898,
+      "predicted_per_token_ms": 4.902,
+      "predicted_per_second": 203.9983680130559
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 200.16230160309553
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:08.883+01:00",
+    "end": "2026-10-31T19:49:10.810+01:00",
+    "elapsed_seconds": 1.9276503000874072,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.419,
+      "prompt_per_token_ms": 0.3426444444444445,
+      "prompt_per_second": 2918.4772034502885,
+      "predicted_n": 400,
+      "predicted_ms": 1885.157,
+      "predicted_per_token_ms": 4.724704260651629,
+      "predicted_per_second": 211.6534591018149
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 207.50651712183605
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:10.812+01:00",
+    "end": "2026-10-31T19:49:12.899+01:00",
+    "elapsed_seconds": 2.0859237000113353,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.783,
+      "prompt_per_token_ms": 0.35073333333333334,
+      "prompt_per_second": 2851.1689792815055,
+      "predicted_n": 400,
+      "predicted_ms": 2050.977,
+      "predicted_per_token_ms": 5.140293233082707,
+      "predicted_per_second": 194.5414307425193
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 191.76156826725077
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:12.902+01:00",
+    "end": "2026-10-31T19:49:14.797+01:00",
+    "elapsed_seconds": 1.8960916000651196,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.142,
+      "prompt_per_token_ms": 0.3364888888888889,
+      "prompt_per_second": 2971.8663320565315,
+      "predicted_n": 400,
+      "predicted_ms": 1877.972,
+      "predicted_per_token_ms": 4.706696741854636,
+      "predicted_per_second": 212.46323161367687
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 210.9602721652595
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:14.799+01:00",
+    "end": "2026-10-31T19:49:16.669+01:00",
+    "elapsed_seconds": 1.8702773000113666,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.303,
+      "prompt_per_token_ms": 0.3178444444444445,
+      "prompt_per_second": 3146.193106341327,
+      "predicted_n": 400,
+      "predicted_ms": 1831.784,
+      "predicted_per_token_ms": 4.590937343358396,
+      "predicted_per_second": 217.82044171146816
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 213.8720284941538
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:16.671+01:00",
+    "end": "2026-10-31T19:49:18.644+01:00",
+    "elapsed_seconds": 1.972593699931167,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.49,
+      "prompt_per_token_ms": 0.3442222222222222,
+      "prompt_per_second": 2905.100064557779,
+      "predicted_n": 400,
+      "predicted_ms": 1935.49,
+      "predicted_per_token_ms": 4.850852130325815,
+      "predicted_per_second": 206.1493471937339
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 202.77870704644238
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:18.645+01:00",
+    "end": "2026-10-31T19:49:20.564+01:00",
+    "elapsed_seconds": 1.9177672999212518,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.193,
+      "prompt_per_token_ms": 0.3376222222222222,
+      "prompt_per_second": 2961.890344237478,
+      "predicted_n": 400,
+      "predicted_ms": 1888.631,
+      "predicted_per_token_ms": 4.7334110275689225,
+      "predicted_per_second": 211.2641378861196
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 208.57587884433372
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:20.566+01:00",
+    "end": "2026-10-31T19:49:22.448+01:00",
+    "elapsed_seconds": 1.8815150998998433,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.779,
+      "prompt_per_token_ms": 0.3284222222222222,
+      "prompt_per_second": 3044.860951349888,
+      "predicted_n": 400,
+      "predicted_ms": 1843.454,
+      "predicted_per_token_ms": 4.620185463659148,
+      "predicted_per_second": 216.44152769746356
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 212.5946265439447
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:22.450+01:00",
+    "end": "2026-10-31T19:49:24.373+01:00",
+    "elapsed_seconds": 1.9232986000133678,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 16.404,
+      "prompt_per_token_ms": 0.3645333333333333,
+      "prompt_per_second": 2743.2333577176296,
+      "predicted_n": 400,
+      "predicted_ms": 1904.144,
+      "predicted_per_token_ms": 4.772290726817043,
+      "predicted_per_second": 209.54297574133048
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 207.9760261860638
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:24.375+01:00",
+    "end": "2026-10-31T19:49:26.291+01:00",
+    "elapsed_seconds": 1.9167100000195205,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.403,
+      "prompt_per_token_ms": 0.3422888888888889,
+      "prompt_per_second": 2921.5087969875995,
+      "predicted_n": 400,
+      "predicted_ms": 1898.917,
+      "predicted_per_token_ms": 4.759190476190476,
+      "predicted_per_second": 210.11976826791272
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 208.69093394197674
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:26.295+01:00",
+    "end": "2026-10-31T19:49:28.242+01:00",
+    "elapsed_seconds": 1.9472178999567404,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.297,
+      "prompt_per_token_ms": 0.33993333333333337,
+      "prompt_per_second": 2941.7532849578347,
+      "predicted_n": 400,
+      "predicted_ms": 1929.526,
+      "predicted_per_token_ms": 4.835904761904762,
+      "predicted_per_second": 206.7865372117297
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 205.42128336478748
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:28.244+01:00",
+    "end": "2026-10-31T19:49:30.100+01:00",
+    "elapsed_seconds": 1.8559379000216722,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.488,
+      "prompt_per_token_ms": 0.32195555555555555,
+      "prompt_per_second": 3106.018774157924,
+      "predicted_n": 400,
+      "predicted_ms": 1838.776,
+      "predicted_per_token_ms": 4.608461152882206,
+      "predicted_per_second": 216.99217305424912
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 215.52445262060175
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:30.102+01:00",
+    "end": "2026-10-31T19:49:32.128+01:00",
+    "elapsed_seconds": 2.025924100074917,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.466,
+      "prompt_per_token_ms": 0.3436888888888889,
+      "prompt_per_second": 2909.608172766068,
+      "predicted_n": 400,
+      "predicted_ms": 1990.707,
+      "predicted_per_token_ms": 4.989240601503759,
+      "predicted_per_second": 200.43130405428823
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 197.44076295119265
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:32.130+01:00",
+    "end": "2026-10-31T19:49:34.027+01:00",
+    "elapsed_seconds": 1.896467800019309,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.873,
+      "prompt_per_token_ms": 0.35273333333333334,
+      "prompt_per_second": 2835.002835002835,
+      "predicted_n": 400,
+      "predicted_ms": 1877.81,
+      "predicted_per_token_ms": 4.706290726817042,
+      "predicted_per_second": 212.481560967297
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 210.91842423896014
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:34.029+01:00",
+    "end": "2026-10-31T19:49:35.983+01:00",
+    "elapsed_seconds": 1.953782399999909,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 16.621,
+      "prompt_per_token_ms": 0.36935555555555555,
+      "prompt_per_second": 2707.418326213826,
+      "predicted_n": 400,
+      "predicted_ms": 1912.62,
+      "predicted_per_token_ms": 4.793533834586466,
+      "predicted_per_second": 208.6143614518305
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 204.7310898081683
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:35.988+01:00",
+    "end": "2026-10-31T19:49:37.860+01:00",
+    "elapsed_seconds": 1.8722336000064388,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 16.048,
+      "prompt_per_token_ms": 0.3566222222222222,
+      "prompt_per_second": 2804.0877367896314,
+      "predicted_n": 400,
+      "predicted_ms": 1852.416,
+      "predicted_per_token_ms": 4.642646616541353,
+      "predicted_per_second": 215.3943822553897
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 213.648553256722
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:37.862+01:00",
+    "end": "2026-10-31T19:49:39.730+01:00",
+    "elapsed_seconds": 1.8674708999460563,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.993,
+      "prompt_per_token_ms": 0.3554,
+      "prompt_per_second": 2813.7310073157005,
+      "predicted_n": 400,
+      "predicted_ms": 1829.468,
+      "predicted_per_token_ms": 4.585132832080201,
+      "predicted_per_second": 218.09618971198185
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 214.19343134693793
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:39.732+01:00",
+    "end": "2026-10-31T19:49:41.701+01:00",
+    "elapsed_seconds": 1.968555900035426,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.093,
+      "prompt_per_token_ms": 0.3354,
+      "prompt_per_second": 2981.514609421586,
+      "predicted_n": 400,
+      "predicted_ms": 1935.911,
+      "predicted_per_token_ms": 4.851907268170426,
+      "predicted_per_second": 206.1045161683569
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 203.19463622689182
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:41.703+01:00",
+    "end": "2026-10-31T19:49:43.575+01:00",
+    "elapsed_seconds": 1.871773699996993,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.34,
+      "prompt_per_token_ms": 0.3408888888888889,
+      "prompt_per_second": 2933.5071707953066,
+      "predicted_n": 400,
+      "predicted_ms": 1835.784,
+      "predicted_per_token_ms": 4.600962406015038,
+      "predicted_per_second": 217.34583153573624
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 213.7010473010934
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:43.578+01:00",
+    "end": "2026-10-31T19:49:45.500+01:00",
+    "elapsed_seconds": 1.9219317000824958,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.802,
+      "prompt_per_token_ms": 0.35115555555555555,
+      "prompt_per_second": 2847.7407923047717,
+      "predicted_n": 400,
+      "predicted_ms": 1903.784,
+      "predicted_per_token_ms": 4.7713884711779455,
+      "predicted_per_second": 209.5825997066894
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 208.12394112799672
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:45.502+01:00",
+    "end": "2026-10-31T19:49:47.407+01:00",
+    "elapsed_seconds": 1.9053374999202788,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 17.606,
+      "prompt_per_token_ms": 0.3912444444444445,
+      "prompt_per_second": 2555.9468363058045,
+      "predicted_n": 400,
+      "predicted_ms": 1863.092,
+      "predicted_per_token_ms": 4.66940350877193,
+      "predicted_per_second": 214.16011662333366
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 209.93655980462066
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:47.410+01:00",
+    "end": "2026-10-31T19:49:49.284+01:00",
+    "elapsed_seconds": 1.8729857000289485,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.553,
+      "prompt_per_token_ms": 0.3456222222222222,
+      "prompt_per_second": 2893.332476049637,
+      "predicted_n": 400,
+      "predicted_ms": 1854.831,
+      "predicted_per_token_ms": 4.648699248120301,
+      "predicted_per_second": 215.11393760401893
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 213.56276238191123
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:49.287+01:00",
+    "end": "2026-10-31T19:49:51.298+01:00",
+    "elapsed_seconds": 2.0115758999018,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.878,
+      "prompt_per_token_ms": 0.35284444444444446,
+      "prompt_per_second": 2834.1100894319184,
+      "predicted_n": 400,
+      "predicted_ms": 1977.083,
+      "predicted_per_token_ms": 4.955095238095239,
+      "predicted_per_second": 201.81246816648564
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 198.8490715262233
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:51.300+01:00",
+    "end": "2026-10-31T19:49:53.247+01:00",
+    "elapsed_seconds": 1.9465211000060663,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 16.621,
+      "prompt_per_token_ms": 0.36935555555555555,
+      "prompt_per_second": 2707.418326213826,
+      "predicted_n": 400,
+      "predicted_ms": 1910.95,
+      "predicted_per_token_ms": 4.789348370927319,
+      "predicted_per_second": 208.7966718124493
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 205.4948184218262
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:53.251+01:00",
+    "end": "2026-10-31T19:49:55.121+01:00",
+    "elapsed_seconds": 1.8706586000043899,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.249,
+      "prompt_per_token_ms": 0.3388666666666667,
+      "prompt_per_second": 2951.013181192209,
+      "predicted_n": 400,
+      "predicted_ms": 1852.87,
+      "predicted_per_token_ms": 4.643784461152882,
+      "predicted_per_second": 215.34160518546904
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 213.82843454121522
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:55.124+01:00",
+    "end": "2026-10-31T19:49:57.061+01:00",
+    "elapsed_seconds": 1.9374310999410227,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.476,
+      "prompt_per_token_ms": 0.3216888888888889,
+      "prompt_per_second": 3108.5935341254485,
+      "predicted_n": 400,
+      "predicted_ms": 1920.677,
+      "predicted_per_token_ms": 4.813726817042606,
+      "predicted_per_second": 207.7392502747729
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 206.45895485634375
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:57.064+01:00",
+    "end": "2026-10-31T19:49:58.973+01:00",
+    "elapsed_seconds": 1.9089345999527723,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 16.04,
+      "prompt_per_token_ms": 0.35644444444444445,
+      "prompt_per_second": 2805.4862842892767,
+      "predicted_n": 400,
+      "predicted_ms": 1871.864,
+      "predicted_per_token_ms": 4.6913884711779446,
+      "predicted_per_second": 213.1565113704842
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 209.5409659450335
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:49:58.976+01:00",
+    "end": "2026-10-31T19:50:00.955+01:00",
+    "elapsed_seconds": 1.9792097999015823,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.433,
+      "prompt_per_token_ms": 0.34295555555555557,
+      "prompt_per_second": 2915.829715544612,
+      "predicted_n": 400,
+      "predicted_ms": 1960.981,
+      "predicted_per_token_ms": 4.914739348370928,
+      "predicted_per_second": 203.46958996543057
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 202.10085864565258
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:50:00.961+01:00",
+    "end": "2026-10-31T19:50:02.864+01:00",
+    "elapsed_seconds": 1.9034908999456093,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.083,
+      "prompt_per_token_ms": 0.3351777777777778,
+      "prompt_per_second": 2983.491347875091,
+      "predicted_n": 400,
+      "predicted_ms": 1872.137,
+      "predicted_per_token_ms": 4.692072681704261,
+      "predicted_per_second": 213.1254283206838
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 210.14022184788467
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:50:02.867+01:00",
+    "end": "2026-10-31T19:50:04.789+01:00",
+    "elapsed_seconds": 1.9221048998879269,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.836,
+      "prompt_per_token_ms": 0.3296888888888889,
+      "prompt_per_second": 3033.1625775141547,
+      "predicted_n": 400,
+      "predicted_ms": 1881.309,
+      "predicted_per_token_ms": 4.7150601503759395,
+      "predicted_per_second": 212.0863717762473
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 208.10518719520616
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:50:04.792+01:00",
+    "end": "2026-10-31T19:50:06.792+01:00",
+    "elapsed_seconds": 1.9992017999757081,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.475,
+      "prompt_per_token_ms": 0.34388888888888886,
+      "prompt_per_second": 2907.9159935379644,
+      "predicted_n": 400,
+      "predicted_ms": 1968.27,
+      "predicted_per_token_ms": 4.933007518796993,
+      "predicted_per_second": 202.71609078022834
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 200.079851871312
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:50:06.795+01:00",
+    "end": "2026-10-31T19:50:08.704+01:00",
+    "elapsed_seconds": 1.9092977999243885,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.435,
+      "prompt_per_token_ms": 0.343,
+      "prompt_per_second": 2915.4518950437314,
+      "predicted_n": 400,
+      "predicted_ms": 1891.392,
+      "predicted_per_token_ms": 4.74033082706767,
+      "predicted_per_second": 210.95574053395592
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 209.50110559800606
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:50:08.707+01:00",
+    "end": "2026-10-31T19:50:10.611+01:00",
+    "elapsed_seconds": 1.9050791000481695,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 14.682,
+      "prompt_per_token_ms": 0.32626666666666665,
+      "prompt_per_second": 3064.9775234981607,
+      "predicted_n": 400,
+      "predicted_ms": 1869.361,
+      "predicted_per_token_ms": 4.685115288220552,
+      "predicted_per_second": 213.44191945803937
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 209.9650350423172
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:50:10.617+01:00",
+    "end": "2026-10-31T19:50:12.613+01:00",
+    "elapsed_seconds": 1.9944802999962121,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.916,
+      "prompt_per_token_ms": 0.3536888888888889,
+      "prompt_per_second": 2827.3435536566976,
+      "predicted_n": 400,
+      "predicted_ms": 1975.441,
+      "predicted_per_token_ms": 4.950979949874687,
+      "predicted_per_second": 201.9802160631474
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 200.5534975706502
+  },
+  {
+    "phase": "B-GPU-Text",
+    "start": "2026-10-31T19:50:12.616+01:00",
+    "end": "2026-10-31T19:50:14.562+01:00",
+    "elapsed_seconds": 1.9466091999784112,
+    "usage": {
+      "completion_tokens": 400,
+      "prompt_tokens": 45,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      }
+    },
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 45,
+      "prompt_ms": 15.482,
+      "prompt_per_token_ms": 0.34404444444444443,
+      "prompt_per_second": 2906.601214313396,
+      "predicted_n": 400,
+      "predicted_ms": 1915.598,
+      "predicted_per_token_ms": 4.800997493734336,
+      "predicted_per_second": 208.29004832955556
+    },
+    "content": "The Evolution of Quiet, Efficient Computers: A Journey to Power and Performance\n\nIn the world of computing, efficiency has become a crucial factor in determining the performance and power consumption of a device. Over the years, the development of quiet, efficient computers has been a significant milestone in the evolution of technology. From the early days of desktops to the modern era of laptops and all-in-one desktops, these machines have undergone significant transformations to become more energy-efficient and quiet.\n\nThe quest for quiet computing began in the 1980s, when the first personal computers were introduced. These early machines were known for their loud fans and humming motors, which made them a nuisance to those around them. However, as technology advanced, manufacturers began to focus on reducing noise levels and increasing efficiency. One of the pioneers in this field was the IBM PC, released in 1981. The IBM PC was designed to be quiet and efficient, with a 5.25-inch floppy disk drive and a 16 MHz Intel 8088 processor.\n\nThe IBM PC's success paved the way for the development of more efficient computers. The introduction of the 386 processor in 1989 marked a significant improvement in performance and efficiency. The 386 processor was designed to be more power-efficient than its predecessor, the 8088, and it quickly became the standard for the industry. The 386 processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe 386 processor was a major breakthrough in computer design, and it paved the way for the development of more efficient computers. The introduction of the Pentium processor in 1993 marked another significant improvement in performance and efficiency. The Pentium processor was designed to be more power-efficient than its predecessor, the 386, and it quickly became the standard for the industry. The Pentium processor was also more efficient in terms of power consumption, with a lower power draw than its predecessor.\n\nThe Pentium processor was a major breakthrough",
+    "wall_output_tokens_per_second": 205.48551810216256
+  }
+]

@@ -1,0 +1,20 @@
+SOURCE EVIDENCE AND LIMITS
+
+KREA 2 LOKR
+- Separate Krea 2 model family; existing FLUX or MOSS adapters are not interchangeable with it.
+- Community example: 40 source photographs, 1536-pixel training, RAW training and Turbo inference, as reported by the author.
+- Ten intentionally different concert outfits, rather than one outfit held constant across weather and lighting.
+- Author-reported checkpoint and method preferences are subjective source observations. There is no controlled multi-checkpoint or LoKr-versus-LoRA test from us.
+- The supplied workflow uses a model-only adapter loader; do not infer a demonstrated CLIP-strength adjustment from prose alone.
+- No local Krea training, performance measurement or costume-stability result is claimed.
+
+YELLOW TINT REMOVER / COLOUR CAST FIX
+- Neutral public label for the colour-edit adapter by Halodri. It is for FLUX3 Klein Base, not the distilled SD setup used in the separate MOSS-versus-FLUX film.
+- Author intends yellow-cast editing while preserving image content. That goal is not our measured result.
+- Author describes a small dataset, incomplete correction on some images, possible residual cast and little benefit from repeating the same settings.
+- Input and output require matching crop/resolution for aligned edits. Do not stretch an arbitrary source to fit.
+- No complete original-author sampling/strength recipe was established in this research. Our 0-versus-1 adapter strength and Base sampling recipe are test settings.
+- One warm-lit image without neutral colour ground truth cannot establish general colour accuracy. Skin, costume, metal and lighting require separate assessment.
+
+SCOPE AND ATTRIBUTION
+The source links identify each original project. This companion redistributes no model weights and grants no additional rights in those projects. Base-model, adapter and service terms remain separate. Local availability, source permission flags and output-use terms are not interchangeable.

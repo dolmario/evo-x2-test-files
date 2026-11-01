@@ -1,0 +1,19 @@
+MOSS Image / FLUX3 Klein SD local comparison · 1 November 2026
+
+Hardware: GMKtec EVO-X2, AMD Strix Halo / Ryzen AI Max+ 395, 64 GB shared memory, Windows. Inference used the integrated Radeon GPU.
+Scope: Ten fresh square 1024 x 1024 images, two seed numbers (11 and 22), one historical captain-and-airship text scene. No identity LoRA or reference-image conditioning. The private prompt and pictures are excluded from this package.
+
+MOSS SFT: 25 ER-SDE steps, CFG 2.5, skip-layer guidance layer 22 in the first half; Qwen3.5-9B int8 convrot text encoder, full Flux2 VAE. Destripe pair: identical recipe, add only Destripe strength 1.5.
+MOSS IDM: v1 export 750, two steps, strength 1, existing RapidMOSS adapter workflow, unmerged FP32 adapter/time path, BF16 SFT base, time embedding and dataspace. Do not substitute the later v2 edit continuation.
+FLUX3 Klein SD BF16: Qwen3VL-4B text encoder, Flux3 VAE, Euler/simple, CFG 1, four or sixteen steps. This is SD, not the Klein Base model used for separate character-training investigations.
+
+Timing: wall time from submitting a generation request to the saved image. The first SFT, IDM and four-step FLUX requests include model loading/initialisation. Seed-22 runs are warm. There is only one warm observation per profile; no repeated-scene distribution or general hardware-speed ranking is established. The first sixteen-step FLUX request follows a four-step request using the same loaded model.
+
+Comparability: Prompt text, output size and seed labels are shared. Architectures, text encoders, VAEs and supported sampling recipes differ. A common seed number is not identical noise across architectures. This is a comparison of practical model recipes, not an isolated step-count ablation across all families.
+
+Archive: Fourteen preserved 16-20 October outputs cover FLUX16, MOSS SFT50/SFT25, Rapid4, DMD8 and Kromoss4/8. They provide visual context only. Kromoss used a smaller VAE. Archive timings are excluded from the fresh timing table.
+
+Observations: IDM produces elaborate scenes in both two-step samples. In the first FLUX pair, face and fabric appear finer with sixteen steps; other details/composition also change. Destripe largely preserves composition, without a large visible overall jump in these two pairs. No overall quality, identity or motion-stability winner follows from this small set. The film displays cropped upper-body/detail views; all source files remain preserved locally.
+
+Not tested in this comparison: Primal VAE, PiD, new Base-DMD2, photographic reference editing, identity training, character movement or a resolution maximum.
+Technical checks and model viewing are not full human hearing/viewing approval or permission to publish private images.

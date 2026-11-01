@@ -1,0 +1,10 @@
+Source links checked as model-author/original project pages on 1 November 2026:
+https://github.com/OpenMOSS/MOSS-Image
+https://huggingface.co/akhaliq/MOSS-Image-IDM-2-Steps
+https://huggingface.co/nynxz/MOSS-Image
+
+Adapter revisions used in the saved local comparison:
+IDM: 24737b181dd49246324d18a3c1bc170c1ff2e09d, runs/idm/export/000750
+Destripe: 59d3547a788ca6ebc4f5005a82d461904628df26
+
+These are model/adapter sources. No public Dolmario companion repository or ZIP link has been created for this film.

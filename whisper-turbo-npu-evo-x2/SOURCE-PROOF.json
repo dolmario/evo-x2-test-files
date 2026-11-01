@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "path": "<local-path>/Bella_en-lang.wav",
+      "bytes": 1336364,
+      "sha256": "ff456b36ba230ce5debf196c8d6356e8c54a69c64695c4dee3211085434ca348"
+    },
+    {
+      "path": "<local-path>/German_de-lang.wav",
+      "bytes": 1401644,
+      "sha256": "97b2fcb255f58585decb570ac21415b5a2aaf09ed8affd753ecaf1f4dfc9e74c"
+    },
+    {
+      "path": "<local-path>/en-lang.json",
+      "bytes": 378,
+      "sha256": "75b9d5fe3b2195e006e91a6f16b9d18b86eae92c083908e6d27eda95cfe3aed0"
+    },
+    {
+      "path": "<local-path>/de-lang.json",
+      "bytes": 420,
+      "sha256": "6dac9260062c9dc655cbf811ae9d85d07aff749b0c6e81cbee94f2da6f4bfe81"
+    },
+    {
+      "path": "<local-path>/LIESMICH.txt",
+      "bytes": 1658,
+      "sha256": "11a4f94f1d27d07ad034f8b049be2362410378259eb9877ab5bc278370ae634a"
+    },
+    {
+      "path": "<local-path>/moderatorin.png",
+      "bytes": 1913057,
+      "sha256": "439a070f95865a6db644e14d592c9f8c6294eeb44c14b2cf6530175ccbca7a9e"
+    },
+    {
+      "path": "<local-path>/lama150.png",
+      "bytes": 32024,
+      "sha256": "dfc36fc75f91523704c23d8fcea72df0fb98aed8fe16b74653f1c0453ff5a5c1"
+    },
+    {
+      "path": "<local-path>/REQUESTS.json",
+      "bytes": 138977,
+      "sha256": "87e162698121bfce2a06b38681e7ac15dd8b2dab9aba9e66b0a369fe520f480d"
+    }
+  ],
+  "read_only_cpu_preparation": true,
+  "new_model_runs": false,
+  "saved_result_replay_not_original_app_recording": true,
+  "original_audio_excerpt_silence_boundaries": {
+    "en_silence": [
+      7.406125,
+      8.045792
+    ],
+    "de_silence": [
+      7.290458,
+      8.137
+    ]
+  },
+  "sample_clip_seconds": 7.8,
+  "title_speed": "5.8x is sustained phase C, not opening single request",
+  "full_human_hearing_viewing": "pending",
+  "publication_approved": false
+}

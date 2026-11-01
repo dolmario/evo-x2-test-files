@@ -1,0 +1,15 @@
+Whisper Turbo: recorded files on the EVO-X2
+Test date: 31 October 2026. Package preparation: 1 November 2026.
+Hardware: GMKtec EVO-X2, AMD Strix Halo / Ryzen AI Max+395, 64GB unified memory, Windows.
+ASR: FastFlowLM1.0.11, whisper-v3:turbo, XDNA2 NPU. Local /v1/audio/transcriptions endpoint; prerecorded synthetic English/German voice-test files with known text. The two JSON transcript files are saved raw endpoint responses, not invented retyped answers. Full source WAV hashes are supplied separately; voice reference audio is not redistributed in this companion.
+
+The opening English sample lasts27.84s, reported as27.8s in the protocol. Its request took9.62s (~2.9x real time). German29.2s/11.31s (~2.6x). All request durations are protocol-reported wall times including file upload. The separate longer repeated-file phase is reported as~5.8x real time. Its original per-request timing log was not supplied. Do not merge it with the single-request measurement or treat it as a speedup over GPU/CPU ASR. No GPU/CPU ASR comparison was performed here.
+
+NPU sensor phases: idle A, NPU Llama B, NPU Whisper C, artificial CPU stress D. Original phase CSV and exact means included. First5s of each phase were excluded in the existing analysis. HWiNFO CPU-Gesamt means APU processor-package power, not wall power or isolated NPU/GPU power. Whisper phaseC means:35.629636W package, GPU3.863636%, NPU50.320455%, CPU6.563636%. Idle phaseA22.360607W. Do not turn package watts into household energy costs or an isolated NPU watt claim.
+
+Chat comparison: same Meta Llama3.2-1B-Instruct base model and essay prompt. FastFlowLM q4nx vs llama.cpp GGUFQ4_K_M are different layouts/quantisations/runtimes. NPU software ran with router/Qwen/BGE loaded; GPU measurement used its required service-pause wrapper. Each uses its own idle baseline. GPU44 complete stable-window requests,17600 output tokens; backend decode211.638995tokens/s, complete-request output208.4339tokens/s approximately. NPU sustained protocol~62.6tokens/s. GPU package85.859349W, own idle18.107321W; NPU package42.107W, own idle22.360607W. These data show faster GPU output and a lower NPU package reading in these two setups, not an isolated hardware energy-efficiency winner.
+
+Transcript discrepancies include audio books/audiobooks and Haus-Assistenten/Hausassistenten. Original reported unnormalised word error rates are sensitive to tokenisation; no normalised WER or real noisy-meeting score is claimed. The search/correction display in the film is an explicitly labelled saved-result replay, not an original app screen capture or live transcription recording.
+
+Official project: https://github.com/ROCm/FastFlowLM
+No new install, benchmark inference, training, upload or publication was performed by preparation of this companion. Native processing, technical video QA and human approval are separate steps.

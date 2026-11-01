@@ -1,0 +1,23 @@
+PRIMARY SOURCES
+Reviewed 1 November 2026. Links identify source material, not a blanket licence grant.
+
+Krea 2 LoKr author’s wardrobe example:
+https://www.reddit.com/r/StableDiffusion/comments/1xkldof/i_trained_a_1536px_krea_2_lokr_to_test_wardrobe/
+
+Krea 2 official project:
+https://github.com/krea-ai/krea-2
+
+Krea 2 RAW model:
+https://huggingface.co/krea/Krea-2-Raw
+
+Colour adapter by Halodri — neutral channel label Yellow Tint Remover:
+https://civitai.com/models/3028743?modelVersionId=3440204
+
+Colour adapter version metadata:
+https://civitai.com/api/v1/model-versions/3440204
+
+FLUX3 Klein Base official model:
+https://huggingface.co/black-forest-labs/flux-3-image-klein-base
+
+FLUX3 Klein Base licence:
+https://huggingface.co/black-forest-labs/flux-3-image-klein-base/blob/main/LICENSE.md

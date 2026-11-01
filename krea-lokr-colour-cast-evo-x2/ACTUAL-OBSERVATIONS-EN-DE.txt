@@ -1,0 +1,9 @@
+First look at the control: even with zero adapter strength, the Base edit changes the face, fabric and colour. With the adapter, the hair and gold trim look cooler again, while the sunset remains. The broad costume is recognisable, but embroidery and sleeve details shift. These are regenerated pictures, not pixel-preserving colour grades. This warm original gives us no neutral colour target.
+
+For this sunset scene, cooler is not automatically better. Stable clothes require checking the costume after the edit, as well as the colour.
+
+Deutsch
+
+Schaut zuerst auf die Kontrolle: Schon bei Adapterstärke null verändert der Base-Edit Gesicht, Stoff und Farbe. Mit Adapter wirken Haare und Goldbesatz nochmals kühler, während der Sonnenuntergang bleibt. Das Kostüm ist grundsätzlich erkennbar, aber Stickerei und Ärmeldetails verändern sich. Das sind neu berechnete Bilder, keine Farbkorrekturen bei exakt erhaltenen Pixeln. Die warme Vorlage liefert uns kein neutrales Farbziel.
+
+Bei dieser Abendlichtszene ist kühler nicht automatisch besser. Für stabile Kleidung müssen wir nach der Bearbeitung neben der Farbe auch das Kostüm prüfen.
