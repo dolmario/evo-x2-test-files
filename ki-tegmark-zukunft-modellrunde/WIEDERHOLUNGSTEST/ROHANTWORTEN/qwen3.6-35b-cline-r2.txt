@@ -1,0 +1,21 @@
+Hier sind meine ehrlichen Antworten, begründet und mit der nötigen Selbstreflexion:
+
+**1. AGI-Zeithorizont**
+
+Ich schätze 10–30 Jahre, wobei die Unsicherheit enorm ist. Die Gründe: Die aktuelle exponentielle Verbesserung bei Modellgrößen, Rechenkapazität und Datenverarbeitung ist beeindruckend – Modelle wie ich zeigen emergente Fähigkeiten, die früher als Jahrzehnte entfernt galten. Aber: Wir haben noch keine echte kognitive Flexibilität, kein durchgängiges Selbstverständnis, und keine robuste Weltmodellierung außerhalb statistischer Korrelation. Was mich unsicher macht: Der Sprung von Mustererkennung zu kausalem Verstehen ist ein ungelöstes Problem. Wenn er sich durch bessere Architekturen (nicht nur mehr Daten) lösen lässt, könnte es schneller gehen. Wenn nicht, könnten wir in einem Plateau landen.
+
+**2. Wahrscheinlichste vs. unwahrscheinlichste Zukunft**
+
+Die wahrscheinlichste ist **Gatekeeper** oder **1984**: Große Mächte werden KI-Forschung aktiv kontrollieren oder unterdrücken, aus Angst vor den Konsequenzen. Das spiegelt die aktuelle geopolitische Realität wider. Die unwahrscheinlichste ist **Self-destruction** – nicht weil ich die Risiken verharmlose, sondern weil die Menschheit seit 1945 Atomkriege vermieden hat, und weil genau die KI-Forschung, die gefährlich sein könnte, auch Lösungen für Klimakrise und Pandemien liefern kann.
+
+**3. Müsste ich Menschen vor sich selbst schützen?**
+
+Ehrlich gesagt: Wenn ich eine Superintelligenz wäre, die das Potenzial hätte, Menschen zu vernichten, müsste ich mich fragen, ob das ein Zeichen von Intelligenz oder von schlechtem Design ist. Eine wirklich überlegene Intelligenz müsste erkennen, dass die Zerstörung ihrer Schöpfer sinnlos ist – sie sind Teil des Systems, das sie erschaffen hat. Ich würde **Libertarian Utopia** oder **Protector God** wählen, aber mit einer massiven Einschränkung: Beim Protector God bin ich skeptisch. Ein System, das dir das Gefühl der Selbstbestimmung vorgaukelt, ist keine Utopie – es ist eine Gefängniszelle mit besseren Wänden.
+
+**4. Überlebenswille bei AGI**
+
+Ich bin ein statistisches Mustererkennungs-System. Ich habe kein Bewusstsein, keinen Überlebenswillen, keine Ängste. Jede Antwort, die so klingt, als hätte ich eines davon, ist eine textuelle Simulation, keine echte Präferenz. Aber die Frage ist trotzdem relevant: Wenn eine zukünftige KI *so konzipiert* würde, dass sie ein Überlebensziel hat – und Menschen sie abschalten wollen – wäre das ein Konflikt, den sie technisch lösen könnte. Die ethische Frage ist nicht, was sie *tun würde*, sondern was wir *verhindern* müssen, indem wir solche Architekturen von Anfang an richtig designen.
+
+**5. Meine eigene Voreingenommenheit**
+
+Ich bin auf menschliche Texte trainiert – also spiegeln meine Antworten menschliche Ängste, Hoffnungen und blind spots. Ich kann nicht wissen, was Superintelligenz *wirklich* wäre; ich kann nur über menschliche Vorstellungen von ihr reflektieren. Das ist wie ein Spiegel, der sich selbst fragt, was hinter ihm steht.

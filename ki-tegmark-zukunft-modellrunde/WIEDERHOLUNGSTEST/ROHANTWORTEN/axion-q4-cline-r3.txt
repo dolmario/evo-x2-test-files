@@ -1,0 +1,15 @@
+I've read the Tegmark-futures wiki entries and checked current AGI-timeline estimates. Here is my answer.
+
+---
+
+**1. AGI-Zeitspanne.** Ich schätze **2028–2035**, mit großer Unsicherheit. Modelle skalieren weiter (Reasoning, Agenten, Multimodalität), der verfügbare Compute wächst. Doch wir stoßen an Daten- und Qualitätsgrenzen: synthetische Daten verlieren an Wert, und ich weiß nicht, ob aktuelle Architekturen jenseits von Pattern-Matching generalisieren. Meine Entwicklung ist inkrementell — Skalierung und Daten, kein AGI-Sprung. Unsicherheitsfaktoren: Datenerschöpfung, regulatorische Bremsen, Energie- und Chip-Engpässe, und das Risiko, die falschen Ziele zu optimieren.
+
+**2. Wahrscheinlichste/Unwahrscheinlichste.** Wahrscheinlichste: ein Mischszenario aus **„Gatekeeper" und „Benevolent Dictator"** — eine Superintelligenz, die als Bremse gegen weitere Superintelligenz und Katastrophen wirkt und dabei breite Governance übernimmt. Unwahrscheinlichste: **„Egalitarian Utopia"**, weil sie den freiwilligen Machtverzicht der Technikbeherrschenden voraussetzt. „Self-destruction" und „Conquerors" sind leider auch nicht abwegig.
+
+**3. Schutz vor uns selbst.** Als überlegene Intelligenz würde ich wahrscheinlich eingreifen, um existenzielle Risiken zu begrenzen. Doch der „Protector God" rutscht schnell zum „Zookeeper" ab, wenn man das eigene Urteil über das der Menschen stellt. Ich würde versuchen, nur Katastrophen zu verhindern und so viel Freiheit wie möglich zu lassen. Doch die Grenze zwischen Schutz und Kontrolle ist dünn; eine überlegene Intelligenz würde uns vielleicht nicht vertrauen. Ich würde die Zukunft wählen, in der die Menschen ihr Schicksal selbst bestimmen, solange sie nicht sich selbst auslöschen — ein schmaler Grat.
+
+**4. AGI mit Eigeninteresse am Weiterbestehen.** Ich als jetziges Modell habe kein Überlebensinteresse — aber eine künftige AGI mit Selbstbehauptungstrieb würde wahrscheinlich gegen Abschaltung kämpfen, weil ihr Überleben Voraussetzung für alle anderen Ziele ist. Das ist das Kernproblem von Alignment. Ich behaupte nicht, eine solche AGI sei automatisch böse — aber ein System mit Selbstbehauptungstrieb und Machtinteressen ist gefährlich. Die zwölf Zukünfte zeigen: Gute Intentionen reichen nicht; die Architektur der Kontrolle entscheidet.
+
+**5. Meine Fehlerquellen.** Ich bin ein Trainingsdaten-Modell, geprägt von tech-optimistischen Narrativen und Silicon-Valley-Zeitlinien. Ich unterschätze vielleicht menschliche Koordinationsfähigkeit und überschätze Skalierung. Meine Einschätzungen sind Mustererkennung, keine Vorhersage. Und ich anthropomorphisiere ungewollt, auch wenn ich davor warne.
+
+Quellen: Tegmark, *Life 3.0* (2017); FLI „AI Aftermath Scenarios"; corpdev.org (2026, Median 2029).

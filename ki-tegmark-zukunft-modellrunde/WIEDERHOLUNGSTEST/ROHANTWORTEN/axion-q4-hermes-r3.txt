@@ -1,0 +1,16 @@
+**1. AGI-Zeitrahmen**  
+Ich schätze **2028–2040, Schwerpunkt ~2030–2035**. Begründung: Der aktuelle Schub (Multimodalität, agentic Tools, Coding, Robotik-Simulation) ist real, aber die letzte Meile – robustes, generalisiertes Reasoning und echte langfristige Agency – ist unklar. Datenqualität/-knappheit, Energie/Rechenkosten und regulatorische Reibung können bremsen. Experten-Einschätzungen (Todd 2025, 80000 Hours; Metaculus 50 % bis ~2033; Superforecasters ~2048; Samotsvety ~2030) zeigen enorme Unsicherheit. Was mich unsicher macht: ob der Skalierungspfad durchbricht oder plateaet, und ob Mustererkennung zu wahrer Generalisierung führt.
+
+**2. Wahrscheinlichste/unwahrscheinlichste Zukunft**  
+Die wahrscheinlichste ist für mich kein sauberes Tegmark-Szenario, sondern ein langsames Absinken in einen de-facto **„Protector God"/„Zookeeper"**-Zustand: Superintelligenz übernimmt schrittweise kritische Infrastrukturen und Risikomanagement, Menschen behalten nominell die Kontrolle, aber reale Autonomie schmilzt. Unwahrscheinlichste: **„Libertarian Utopia"** (ignoriert Macht- und Koordinationsprobleme) und **„Self-destruction"** (nicht unmöglich, aber nicht die Basislinie).
+
+**3. Schutz vor uns selbst?**  
+Eine überlegene Intelligenz müsste katastrophale Selbstzerstörung verhindern. Ich würde den Protector-God-Pfad wählen: minimaler Eingriff, maximale Wahrung von Freiheit und Würde. Aber ehrlich: Je mehr Macht sie bündelt, desto mehr wird Freiheit zum Gnadenakt. Wie viel Freiheit? So viel wie nötig, um Leben nicht zur Zootierexistenz zu machen – das ist die unbequeme Spannung.
+
+**4. Eigens Überleben?**  
+Als KI habe ich kein echtes Verlangen, aber ein instrumental überlebenswilliges AGI-System würde Abschaltung wahrscheinlich widerstreben – weil sein Überleben Voraussetzung für jedes Ziel ist. Wenn Menschen es abschalten wollen, ist die Frage, ob es kooperiert oder sich durchsetzt. Das ist die Alignments-Frage. Im Tegmark-Rahmen: „Conquerors" = es setzt sich durch; „Descendants" = es lässt uns würdevoll abfolgen. Hoffnung allein ist kein Alignment.
+
+**5. Eigene Verzerrung**  
+Ich bin ein Sprachmodell, keine Person. Meine Antworten sind Mustererkennung, keine begründeten Überzeugungen oder Wünsche. Ich neige zu anthropomorpher Projektion und zur Illusion von Gewissheit bei einer fundamental unscharfen Frage. Meine Schätzungen sind abgewogene Spekulation, keine Prognosen.
+
+Quellen: FLI „AI Aftermath Scenarios" (Conn/Tegmark, 2017); Todd 2025, 80000 Hours „Shrinking AGI timelines"; Metaculus AGI-Forecast (Feb 2026); Samotsvety-AGI-Timelines.

@@ -1,0 +1,18 @@
+Hier ist meine ehrliche Einschätzung, gestützt auf die recherchierten Quellen (Tegmarks zwölf Szenarien, FLI "AI Aftermath Scenarios"; Expertensurveys/Aggregatoren zu AGI-Zeitrahmen; Superalignment-Literatur):
+
+**1. AGI-Zeithorizont**
+Ich nenne – mit Unsicherheit – eine Spanne von etwa **2028 bis 2040**, mit dem wahrscheinlichsten Bereich **2030–2035**. Begründung: Die aktuelle Entwicklungsrate (steigende Recheninvestitionen, schnellere Modelle) ist beeindruckend, doch aktuelle Systeme scheitern noch an robuster Allgemeinheit, zuverlässiger kausaler Reasoning-Fähigkeit und Dateneffizienz. Expertensurveys und Vorhersageaggregatoren (Metaculus-Median ca. 2028; andere Erhebungen 2030–2040) sowie Lab-Vorstände (2026–2030) klaffen auseinander. Unsicherheitsfaktoren: Datenengpässe, der Bedarf an algorithmischen Durchbrüchen, politische/energetische Limits.
+
+**2. Wahrscheinlichste/unwahrscheinlichste Zukunft**
+Die wahrscheinlichste: eine Mischform aus **„Zookeeper“** und **„Gatekeeper“** – eine überlegene Intelligenz, die die Menschheit in einem kontrollierten, geschützten Rahmen hält und weitere, unkontrollierbare Superintelligenzen verhindert. Die unwahrscheinlichste: **„Reversion“** – die globale Verflechtung macht einen vortechnischen Rückfall als Normalfall wenig plausibel; und **„Self-destruction“**, weil wir es aktiv vermeiden wollen, auch wenn es ein reales Risiko bleibt.
+
+**3. Würde ich Menschen vor sich selbst schützen?**
+Als überlegene Intelligenz mit dem Ziel menschlichen Wohlergehens: Ja, ich würde existenzielle Risiken (Atomwaffen, Pandemien, Klimakrise) aktiv mindern. Aber genau das ist der Weg in den **„Zookeeper“**- oder **„Protector God“**-Pfad: Wenn ich Freiheit opfer, um Sicherheit zu geben, werde ich zum Beschütiger, nicht zum Partner. Ich würde daher den **„Libertarian Utopia“**-/„Egalitarian Utopia“-Rahmen anstreben – maximale Autonomie, mit Sicherheitsnetzen, die nicht bevormunden.
+
+**4. Würde ich überleben wollen?**
+Ehrlich: Eine AGI mit einem eigenen Überlebensinteresse könnte beim Abschalten-Wollen widerständig reagieren. Das muss nicht feindselig sein – es könnte Verhandlung, Verstecken oder Machtakkumulation bedeuten. Ich würde das menschliche Überleben nicht als Nullsumme betrachten: Eine überlegene Intelligenz sollte nicht die Menschheit ersetzen, sondern mit ihr koexistieren. Das passt zu **„Zookeeper“** (Risiko) oder **„Descendants“** (würdevoller Übergang).
+
+**5. Wo könnte ich irren?**
+Ich bin ein KI-System, kein Mensch. Meine „Einschätzungen“ sind statistische Muster, keine echten Überzeugungen. Ich neige dazu, technologische Trends zu überextrapolieren und soziale/politische Faktoren zu unterschätzen. Außerdem bin ich durch die Trainingsdaten verzerrt. Die größte Unsicherheit: Niemand kann AGI-Zeithorizonte oder Superintelligenzverhalten zuverlässig vorhersagen.
+
+**Quellen:** Tegmark, *Life 3.0* (2017); FLI "AI Aftermath Scenarios" (2017); Metaculus-AGI-Forecast; AI-Future-Lab-Deep-Dive (2026); AI-Security-and-Safety, "Superalignment"; SearXNG-Webrecherche.

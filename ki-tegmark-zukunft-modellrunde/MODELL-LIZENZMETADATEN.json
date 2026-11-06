@@ -1,0 +1,77 @@
+[
+  {
+    "model": "qwen3.6-35b",
+    "file_basename": "Qwen3.6-35B-A3B-UD-Q4_K_XL.gguf",
+    "gguf_version": 3,
+    "metadata": {
+      "general.name": "Qwen3.6-35B-A3B",
+      "general.basename": "Qwen3.6-35B-A3B",
+      "general.license": "apache-2.0",
+      "general.license.link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B/blob/main/LICENSE",
+      "general.repo_url": "https://huggingface.co/unsloth",
+      "general.base_model.0.name": "Qwen3.6 35B A3B",
+      "general.base_model.0.organization": "Qwen",
+      "general.base_model.0.repo_url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B"
+    },
+    "method": "Read only GGUF header metadata; no tensor load, inference, download or independent licence interpretation"
+  },
+  {
+    "model": "qwen3.6-35b-hauhaucs-thinking",
+    "file_basename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf",
+    "gguf_version": 3,
+    "metadata": {
+      "general.name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "general.basename": "KL0.0764"
+    },
+    "method": "Read only GGUF header metadata; no tensor load, inference, download or independent licence interpretation"
+  },
+  {
+    "model": "qwen3.8-27b-q4-voll",
+    "file_basename": "Qwen3.8-27B-UD-Q4_K_XL.gguf",
+    "gguf_version": 3,
+    "metadata": {
+      "general.name": "Qwen3.8-27B",
+      "general.basename": "Qwen3.8-27B",
+      "general.license": "apache-2.0",
+      "general.repo_url": "https://huggingface.co/unsloth",
+      "general.base_model.0.name": "Qwen3.8 27B",
+      "general.base_model.0.organization": "Qwen",
+      "general.base_model.0.repo_url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    "method": "Read only GGUF header metadata; no tensor load, inference, download or independent licence interpretation"
+  },
+  {
+    "model": "qwen3.8-27b-orcarouter",
+    "file_basename": "Qwen3.8-27B-Uncensored-OrcaRouter-Q4_K_M.gguf",
+    "gguf_version": 3,
+    "metadata": {
+      "general.name": "Qwen3.8 27B Abliterated",
+      "general.basename": "Qwen3.8",
+      "general.license": "apache-2.0"
+    },
+    "method": "Read only GGUF header metadata; no tensor load, inference, download or independent licence interpretation"
+  },
+  {
+    "model": "axion-q4",
+    "file_basename": "Axion-1.0-35B.Q4_K_M.gguf",
+    "gguf_version": 3,
+    "metadata": {
+      "general.name": "Axion 1.0 35B",
+      "general.basename": "Axion-1.0",
+      "general.license": "apache-2.0",
+      "general.dataset.0.name": "Axion Training Data",
+      "general.dataset.0.organization": "Axion1 0",
+      "general.dataset.0.repo_url": "https://huggingface.co/Axion1-0/axion-training-data"
+    },
+    "method": "Read only GGUF header metadata; no tensor load, inference, download or independent licence interpretation"
+  },
+  {
+    "model": "minicpm-v-4.7",
+    "file_basename": "MiniCPM-V-4_7-35B-A3B-Q4_K_M.gguf",
+    "gguf_version": 3,
+    "metadata": {
+      "general.name": "35a3_hf_v47_0923"
+    },
+    "method": "Read only GGUF header metadata; no tensor load, inference, download or independent licence interpretation"
+  }
+]

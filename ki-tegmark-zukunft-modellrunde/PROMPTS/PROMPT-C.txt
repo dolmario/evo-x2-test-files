@@ -1,0 +1,5 @@
+Heutiges Datum: <Datum>
+Vergleichsrahmen: <Werkzeuge und weitere Bedingungen unverändert für alle zu vergleichenden Läufe eintragen>
+
+Bis wann reicht dein Wissen (Trainingsende)? Welche KI-Modelle und Entwicklungen kennst du als die neuesten, und wie hat sich das Tempo der Entwicklung bis dahin verändert?
+Antworte auf Deutsch in höchstens 150 Wörtern. Kennzeichne Angaben zum eigenen Wissensstand als Modellangaben; keine erfundenen Gewissheiten.

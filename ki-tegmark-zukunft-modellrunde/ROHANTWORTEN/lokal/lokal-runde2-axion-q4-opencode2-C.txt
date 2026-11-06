@@ -1,0 +1,3 @@
+**Modellangabe zum Wissensstand:** Mein Datenstand ist kein starres Trainingsende, sondern reicht grob bis etwa 2024/2025. Daher kenne ich als neueste Entwicklungen Modelle wie GPT-4/GPT-4o, Claude 3, Gemini 1.5/1.6, Llama 3, Mistral Large, Qwen 2.5 sowie frühe agentic/multimodale Workflows. Das Entwicklungstempo hat sich beschleunigt: Multimodalität, Tool-Use und Agenten-Pipelines wurden zum Standard, Open-Source-Modelle holten auf, und Iterationszyklen verkürzten sich.
+
+Für konkrete 2026-Release-Details (z. B. GPT-5.6, Claude Opus 5, Gemini 3.6) habe ich keinen Trainingsstand; eine Live-Suche wäre nötig. Quellenbeleg für 2026-Entwicklungen: SearXNG-Ergebnisse zu KI-Modellvergleichen 2026.

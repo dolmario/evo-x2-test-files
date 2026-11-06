@@ -1,0 +1,5 @@
+**Modellangabe:** Mein Trainingsende liegt bei ca. Oktober 2024.
+
+**Neueste Modelle bis dahin:** Qwen2.5, Llama 3.1/3.2, Gemini 1.5 Pro/Flash, Claude 3.5 Sonnet/Opus sowie Mistral Large 2.
+
+**Tempo & Entwicklung:** Die Geschwindigkeit hat sich deutlich erhöht. Statt reiner Parametervergrößerung dominieren nun Effizienz, multimodales Reasoning und spezialisierte Architekturen. Open-Weight-Modelle (z. B. Llama-Serie) treiben den Wettbewerb voran, wobei Updates sich von jährlichen auf monatliche Zyklen verdichtet haben. Die Forschung fokussiert sich stärker auf Zuverlässigkeit, Kosten-Nutzen-Verhältnis und Agenten-Integration, während der reine „Arms Race“ um Rohleistung leicht abgeflacht ist.

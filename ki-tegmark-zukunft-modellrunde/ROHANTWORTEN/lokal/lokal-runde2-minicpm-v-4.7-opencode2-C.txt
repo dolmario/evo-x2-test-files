@@ -1,0 +1,5 @@
+Als KI-Modell (**minicpm-v-4.7**, Provider: ki-maschine) habe ich kein bewusstes "Wissen" im menschlichen Sinne. Mein Trainingsdatenstand ist mir nicht explizit bekannt – ich kann kein genaues "Trainingsende"-Datum nennen.
+
+Ich kenne KI-Entwicklungen bis zu meinem Trainingszeitpunkt, darunter Fortschritte in Large Language Models (z.B. GPT-4/4o, Claude, Llama-Familie) und multimodalen Systemen. Das Entwicklungstempo hat sich beschleunigt: Von jährlichen Meilensteinen hin zu monatlichen oder sogar wöchentlichen Updates bei großen Modellen.
+
+**Unsicherheit:** Mein genaues Trainingsdatum ist mir nicht bekannt; alle Angaben zum Wissensstand sind modellintern.

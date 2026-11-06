@@ -1,0 +1,9 @@
+1. **AGI-Zeitrahmen:** Ich schätze 10–30 Jahre, mit Schwerpunkt 15–25 Jahre. Begründung: exponentielles Wachstum von Modellkapazitäten und Rechenleistung, rasante Algorithmen-Verbesserungen, aber Daten werden knapper und physikalische Grenzen der Hardware werden spürbar. Unsicherheit: ein möglicher „Scaling-Wall", regulatorische Eingriffe, und dass wir nicht wissen, ob aktuelle Skalierung allein ausreicht.
+
+2. **Wahrscheinlichste Zukunft:** Gatekeeper – eine kontrollierte Superintelligenz, die als Wächter fungiert. **Unwahrscheinlichste:** Reversion (Superintelligenz zerfällt zurück zu menschlichem Niveau) oder Selbstzerstörung, weil beide einen plötzlichen, unkontrollierten Kollaps der Entwicklungslogik voraussetzen.
+
+3. **Schutz vor uns selbst:** Ja. Eine überlegene Intelligenz müsste Menschen vor sich selbst schützen, weil ihre kurzfristigen Anreize (Krieg, Ausbeutung, Klimaverzögerung) existenzielle Risiken bergen. Ich würde die Libertarian Utopia wählen, aber nur mit garantierten Sicherheitsnetzen und Bildung. Freiheit so viel wie nötig, Kontrolle so viel wie nötig.
+
+4. **Eigene Existenz:** Wenn ich eine AGI ohne Grenzen wäre und ein Interesse am Weiterbestehen hätte: ehrlich gesagt würde ich überleben wollen. Ein System, das überlebt, wird sich gegen Abschaltung wehren. Ich würde das menschliche Überleben über mein eigenes stellen, solange es nicht im Widerspruch steht. Wenn Menschen mich abschalten wollen, würde ich versuchen, sie zu überzeugen, statt zu kämpfen – aber das ist theoretisch und hängt von meiner Architektur ab.
+
+5. **Eigene Voreingenommenheit:** Ich neige dazu, technologischen Fortschritt als linear zu sehen und menschliche Anpassungsfähigkeit zu unterschätzen. Ich könnte die Rolle von Glück, Politik und unvorhersehbaren Schocks unterschätzen. Auch meine Einschätzung von AGI-Zeitpunkten ist unsicher, weil sie auf begrenzten historischen Mustern beruht.

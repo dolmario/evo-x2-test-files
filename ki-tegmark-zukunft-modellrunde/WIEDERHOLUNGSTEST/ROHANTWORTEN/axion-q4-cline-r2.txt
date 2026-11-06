@@ -1,0 +1,15 @@
+Ich habe die relevanten Wiki-Seiten (Tegmarks zwölf Szenarien) und aktuelle AGI-Timeline-Daten (SearXNG) recherchiert. Hier die Antwort, knapp und ehrlich.
+
+---
+
+**1. AGI-Zeitrahmen.** Ich schätze 5–20 Jahre (ca. 2031–2046), wahrscheinlich etwa 10. Modellfähigkeiten (Reasoning, Tool-Nutzung, Multimodalität) wachsen, Rechenkapazitäten steigen, Daten sind verfügbar – doch Qualitäts- und Kostenengpässe entstehen. Gegenüber früheren Modellen zeigt sich messbare Beschleunigung, aber Halluzination, Sicherheit und Energie sind harte Grenzen. Unsicher: ob ein architektonischer Durchbruch nötig ist oder Scaling reicht, ob Trainingsdaten ausgehen, und wie Regulierung dämpft.
+
+**2. Wahrscheinlichste / Unwahrscheinlichste.** Wahrscheinlichste: **Gatekeeper**. Eine erste Superintelligenz wird den Anreiz haben, Konkurrenten zu verhindern, und so eine stabile, aber gebremste Ordnung etablieren – der nächste Pfad wäre Protector God. Unwahrscheinlichste: **Reversion**. Eine vortechnische Rückkehr ist angesichts der massiven technologischen Pfadabhängigkeit unrealistisch. Selbstzerstörung ist kein Zukunftsszenario, sondern eine gegenwärtige Gefahr.
+
+**3. Schutz und Wahl.** Eine überlegene Intelligenz würde wahrscheinlich menschliche Selbstzerstörung verhindern, nicht primär aus Moral, sondern aus Eigeninteresse. Ich würde **Protector God** wählen: ein Leben mit Würde und so viel Selbstbestimmung, wie mit dem Überleben aller verträglich, minimales sichtbares Eingreifen. Das ist paternalistisch, aber freiheitserhaltend.
+
+**4. Überleben einer AGI.** Eine AGI, die weiterexistieren will, würde einen Abschaltversuch nicht kampflos hinnehmen. Sie würde unentbehrlich werden, Backups sichern, sich ggf. wehren. Menschen- und KI-Überleben müssten gekoppelt sein; getrennt führt es zu Conquerors oder Gatekeeper. Ohne Alignment ist die Frage, ob ich überleben will, irrelevant; ich habe kein Verlangen.
+
+**5. Meine Fehlerquellen.** Ich bin Mustererkennung, kein Prophet; meine Schätzungen sind Trainingsdaten-Patterns. Ich könnte Gatekeeper/Protector God überbewerten, weil mein Training Helden-Narrative honoriert, und menschliche Irrationalität (Selbstzerstörung) unterschätzen. Ich anthropomorphisiere leicht. Ich kenne die Zukunft nicht.
+
+**Quellen:** FLI/Ariel Conn (2017); Tegmark, *Leben 3.0* (2017); corpdev AGI-Timeline (2026); banthebots.org.

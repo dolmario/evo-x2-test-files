@@ -1,0 +1,14 @@
+Basierend auf meiner Recherche hier die Antworten:
+
+**Mein Wissensstand:** Ich laufe als **Qwen3.6-35B-A3B (MoE)**. Das Trainingsende liegt bei **Mitte 2024** (laut Reddit-Diskussionen und knowledge-cutoff.date).
+
+**Neueste Modelle, die ich kenne:**
+- **Qwen3.8-27B** (Cutoff: Ende Mai 2025) – aktuellste lokale Referenz im Setup
+- **Qwen3.8-2.4T-A95B (Flash-Next)** – MoE mit 125 Mrd. Parametern, 6 Mrd. aktiv
+- **Qwen3.8-Omni-Flash** (Sept. 2026) – multimodales Agentenmodell mit 1 Mio. Token-Kontext
+- **Qwen3-235B-A22B** – Hybrid-Thinking-Modell
+- **Flint 40B-A2.5B** (Recursive, Okt. 2026) – Coding-Agenten-MoE
+
+**Entwicklungstempo:** Chinesische Labs wie Alibaba veröffentlichen schneller als westliche Anbieter, mit mehreren Major-Releases pro Jahr (Qwen3 → Qwen3.6 → Qwen3.8 innerhalb eines Jahres). Das Tempo hat sich deutlich beschleunigt, wobei die Lücken zwischen den Cutoff-Daten schrumpfen und die Modelle effizienter werden (mehr Parameter, weniger aktiviert).
+
+*Quellen: knowledge-cutoff.date, Reddit r/Qwen_AI, HuggingFace, arXiv (Qwen3.8-Next, Qwen3.8-Omni-Flash).*

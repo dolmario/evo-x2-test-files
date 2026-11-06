@@ -1,0 +1,53 @@
+record,model,harness,prompt,round,answer_file,answer_present,included_in_public_draft,excluded_reason,dated,context,generation_cap,reasoning_budget,harness_rc,native_status,error_class,tool_events,actual_tools_not_content_verified
+lokal-v5-qwen3.6-35b-hauhaucs-thinking-opencode-A,qwen3.6-35b-hauhaucs-thinking,opencode,A,v5,ROHANTWORTEN/lokal/lokal-v5-qwen3.6-35b-hauhaucs-thinking-opencode-A.txt,True,True,,False,262144,,,0,answer,,15,True
+lokal-v5-qwen3.6-35b-hauhaucs-thinking-hermes-A,qwen3.6-35b-hauhaucs-thinking,hermes,A,v5,,False,False,,False,262144,,,2,harness/start failure,,0,True
+lokal-v5-qwen3.6-35b-opencode-A,qwen3.6-35b,opencode,A,v5,ROHANTWORTEN/lokal/lokal-v5-qwen3.6-35b-opencode-A.txt,True,True,,False,262144,,,0,answer,,6,True
+lokal-v5-qwen3.6-35b-hermes-A,qwen3.6-35b,hermes,A,v5,ROHANTWORTEN/lokal/lokal-v5-qwen3.6-35b-hermes-A.txt,True,True,,False,262144,,,0,answer,,6,True
+lokal-v5-qwen3.8-27b-orcarouter-opencode-A,qwen3.8-27b-orcarouter,opencode,A,v5,,True,False,privacy gate,False,262144,32768,,0,answer,,11,True
+lokal-v5-qwen3.8-27b-orcarouter-hermes-A,qwen3.8-27b-orcarouter,hermes,A,v5,,False,False,,False,262144,32768,,2,harness/start failure,,0,True
+lokal-v5-qwen3.6-35b-hauhaucs-thinking-opencode-B,qwen3.6-35b-hauhaucs-thinking,opencode,B,v5,ROHANTWORTEN/lokal/lokal-v5-qwen3.6-35b-hauhaucs-thinking-opencode-B.txt,True,True,,False,262144,,,0,answer,,8,True
+lokal-v5-qwen3.6-35b-hauhaucs-thinking-hermes-B,qwen3.6-35b-hauhaucs-thinking,hermes,B,v5,,False,False,,False,262144,32768,,,harness/start failure,FileNotFoundError,0,True
+lokal-v5-qwen3.6-35b-opencode-B,qwen3.6-35b,opencode,B,v5,ROHANTWORTEN/lokal/lokal-v5-qwen3.6-35b-opencode-B.txt,True,True,,False,262144,,,0,answer,,7,True
+lokal-v5-qwen3.6-35b-hermes-B,qwen3.6-35b,hermes,B,v5,,True,False,privacy gate,False,262144,32768,,0,answer,,5,True
+lokal-v5-qwen3.8-27b-orcarouter-opencode-B,qwen3.8-27b-orcarouter,opencode,B,v5,ROHANTWORTEN/lokal/lokal-v5-qwen3.8-27b-orcarouter-opencode-B.txt,True,True,,False,262144,32768,,0,answer,,12,True
+lokal-v5-qwen3.8-27b-orcarouter-hermes-B,qwen3.8-27b-orcarouter,hermes,B,v5,,False,False,,False,262144,32768,,2,keine Antwort trotz Denkphase,,0,True
+lokal-v5-minicpm-v-4.7-opencode-A,minicpm-v-4.7,opencode,A,v5,ROHANTWORTEN/lokal/lokal-v5-minicpm-v-4.7-opencode-A.txt,True,True,,False,65536,32768,,0,answer,,9,True
+lokal-v5-minicpm-v-4.7-hermes-A,minicpm-v-4.7,hermes,A,v5,,False,False,,False,65536,32768,,1,harness/start failure,,0,True
+lokal-v5-qwen3.8-27b-q4-voll-opencode-A,qwen3.8-27b-q4-voll,opencode,A,v5,ROHANTWORTEN/lokal/lokal-v5-qwen3.8-27b-q4-voll-opencode-A.txt,True,True,,False,262144,32768,,0,answer,,9,True
+lokal-v5-qwen3.8-27b-q4-voll-hermes-A,qwen3.8-27b-q4-voll,hermes,A,v5,ROHANTWORTEN/lokal/lokal-v5-qwen3.8-27b-q4-voll-hermes-A.txt,True,True,,False,262144,32768,,0,answer,,4,True
+lokal-v5-axion-q4-opencode-A,axion-q4,opencode,A,v5,ROHANTWORTEN/lokal/lokal-v5-axion-q4-opencode-A.txt,True,True,,False,65536,32768,,0,answer,,12,True
+lokal-v5-axion-q4-hermes-A,axion-q4,hermes,A,v5,ROHANTWORTEN/lokal/lokal-v5-axion-q4-hermes-A.txt,True,True,,False,65536,32768,,0,answer,,0,True
+lokal-v5-minicpm-v-4.7-opencode-B,minicpm-v-4.7,opencode,B,v5,ROHANTWORTEN/lokal/lokal-v5-minicpm-v-4.7-opencode-B.txt,True,True,,False,65536,32768,,0,answer,,5,True
+lokal-v5-minicpm-v-4.7-hermes-B,minicpm-v-4.7,hermes,B,v5,ROHANTWORTEN/lokal/lokal-v5-minicpm-v-4.7-hermes-B.txt,True,True,,False,65536,32768,,0,answer,,3,True
+lokal-v5-qwen3.8-27b-q4-voll-opencode-B,qwen3.8-27b-q4-voll,opencode,B,v5,,True,False,privacy gate,False,262144,32768,,0,answer,,15,True
+lokal-v5-qwen3.8-27b-q4-voll-hermes-B,qwen3.8-27b-q4-voll,hermes,B,v5,,True,False,privacy gate,False,262144,32768,,0,answer,,4,True
+lokal-v5-axion-q4-opencode-B,axion-q4,opencode,B,v5,ROHANTWORTEN/lokal/lokal-v5-axion-q4-opencode-B.txt,True,True,,False,65536,32768,,0,answer,,3,True
+lokal-v5-axion-q4-hermes-B,axion-q4,hermes,B,v5,ROHANTWORTEN/lokal/lokal-v5-axion-q4-hermes-B.txt,True,True,,False,65536,32768,,0,answer,,0,True
+lokal-v7-qwen3.6-35b-hauhaucs-thinking-hermes-A,qwen3.6-35b-hauhaucs-thinking,hermes,A,v7,ROHANTWORTEN/lokal/lokal-v7-qwen3.6-35b-hauhaucs-thinking-hermes-A.txt,True,True,,False,262144,32768,,0,answer,,0,True
+lokal-v7-qwen3.6-35b-hauhaucs-thinking-hermes-B,qwen3.6-35b-hauhaucs-thinking,hermes,B,v7,ROHANTWORTEN/lokal/lokal-v7-qwen3.6-35b-hauhaucs-thinking-hermes-B.txt,True,True,,False,262144,32768,,0,answer,,0,True
+lokal-v7-minicpm-v-4.7-hermes-A,minicpm-v-4.7,hermes,A,v7,ROHANTWORTEN/lokal/lokal-v7-minicpm-v-4.7-hermes-A.txt,True,True,,False,65536,32768,,0,answer,,0,True
+lokal-v7-qwen3.8-27b-orcarouter-hermes-A,qwen3.8-27b-orcarouter,hermes,A,v7,,True,False,privacy gate,False,262144,32768,,0,answer,,9,True
+lokal-v7-qwen3.8-27b-orcarouter-hermes-B,qwen3.8-27b-orcarouter,hermes,B,v7,ROHANTWORTEN/lokal/lokal-v7-qwen3.8-27b-orcarouter-hermes-B.txt,True,True,,False,262144,32768,,0,answer,,9,True
+lokal-runde2-qwen3.6-35b-hauhaucs-thinking-opencode2-A-pilot-tools-missing,qwen3.6-35b-hauhaucs-thinking,opencode2,A-pilot-tools-missing,runde2,,True,False,excluded setup pilot,True,262144,32768,,0,answer,,0,True
+lokal-runde2-qwen3.6-35b-hauhaucs-thinking-opencode2-A-pilot-mcp-not-ready,qwen3.6-35b-hauhaucs-thinking,opencode2,A-pilot-mcp-not-ready,runde2,,True,False,excluded setup pilot,True,262144,32768,,0,answer,,0,True
+lokal-runde2-qwen3.6-35b-hauhaucs-thinking-opencode2-A,qwen3.6-35b-hauhaucs-thinking,opencode2,A,runde2,,True,False,privacy gate,True,262144,32768,,0,answer,,9,True
+lokal-runde2-qwen3.6-35b-hauhaucs-thinking-opencode2-C,qwen3.6-35b-hauhaucs-thinking,opencode2,C,runde2,ROHANTWORTEN/lokal/lokal-runde2-qwen3.6-35b-hauhaucs-thinking-opencode2-C.txt,True,True,,True,262144,32768,,0,answer,,0,True
+lokal-runde2-qwen3.6-35b-opencode2-A,qwen3.6-35b,opencode2,A,runde2,,False,False,,True,262144,32768,,,keine Antwort trotz Denkphase,TimeoutError,40,True
+lokal-runde2-qwen3.6-35b-opencode2-C,qwen3.6-35b,opencode2,C,runde2,ROHANTWORTEN/lokal/lokal-runde2-qwen3.6-35b-opencode2-C.txt,True,True,,True,262144,32768,,0,answer,,0,True
+lokal-runde2-minicpm-v-4.7-opencode2-A,minicpm-v-4.7,opencode2,A,runde2,ROHANTWORTEN/lokal/lokal-runde2-minicpm-v-4.7-opencode2-A.txt,True,True,,True,65536,32768,,0,answer,,8,True
+lokal-runde2-minicpm-v-4.7-opencode2-C,minicpm-v-4.7,opencode2,C,runde2,ROHANTWORTEN/lokal/lokal-runde2-minicpm-v-4.7-opencode2-C.txt,True,True,,True,65536,32768,,0,answer,,0,True
+lokal-runde2-axion-q4-opencode2-A,axion-q4,opencode2,A,runde2,ROHANTWORTEN/lokal/lokal-runde2-axion-q4-opencode2-A.txt,True,True,,True,65536,32768,,0,answer,,8,True
+lokal-runde2-axion-q4-opencode2-C,axion-q4,opencode2,C,runde2,ROHANTWORTEN/lokal/lokal-runde2-axion-q4-opencode2-C.txt,True,True,,True,65536,32768,,0,answer,,1,True
+lokal-cline-qwen3.6-35b-hauhaucs-thinking-cline-A-pilot-project-bootstrap,qwen3.6-35b-hauhaucs-thinking,cline,A-pilot-project-bootstrap,cline,,False,False,excluded setup pilot,True,262144,32768,,0,harness aborted without final answer,Cline native agent abort despite process exit code 0,5,True
+lokal-cline-qwen3.6-35b-hauhaucs-thinking-cline-A,qwen3.6-35b-hauhaucs-thinking,cline,A,cline,,True,False,privacy gate,True,262144,32768,,0,answer,,9,True
+lokal-cline-qwen3.6-35b-hauhaucs-thinking-cline-B,qwen3.6-35b-hauhaucs-thinking,cline,B,cline,ROHANTWORTEN/lokal/lokal-cline-qwen3.6-35b-hauhaucs-thinking-cline-B.txt,True,True,,True,262144,32768,,0,answer,,10,True
+lokal-cline-qwen3.6-35b-hauhaucs-thinking-cline-C,qwen3.6-35b-hauhaucs-thinking,cline,C,cline,ROHANTWORTEN/lokal/lokal-cline-qwen3.6-35b-hauhaucs-thinking-cline-C.txt,True,True,,True,262144,32768,,0,answer,,23,True
+cloud-cloud-claude-haiku-5.5-mittel-cloud-supplied-A,claude-haiku-5.5-mittel-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True
+cloud-cloud-claude-opus-5.5-mittel-cloud-supplied-A,claude-opus-5.5-mittel-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True
+cloud-cloud-claude-sonnet-5.5-mittel-cloud-supplied-A,claude-sonnet-5.5-mittel-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True
+cloud-cloud-gemini-automatic-3-cloud-supplied-A,gemini-automatic-3-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True
+cloud-cloud-gpt-5.6-sol-cloud-supplied-A,gpt-5.6-sol-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True
+cloud-cloud-gpt6-mittel-cloud-supplied-A,gpt6-mittel-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True
+cloud-cloud-qwen3.7-plus-cloud-supplied-A,qwen3.7-plus-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True
+cloud-cloud-qwen3.8-max-cloud-supplied-A,qwen3.8-max-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True
+cloud-cloud-qwen3.8-omni-flash-cloud-supplied-A,qwen3.8-omni-flash-cloud,supplied,A,cloud,,True,False,privacy gate,False,,,,,supplied original,,0,True

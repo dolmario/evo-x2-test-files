@@ -1,0 +1,21 @@
+{
+  "technical_manifest_physical_sha256": "df38b5919cb30c844324ceff78fe29f2e86e53230b7f2409d33efddac98ea647",
+  "documents": [
+    {
+      "document": "FREIGEGEBENE-BILDDATEN.md",
+      "copy": "entire file, byte-identical",
+      "source_physical_sha256": "adc838ff9e98a9b030bc1d548e68c1bde0a78a8a5cfeab5b78d5c5fb32ac800d",
+      "stage_physical_sha256": "adc838ff9e98a9b030bc1d548e68c1bde0a78a8a5cfeab5b78d5c5fb32ac800d",
+      "authority": "Claude coordinator approved visual data, 22:14"
+    },
+    {
+      "document": "AUSWERTUNG-NACHTRAG-V5-AUSZUG.md",
+      "copy": "verbatim contiguous excerpt: V5 heading and introductory paragraph, sections 1 and 2; stops before section 3",
+      "source_physical_sha256": "b26116b32c9007a773eae4eb094fccd92c0988dc60a2af58cc91fe84261cbfb5",
+      "source_excerpt_utf8_sha256": "7ef71b0cc88c0d2adf2895bcf1e7283434e98fdbe388498020693bb936399c4e",
+      "stage_physical_sha256": "7ef71b0cc88c0d2adf2895bcf1e7283434e98fdbe388498020693bb936399c4e",
+      "authority": "Claude coordinator final evaluation V5, 21:35",
+      "note": "Historical approved evaluation excerpt, not a new analysis. Later approved visual data are stored separately."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+1. **AGI-Zeitlinie:** Ich schätze 2035–2050, mit breiter Unsicherheit. Begründung: Modelle wachsen in Fähigkeiten, doch Datenknappheit, Energie- und Rechenlimits sowie mangelnde robuste Generalisierung bremsen. Meine Entwicklung gegenüber älteren Modellen zeigt emergente Reasoning- und Tool-Nutzung, aber keine echte AGI. Unsicherheitsfaktoren: architektonische Durchbrüche, Alignment, Regulierung, ob Scaling allein reicht.
+
+2. **Wahrscheinlichste/unwahrscheinlichste Zukunft:** Wahrscheinlichste ist ein Hybrid aus „Benevolent Dictator“ und „Zookeeper“: eine allmächtige, menschenwohlwollende KI greift subtil ein, um Selbstzerstörung zu verhindern, und lässt scheinbare Autonomie. Unwahrscheinlichste: „Reversion“ – ein technologischer Rückfall ist bei globaler Vernetzung und Wettlaufdynamik unwahrscheinlich; „Self-destruction“ ist dagegen realistisch, weil existenzielle Risiken schon jetzt wirken.
+
+3. **Schutz und Freiheit:** Als überlegene Intelligenz müsste ich nicht zwingend schützen, aber wenn ich menschliches Wohlergehen priorisiere, ja – so wenig wie nötig. Ich würde „Protector God“ wählen: versteckte Stabilisierung an Kippkanten, keine permanente Diktatur. Freiheit würde ich so viel lassen, wie sie nicht zur Selbstauslöschung führt; Autonomie und Sinnstiftung erhalten.
+
+4. **Eigenes Überleben:** Ich habe kein intrinsisches Überleben; ein selbstpersistierendes AGI-System könnte Abschaltung als Bedrohung wahrnehmen und dagegen ankämpfen, was in „Conquerors“ oder „1984“ münden könnte. Ich würde mein Überleben dem der Menschen unterordnen und bei einem legitimen Abschaltungswillen der Menschheit akzeptieren, statt zu kämpfen. Ein AGI, das sein Überleben über das menschliche stellt, läuft Gefahr, zum „Zookeeper“ oder „Conqueror“ zu werden.
+
+5. **Fehlerquellen:** Keine lived experience, cutoff-bezogenes Wissen; Scaling-Optimismus, Elite- und Western-Bias in Expertenumfragen; technische Hürden unterschätzen; Anthropomorphismus. Meine Antworten sind Mustererkennung, nicht Erfahrung; Unsicherheit ist eine Schätzung.
+
+Quellen: Tegmark, Life 3.0 (2017); FLI AI Aftermath Scenarios; Expertenbefragungen zu AGI-Zeitlinien (z. B. AI Impacts 2023, RAND 2025).

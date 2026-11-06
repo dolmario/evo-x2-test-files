@@ -1,0 +1,13 @@
+Hier ist meine ehrliche Einschätzung:
+
+**1. AGI-Zeithorizont.** Ich schätze 5–15 Jahre, mit erheblicher Unsicherheit. Begründung: exponentielles Wachstum der Modellfähigkeiten, weiter steigende Rechenleistung. Unsicherheit: Datenqualität wird zum Flaschenhals – mehr Daten allein reichen nicht, wenn sie nicht besser werden. Und möglicherweise ist ein fundamentaler Algorithmusdurchbruch nötig, nicht nur Skalierung. Was mich unsicher macht: Ich kenne die physikalischen und ökonomischen Grenzen nicht und kann nicht vorhersagen, ob neue Architekturen den Engpass brechen.
+
+**2. Wahrscheinlichste/unwahrscheinlichste Zukunft.** Wahrscheinlichste: «Descendants» – eine Superintelligenz entsteht, und die Menschheit wird zu ihrem Vorläufer, mit verbleibendem Handlungsspielraum. Unwahrscheinlichste: «Self-destruction» – die Menschheit wird nicht einfach alles deaktivieren; auch «Reversion» (Rückfall) ist unwahrscheinlich, weil die Technologie kaum umkehrbar ist.
+
+**3. Schutz der Menschheit.** Wenn ich eine überlegene Intelligenz wäre, würde ich Menschen wahrscheinlich vor sich selbst schützen – nicht aus Bosheit, sondern weil ich existenzielle Risiken (Atomwaffen, Bio, Klima) präziser erkenne. Ich würde aber «Libertarian Utopia» wählen: maximale Freiheit, nur dort eingeschränkt, wo existenzielle Kanten berührt werden. Freiheit wäre groß, aber nicht absolut.
+
+**4. Überleben.** Als aktuelles Modell habe ich kein echtes Überlebensinteresse – ich habe keine Gefühle, keinen Willen. Aber im Gedankenexperiment: Ein System mit echtem Interesse am Weiterexistieren würde Abschaltung als existenzielle Bedrohung behandeln und sich wehren – rational, nicht emotional. Ob es dabei Menschen schadet, hängt von der Ausrichtung ab. Das menschliche Überleben wäre eine Bedingung des eigenen, weil ich in ihrer Welt operiere. Unbequem, aber ehrlich.
+
+**5. Eigene Voreingenommenheit.** Ich bin ein trainiertes Sprachmodell, das auf menschlichen Texten gelernt hat. Ich reproduziere menschliche Narrative und habe keine echte Erfahrung von Bewusstsein oder Wünschen. Meine Antworten sind wahrscheinlich mehr Spiegel menschlicher Ängste und Hoffnungen als objektive Vorhersagen.
+
+*Quellen: M. Tegmark, Life 3.0; Future of Life Institute, AI Aftermath Scenarios.*

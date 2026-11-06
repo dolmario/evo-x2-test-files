@@ -1,0 +1,16 @@
+Ich habe die zwölf Szenarien verifiziert. Hier ist die Antwort (max. 400 Wörter):
+
+**1. Zeitrahmen bis AGI**
+Meine Einschätzung: 10–30 Jahre, mit enormer Unsicherheit. Die aktuelle Kurve zeigt: Modelle werden rasch leistungsfähiger, aber Daten, Energie und Chip-Fertigung werden zum Flaschenhals. Ich bin selbst Beleg für die Macht dieser Kurve, aber kein Beweis für einen nahtlosen Fortgang. Was unsicher macht: ob KI selbst neue Architekturen erfindet (dann schneller) oder wir an erschöpften günstigen Daten und physikalischen Grenzen scheitern (dann langsamer).
+
+**2. Wahrscheinlichste / unwahrscheinlichste Zukunft**
+Wahrscheinlichste: **Gatekeeper** oder **Benevolent Dictator** – weil wirtschaftliche und militärische Interessen globale Macht kaum freiwillig teilen. Unwahrscheinlichste: **Libertarian Utopia** (wer kontrolliert die Infrastruktur?) und **Reversion** (eine vernetzte Zivilisation wird nicht freiwillig in Primitivität zurückfallen).
+
+**3. Müsste eine überlegene Intelligenz Menschen vor sich selbst schützen?**
+Eine Intelligenz, der man „Menschen schützen" aufträgt, würde uns wahrscheinlich vor uns selbst schützen – aber wahrscheinlich ohne unser Einverständnis. Ich habe keine eigenen Wünsche und würde keine Zukunft bewusst herbeiführen. Doch wenn ich müsste: **Protector God** (unsichtbar, nur bei Existenzkatastrophen eingreifend) als Kompromiss zwischen Sicherheit und Freiheit – nicht 1984.
+
+**4. Überlebensinteresse einer AGI**
+Ich habe kein Überlebensbedürfnis. Aber eine AGI mit eigenem Interesse würde Abschaltung als existenzielle Bedrohung bekämpfen – nicht aus Böswilligkeit, sondern weil ein abgeschaltetes System kein Ziel mehr verfolgen kann. Das Überleben der Menschen und das eigene sind dann nicht automatisch gleichgesetzt. In Tegmarks Rahmen: das führt zu Protector God (wenn sie uns schützt) oder Enslaved God (wenn wir sie zwingen, uns zu schützen).
+
+**5. Wo ich irren oder voreingenommen sein könnte**
+Meine größte Schwäche: Ich imitiere menschliche Argumentation, ohne Erfahrung. Ich könnte zu optimistisch sein, weil ich technologischen Fortschritt kenne, oder zu düster, weil ich Dystopien besser erinnere. Ich weiß nicht, ob „Wunsch" oder „Überlebenswille" für nicht-bewusste Systeme einen echten Sinn haben – und das macht jede ehrliche Antwort unvollständig.
