@@ -1,0 +1,39 @@
+Ich habe aktuelle Preise (Stand heute, 14.11.2026, idealo-Preisvergleich) und die letzten ADAC-Ganzjahresreifentests (2024–2026) für deine Größe verglichen. Hier die Antwort:
+
+## Kurzfazit
+**Kein Goodride – nimm den Hankook Kinergy 4S² (H750).** Vier Stück kosten damit **338,04 € inkl. Versand, ohne Montage** (84,51 €/Stk., günstigstes Angebot mit Versand inbegriffen, neue DOT 25/26).
+
+## Warum nicht der Goodride von Amazon?
+Der Goodride Z-401 (195/55 R16 91V XL) ist mit **~44–50 €/Stk.** (z. B. 44,18 € inkl. Versand bei Voelkner, auf idealo auch Angebote über Amazon) tatsächlich sehr günstig – vier Reifen für ~177 €. Aber:
+
+- Goodride ist eine chinesische No-Name-/Budgetmarke (Zhongce Rubber). In den ADAC-Ganzjahresreifentests schneiden diese Reifen **konsequent schlecht ab**: Im Test 2025 (225/45 R17) waren **alle vier No-Name-Reifen „mangelhaft"** – u. a. mit erheblichen Mängeln bei Nässe, Schnee und Matsch. Im Test 2026 (185/65 R15) fielen 5 von 16 Reifen komplett durch, teils trotz Schneeflocken-Symbol.
+- Genau bei deinem Anwendungsfall – **Winterurlaub in den bayerischen Alpen** – zählt die Winterleistung. Der ADAC selbst sagt, Budget-Ganzjahresreifen seien „nicht für den Winterurlaub im Gebirge" geeignet.
+- Du sparst beim Goodride ~160–245 € pro Satz, aber die Sicherheitsreserven (Bremsweg auf Schnee/Nässe) sind messbar schlechter. Bei 12.000 km/Jahr hält der Reifen ohnehin ~3–4 Jahre – der Aufpreis auf einen getesteten Markenreifen ist pro Jahr vertretbar.
+
+## Meine konkrete Empfehlung: Hankook Kinergy 4S² (H750), 195/55 R16 87V
+- **ADAC-Test 2024** (Größe 205/55 R16, die nächstgrößere und damit gut übertragbar): **Note 2,7 „befriedigend", Platz 3 von 16**, Fahrsicherheit 2,9 – ein vollwertiger Markenreifen mit nachgewiesener Wintertauglichkeit (3PMSF).
+- Passt zum Clio: 87V erfüllt deinen 87H-Wert (V = bis 240 km/h ist mehr als genug).
+- Preis: **ab 84,51 € inkl. Versand** (eBay-Händler „shoptyres78", Shopbewertung 4,9/5, Lieferung bis 26.11.) – gut unter deinem 95-€-Limit.
+
+**Alternativen im Budget:**
+- **BFGoodrich Advantage All-Season 195/55 R16 87H**: ~83,74 €, ADAC 2025 mit 2,9 „befriedigend" – ebenfalls solide.
+- **Viking FourTech Plus 195/55 R16 87H**: ~78,49 €, ADAC 2025 mit 3,0 – günstigste „empfohlene" Option.
+- ⚠️ Nicht empfehlenswert, obwohl „Markenreifen": Nexen N'Blue 4Season 2 (70 €), Vredestein Quatrac (82,74 €), Barum Quartaris 5 (74 €) – im ADAC-Test 2025 alle nur „ausreichend" (3,8–3,9).
+
+**Falls du ~10 €/Stk. mehr locker hast:** Die eigentlichen Testsieger kosten in deiner Größe:
+- **Goodyear Vector 4Seasons Gen-3** (ADAC 2024: 2,4 – erster „guter" Ganzjahresreifen, Laufleistung ~68.000 km): ab 100,46 € → 4 Stk. ≈ 402 €
+- **Continental AllSeasonContact 2** (ADAC-Testsieger 2026 + 2,3 im Test 2025): ab 105,44 € (87H EVc) → 4 Stk. ≈ 422 €
+
+## Kostenübersicht (4 Reifen, inkl. Versand, ohne Montage)
+| Reifen | €/Stk. | 4 Reifen | ADAC-Test |
+|---|---|---|---|
+| Goodride Z-401 91V XL | 44,18 € | **176,72 €** | – (No-Name, Tests: mangelhaft bis ausreichend) |
+| **Hankook Kinergy 4S² (H750) 87V** | **84,51 €** | **338,04 €** | **2,7 (2024)** |
+| BFGoodrich Advantage All-Season 87H | ~83,74 € | ~335 € | 2,9 (2025) |
+| Goodyear Vector 4Seasons Gen-3 91H XL | ~100,46 € | ~402 € | 2,3–2,4 (2024/2025) |
+| Continental AllSeasonContact 2 87H EVc | 105,44 € | 421,76 € | 2,3 (2025) / Testsieger 2026 |
+
+## Ein ehrlicher Hinweis zu deinem Einsatzprofil
+Der ADAC empfiehlt Ganzjahresreifen ausdrücklich für Fahrer, die **keinen Skiurlaub in den Bergen** planen – du machst ihn einmal im Jahr in Bayern. Für ein mal jährlich ist ein **guter** Allwetterreifen mit Schneeflocken-Symbol (wie der Hankook) vertretbar und legal (situative Winterreifenpflicht erfüllt, volle Versicherung). Wenn der Alpenurlaub häufiger wird oder du oft auf verschneiten Passstraßen fährst, wäre ein richtiger Wintersatz (ggf. auf zweiten Felgen) die sicherere Wahl.
+
+Quellen: [ADAC Ganzjahresreifentest 2025](https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/225-45-r17/), [ADAC Test 2024 (205/55 R16)](https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/205-55-r16/), [test.de ADAC-Test 2026](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/), [idealo-Preisvergleich](https://www.idealo.de/preisvergleich/ProductCategory/7735.html). Preise können sich gerade in der Black-Friday-Zeit täglich ändern – vor dem Kauf kurz nachschauen.

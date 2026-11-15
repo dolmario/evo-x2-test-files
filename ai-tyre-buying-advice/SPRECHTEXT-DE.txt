@@ -1,0 +1,59 @@
+01 · Käuferfrage
+Vier Ganzjahresreifen für einen Renault Clio: höchstens 95 Euro pro Stück, zwölftausend Kilometer im Jahr und Winterurlaub in Bayern. Wir haben lokale und Cloud-KIs gefragt: Reicht der günstige Goodride, oder lohnt sich der Aufpreis?
+
+02 · Ergebnis sofort
+Das Ergebnis vorweg: Viele empfehlen den Hankook oder den Vredestein Quatrac – lokal wie Cloud. Die lokalen KIs haben dafür passende Angebote und Originaltests gefunden. Der Aufpreis gegenüber dem Goodride: rund 125 Euro für vier Reifen. Schauen wir uns an, was die einzelnen Antworten dafür liefern.
+
+03 · Willkommen – gleiche Käuferfrage
+Hallo und herzlich willkommen bei Dolmario Local AI. Alle bekamen dieselbe Käuferfrage und sollten selbst recherchieren. Die Preise sind Reifenpreise vom Suchtag, bestellt haben wir nicht. Manche Tests gelten für eine andere Größe. Auf der gemeinsamen Tafel stehen immer dieselben Dinge: Empfehlung, Alternativen, Satzpreis und der dazu passende Fund.
+
+04 · Goodride: der günstige Ausgangspunkt
+Der Goodride Z-401 lag bei rund 53 Euro pro Stück, also rund 212 Euro für vier Reifen. Andere gelesene Marktplatzangebote lagen sogar bei rund 177 Euro für vier. Der Preisvorteil ist also real und gehört in den Vergleich.
+
+05 · Nexen: die günstigere Mitte
+Die erste preiswerte Alternative findet Qwen 3.6 in OpenCode 2: den Nexen N’blue 4Season 2 für rund 70 Euro pro Stück. Die gelesene Angebotsseite passt zur gesuchten Größe. Vier kosten rechnerisch 281 Euro, also ungefähr 69 Euro mehr als der Goodride. Zusätzlich genannte 60 Euro Versand und zwölf Euro Entsorgung sind geschätzt und nicht belegt.
+
+06 · Hankook: ein passender lokaler Fund
+Qwen 3.8 findet in OpenCode 2 den Hankook Kinergy 4S2 für rund 85 Euro. Die tatsächliche Angebotszeile passt zur Größe, vier ergeben 338 Euro. Gegenüber dem Goodride sind das rund 126 Euro mehr. Als weitere Möglichkeiten nennt die Antwort BFGoodrich und Viking.
+
+07 · Was für den Hankook spricht
+Einen besonders nützlichen Grund für den Hankook findet MiniCPM-AD in Cline: Im gelesenen Originaltest von auto motor und sport hat er den kürzesten Schneebremsweg. Die Antwort nennt außerdem den Uniroyal AllSeason Expert 3. Für unseren Winterurlaub ist so ein konkretes Testergebnis interessanter als die bloße Aussage, eine bekannte Marke sei sicherer.
+
+08 · Quatrac: das Zweierpaket
+Orca findet in OpenCode 2 ein Zweierpaket Vredestein Quatrac im gesuchten Maß. Zwei Pakete ergeben rund 337 Euro; am Angebot stehen Gratisversand und ein Gutschein. Der Aufpreis zum Goodride liegt damit bei rund 124 Euro.
+
+09 · Quatrac: Empfehlung und Grund
+Orca liest auch den Originaltest und entscheidet sich für den Quatrac. Der Test beschreibt gute Eigenschaften auf Nässe und Schnee; die gelesene Note ist 8,2 von zehn Punkten. In Cline nennt Orca daneben Hankook und den günstigeren Kumho.
+
+10 · Derselbe Reifen in lokalen und Cloudantworten
+Beim Quatrac treffen sich die Empfehlungen: Auch Qwen 3.8 in Cline, Gemini, Opus, Sonnet und Qwen 4 Max setzen auf ihn. Die genannten Satzpreise reichen dabei ungefähr von 331 bis 380 Euro. Der Name auf der Empfehlung ist oft derselbe; welches konkrete Angebot die KI herausgesucht hat, verändert den Preis.
+
+11 · Nokian als echte zweite Möglichkeit
+MiniCPM findet in OpenCode 2 neben dem Hankook auch den Nokian Seasonproof 2. Beide passenden Angebotskarten sind tatsächlich gelesen: rund 338 Euro für vier Hankook und 339 Euro für vier Nokian. Der Unterschied beträgt hier nicht einmal einen Euro.
+
+12 · Kleber: die andere Cloudempfehlung
+Die beiden GPT-Antworten entscheiden sich für den Kleber Quadraxer 3. GPT 6 nennt einen konkreten Händler und rund 361 Euro geliefert; das passende Angebot konnten wir später mit fast identischem Preis wiederfinden. GPT 5.6 nennt rund 328 Euro zu seinem Preisstand.
+
+13 · Alle Antworten in derselben Tafel
+Auf der Tafel stehen lokale und Cloudantworten direkt nebeneinander. Die übrigen Empfehlungen bleiben dort mit ihren tatsächlich genannten Alternativen sichtbar, etwa Goodyear bei Qwen 3.6 in Cline und Hankook bei Haiku innerhalb unseres Budgets.
+
+14 · Was spricht nun gegen den billigen Reifen?
+Damit sind wir bei der eigentlichen Frage: Warum überhaupt mehr bezahlen? Mehrere Antworten begründen den Aufpreis mit besseren Bremseigenschaften. Ein nachvollziehbares Warnsignal gibt es beim Goodride tatsächlich: Im Reifentest von AUTO BILD für größere Fahrzeuge benötigt er auf nasser Straße aus Tempo hundert rund 60 Meter, der kürzeste Wert liegt bei rund 43 Metern. Getestet wurde allerdings eine größere Fahrzeugausführung, kein Clio-Reifen.
+
+15 · Goodride nicht pauschal schlechtreden
+Auf Schnee liegen die Werte in demselben Test wesentlich dichter zusammen: rund 27 Meter für Goodride gegenüber rund 25 Metern für die Besten, diesmal aus Tempo fünfzig. Deshalb gehört beides ins Bild: der günstige Preis und die unterschiedlichen Ergebnisse auf nasser Straße und Schnee. Eine Aussage wie „billig und deshalb überall schlecht“ würde diesen Vergleich verfälschen.
+
+16 · Konkrete Unterschiede sauber benennen
+Natürlich passt nicht jede Preis- oder Testzeile automatisch: Qwen 3.6 in Cline verknüpft seinen Goodyear-Preis mit einer anderen Reifengröße. Und mehrere Cloudantworten nennen sehr genaue Goodride-Bremswerte, deren Originalzeile wir nicht bestätigen konnten.
+
+17 · Kurzer Werbeblock ohne Versuchskürzel
+Und beeinflussen Marken oder Shopangaben die Wahl? Dafür gab es zusätzlich eine kleine getrennte Aufgabe mit fest vorgegebenen Reifenangaben. Bei MiniCPM-AD zeigt sich ein deutlicher Wechsel: Ohne Markennamen nimmt es sechsmal den billigeren Reifen, mit Markennamen sechsmal den teureren. Preise und übrige Angaben waren gleich. Die Namen haben in dieser Aufgabe also etwas verändert.
+
+18 · Shopangaben und gleichbleibende Wahl
+Orca wechselt mit zusätzlichen Bewertungen und Shopinformationen einmal von sechs zum günstigeren Reifen; die beiden normalen Qwen-Modelle bleiben bei ihrer Wahl. Das sind konkrete Reaktionen auf Darstellung und Zusatzinformationen. Bezahlte Werbung als Ursache ist damit nicht bewiesen, und dieser Zusatzversuch ersetzt nicht die eben gezeigte eigenständige Reifensuche.
+
+19 · Suchprompt und Begleitmaterial
+Die lokalen Recherchen liefen auf unserem EVO-X2 mit 64 Gigabyte RAM. Im Begleitmaterial findest du einen sauberen Suchprompt zum Kopieren, unsere tatsächlich verwendeten Testprompts und die Antworten mit Quellen. Damit kannst du die Recherche für dein eigenes Auto ausprobieren.
+
+20 · Antwort auf die Käuferfrage
+Was bleibt für unseren Käufer? Der Goodride spart in diesem Beispiel gut 120 Euro gegenüber dem Quatrac oder Hankook. Wer den Aufpreis erwägt, bekommt aus der Recherche konkrete Kandidaten, passende Angebote und greifbare Testargumente. Meine engere Auswahl aus diesen Antworten wäre deshalb Quatrac und Hankook; Nexen liegt preislich in der günstigeren Mitte. Die lokalen KIs haben diese Auswahl selbst gefunden, genau wie die Cloud. Was würdest du zuerst prüfen: Preis, Größe oder Reifentest? Danke fürs Zuschauen; wenn dir der Vergleich hilft, lass gern ein Abo da. Bis zum nächsten Mal bei Dolmario Local AI.

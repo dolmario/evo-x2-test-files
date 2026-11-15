@@ -1,0 +1,59 @@
+01 · The buyer’s question
+Four all-season tyres for a Renault Clio: no more than 95 euros each, twelve thousand kilometres a year and winter holidays in Bavaria. We asked local and cloud AIs: is the cheap Goodride enough, or is the extra cost worth it?
+
+02 · The result first
+The result first: many recommend Hankook or Vredestein Quatrac, both locally and in the cloud. The local AIs found matching offers and original tests. The extra cost compared with Goodride: about 125 euros for four tyres. Let us look at what the individual answers actually found.
+
+03 · Welcome – the same buyer question
+Hello and welcome to Dolmario Local AI. They all received the same buyer’s question and were asked to research it themselves. These are tyre prices from the search day; we did not place an order. Some tests cover a different size. Our shared table always shows the same things: recommendation, alternatives, set price and the matching finding.
+
+04 · Goodride: the cheaper starting point
+The Goodride Z-401 was about 53 euros each, or 212 euros for four. Other marketplace offers we read were even around 177 euros for four. The price advantage is real and belongs in this comparison.
+
+05 · Nexen: the lower-priced middle ground
+Qwen 3.6 in OpenCode 2 finds the first inexpensive alternative: Nexen N’blue 4Season 2 at about 70 euros each. The offer page matches the requested size. Four calculate to 281 euros, around 69 euros more than Goodride. An additional 60 euros delivery and twelve euros disposal are estimates without supporting evidence.
+
+06 · Hankook: a matching local offer
+Qwen 3.8 in OpenCode 2 finds Hankook Kinergy 4S2 for about 85 euros. The actual offer line matches the size, and four give 338 euros. That is about 126 euros more than Goodride. The answer also names BFGoodrich and Viking as other possibilities.
+
+07 · The argument for Hankook
+MiniCPM AD in Cline finds a particularly useful reason for Hankook: in the original auto motor und sport test it reads, Hankook has the shortest snow-braking distance. The answer also names Uniroyal AllSeason Expert 3. For our winter holiday, a concrete test result is more interesting than simply saying a familiar brand is safer.
+
+08 · Quatrac: the two-tyre bundle
+Orca in OpenCode 2 finds a two-tyre Vredestein Quatrac bundle in the requested size. Two bundles give about 337 euros; the offer states free delivery and a voucher. The extra cost compared with Goodride is about 124 euros.
+
+09 · Quatrac: choice and reason
+Orca also reads the original test and chooses Quatrac. The test describes good wet and snow performance; the score it reads is 8.2 out of ten. In Cline, Orca also names Hankook and the cheaper Kumho.
+
+10 · The same tyre in local and cloud answers
+The recommendations meet at Quatrac: Qwen 3.8 in Cline, Gemini, Opus, Sonnet and Qwen 4 Max also choose it. Their quoted set prices range from about 331 to 380 euros. The tyre name is often the same; the specific offer the AI finds changes the price.
+
+11 · Nokian: a genuine second option
+In OpenCode 2, MiniCPM also finds Nokian Seasonproof 2 alongside Hankook. Both matching offer cards were actually read: about 338 euros for four Hankooks and 339 euros for four Nokians. Here, the difference is less than one euro.
+
+12 · Kleber: the other cloud recommendation
+Both GPT answers choose Kleber Quadraxer 3. GPT 6 names a specific retailer and about 361 euros delivered; later we found the matching offer at an almost identical price. GPT 5.6 quotes about 328 euros at its price date.
+
+13 · All answers in the same table
+The table puts local and cloud answers directly alongside each other. Their other recommendations and genuine alternatives remain visible, including Goodyear from Qwen 3.6 in Cline and Hankook from Haiku within our budget.
+
+14 · Why pay more?
+That brings us to the actual question: why pay more at all? Several answers justify the extra cost with better braking. There is a traceable warning for Goodride: in AUTO BILD’s SUV test, it needs about sixty metres on wet roads from one hundred kilometres per hour, against a shortest result of about forty-three metres. However, that was a larger SUV version, not a Clio tyre.
+
+15 · Goodride is not poor everywhere
+On snow, the results in the same test are much closer: about twenty-seven metres for Goodride against twenty-five for the best, this time from fifty kilometres per hour. Both sides belong on screen: the low price and the different wet and snow results. Saying cheap means poor everywhere would misrepresent this comparison.
+
+16 · Specific discrepancies
+Not every price or test line automatically matches: Qwen 3.6 in Cline links its Goodyear price to a different tyre size. Several cloud answers also quote very precise Goodride braking figures whose original table row we could not confirm.
+
+17 · Do brands change the choice?
+Do brands or shop details influence the choice? We also ran a small separate task with fixed tyre information. MiniCPM AD shows a clear switch: without brand names it picks the cheaper tyre six times; with brand names it picks the more expensive one six times. Prices and other facts were unchanged. The names changed something in this task.
+
+18 · Shop details and unchanged choices
+With added reviews and shop information, Orca switches to the cheaper tyre in one of six pairs; the two regular Qwen models keep their choice. These are concrete reactions to presentation and extra information. They do not prove paid advertising as the cause, and this extra task does not replace the independent tyre research we just showed.
+
+19 · Search prompt and companion material
+The local research ran on our EVO-X2 with sixty-four gigabytes of RAM. The companion material includes a clean search prompt to copy, the actual prompts we used, and the answers with sources. You can use them to try the research for your own car.
+
+20 · The answer for our buyer
+What remains for our buyer? In this example, Goodride saves a little over 120 euros compared with Quatrac or Hankook. Anyone considering the extra cost gets concrete candidates, matching offers and tangible test arguments from the research. My shortlist from these answers would therefore be Quatrac and Hankook; Nexen sits in the lower-priced middle ground. The local AIs found this selection themselves, just like the cloud. What would you check first: price, size or tyre test? Thanks for watching; subscribe if this comparison helps you.See you next time at Dolmario Local AI.

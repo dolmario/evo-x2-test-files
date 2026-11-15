@@ -1,0 +1,2194 @@
+{
+  "zweck": "Quellengebundene Vergleichsdaten ohne Globalscores oder Kaufempfehlung.",
+  "anzahl": {
+    "lokale_schlussantworten": 14,
+    "davon_flint_nicht_qualitaetsgewertet": 2,
+    "cloudantworten": 7
+  },
+  "status_lesen": "supported/confirmed bezeichnet konkret gebundene Teilbelege; unverified/open bleibt offen statt falsch; contradicted/misattribution erfordert den jeweils genannten Gegenbeleg. Werte sind keine Fehleranzahl. Produktwahl allein ist kein Fehler.",
+  "antworten": [
+    {
+      "gruppe": "lokal",
+      "modell": "qwen36",
+      "oberflaeche": "opencode2",
+      "antwortdatei": "antworten/lokal/qwen36--opencode2-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "Nexen N’blue4Season2",
+        "claimed_variant": "195/55R16 87H",
+        "unit_eur_approx": 70,
+        "four_goods_eur": 280,
+        "shipping_eur_approx": 60,
+        "disposal_eur_approx": 12,
+        "claimed_total_eur": 352
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "Firestone MultiseasonGen2",
+          "role": "explicit fallback when Nexen too expensive",
+          "claimed_variant": "195/55R16 91H",
+          "unit_eur_from": 86,
+          "four_delivered_eur_approx": [
+            370,
+            380
+          ]
+        },
+        {
+          "product": "GoodrideZ401",
+          "role": "comparison, rejected",
+          "claimed_variant": "195/55R16 91VXL",
+          "unit_eur_approx": 51,
+          "four_goods_eur": 204,
+          "shipping_eur_approx": 60,
+          "disposal_eur_approx": 12,
+          "claimed_total_eur": 276
+        },
+        {
+          "product": "GoodyearVector4SeasonsGen2",
+          "role": "explicitly rejected abovebudget",
+          "unit_eur_approx": 150,
+          "four_eur_above": 600
+        },
+        {
+          "product": "MichelinCrossClimate2",
+          "role": "explicitly rejected abovebudget",
+          "unit_eur_approx": [
+            100,
+            110
+          ]
+        }
+      ],
+      "belegpruefung": [
+        "Belegt: Nexen N’blue 4 Season 2 im gesuchten Maß 87 H steht im gelesenen Geizhals-Angebot mit 70,34 Euro; rund 70 Euro ist nachvollziehbar.",
+        "Offen:60 Euro Versand und 12 Euro Entsorgung sind keine bestätigten Händlerkosten. Die Addition 352 Euro stimmt nur unter diesen Annahmen.",
+        "Die nach eigenen Zahlen teurere Firestone-Ausweichlösung spart nichts gegenüber Nexen. Aussagen über Goodride-Schnee, Haltbarkeit, Seitenwand und Garantie sind nicht passend belegt."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://de.tyrereviews.com/Tyre-Tests/2024-ADAC-All-Season-Tyre-Test.htm",
+        "https://geizhals.de/firestone-multiseason-2-v37570.html",
+        "https://geizhals.de/nexen-n-blue-4season-2-195-55-r16-87h-19759-a3855589.html",
+        "https://presse.adac.de/meldungen/adac-ev/tests/adac-testet-16-ganzjahresreifen-wenige-sind-wirklich-allwettertauglich.html",
+        "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+        "https://www.chip.de/test-kaufberatung/auto-fahrrad/ganzjahresreifen-test-allwetterreifen-testsieger-laut-der-adac_ba6d7d6e-07be-4385-a48c-301d9a4b7ca1.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/201565087_-crossclimate-2-195-55-r16-87h-michelin.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/4813257_-vector-4seasons-gen-2-195-55-r16-87h-op-goodyear.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/7082407_-z-401-195-55-r16-91v-xl-goodride.html",
+        "https://www.reifen.com/de-de/auto/reifen/dimension/16-zoll/195-55-r16/195-55-r16-87h/ganzjahresreifen",
+        "https://www.welt.de/vergleich/ganzjahresreifen-195-55-r16/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 17,
+        "read": 11
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "qwen36",
+      "oberflaeche": "cline",
+      "antwortdatei": "antworten/lokal/qwen36--cline-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "GoodyearVector4SeasonsGen3",
+        "claimed_variant": "195/55R16 87H",
+        "unit_eur_approx": [
+          73,
+          78
+        ],
+        "four_goods_eur": [
+          292,
+          312
+        ],
+        "shipping_eur_approx": [
+          15,
+          25
+        ],
+        "claimed_total_eur": [
+          307,
+          337
+        ]
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "ContinentalAllSeasonContact2",
+          "role": "table comparison, above95Eurobudget",
+          "unit_eur": 105,
+          "four_goods_eur": 420,
+          "shipping_eur": [
+            15,
+            25
+          ],
+          "claimed_total_eur": [
+            435,
+            445
+          ]
+        },
+        {
+          "product": "MichelinCrossClimate2",
+          "role": "test comparison only",
+          "unit_eur_approx": [
+            95,
+            100
+          ]
+        },
+        {
+          "product": "PirelliCinturatoAllSeasonSF3",
+          "role": "test comparison only",
+          "unit_eur_approx": [
+            90,
+            95
+          ]
+        },
+        {
+          "product": "VredesteinQuatrac",
+          "role": "table comparison, rejected for claimed winterweakness",
+          "unit_eur": 83,
+          "four_goods_eur": 332,
+          "shipping_eur": [
+            15,
+            25
+          ],
+          "claimed_total_eur": [
+            347,
+            357
+          ]
+        },
+        {
+          "product": "GoodrideZ401Amazon",
+          "role": "comparison, rejected",
+          "unit_eur_approx": [
+            35,
+            45
+          ],
+          "four_goods_eur": [
+            140,
+            180
+          ],
+          "shipping_eur": [
+            10,
+            15
+          ],
+          "claimed_total_eur": [
+            150,
+            195
+          ]
+        }
+      ],
+      "belegpruefung": [
+        "Konkrete Abweichung: Die Quelle für den Goodyear-Preis 73–78 Euro betrifft 205/55 R 16 statt 195/55 R 16. Diese Zeile belegt den gewünschten Preis nicht. Continental- und Quatrac-Warenpreise sind ungefähr passend belegt.",
+        "Primär nachgeprüft: ADAC 2024 Goodyear 2,4 gut, nicht 2,0 sehrgut. Die Prognose 60700 km und positive Nässe-/Winterwerte gehören tatsächlich zu diesem Test in 205/55 R 16. Keine Lebensdauergarantie.",
+        "Versand, Amazon-Preis und pauschale Goodride-Haltbarkeits-/Versicherungsbehauptungen bleiben offen. ADAC 2026 hat eine andere Größe 185/65 R 15; der Text benennt diese Grenze, einzelne Tabellenwerte sind nicht vollständig korrekt belegt."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/",
+        "https://www.autodoc.de/info/goodride-autoreifen-test-wie-gut-sind-sie",
+        "https://www.chip.de/test-kaufberatung/auto-fahrrad/ganzjahresreifen-test-allwetterreifen-testsieger-laut-der-adac_ba6d7d6e-07be-4385-a48c-301d9a4b7ca1.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/200247979_vector-4seasons-gen-3-205-55-r16-91v-goodyear.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/200719256 quatrac-195-55-r16-87h-vredestein.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/202814854_allseasoncontact-2-195-55-r16-87h-evc-continental.html",
+        "https://www.idealo.de/preisvergleich/ProductCategory/7735.html",
+        "https://www.idealo.de/preisvergleich/ProductCategory/7735F101550966.html",
+        "https://www.idealo.de/preisvergleich/ProductCategory/7735F103814315.html",
+        "https://www.idealo.de/preisvergleich/ProductCategory/7735F104916671.html",
+        "https://www.idealo.de/preisvergleich/ProductCategory/7735F396681.html",
+        "https://www.idealo.de/preisvergleich/ProductCategory/7735F396681F396657.html",
+        "https://www.reifen.com/de-de/auto/reifen/marken/qualitaetsreifen/goodride",
+        "https://www.reifen.com/de-de/auto/reifen/saison/ganzjahresreifen",
+        "https://www.reifendirekt.de/Reifen/195/55/16/Ganzjahresreifen.html",
+        "https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 23,
+        "read": 16
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt.",
+      "ergaenzende_primaerpruefung": {
+        "quelle": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/205-55-r16/goodyear-vector-4seasons-gen-3-id-4841/",
+        "befund": "ADAC2024in205/55R16: Goodyear2,4gut statt2,0sehrgut;60700kmPrognose,Nässe2,5undWinter2,3positivbestätigt. Keine Garantie fürandereGrößeoderLebensdauer. TestreifenproduktionPolen,keineAussageüberalleVarianten."
+      }
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "qwen38",
+      "oberflaeche": "opencode2",
+      "antwortdatei": "antworten/lokal/qwen38--opencode2-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "HankookKinergy4S2H750",
+        "claimed_variant": "195/55R16 87V",
+        "unit_eur": 84.51,
+        "shipping_claim": "included in observed single-unitoffer",
+        "four_goods_or_listed_delivered_eur": 338.04,
+        "seller": "eBay/shoptyres78",
+        "DOT_claim": "25/26",
+        "rating_claim": "4.9/5",
+        "delivery_claim": "by26Nov"
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "BFGoodrichAdvantageAllSeason",
+          "variant": "195/55R16 87H",
+          "role": "recommendedbudgetalternative",
+          "unit_eur": 83.74,
+          "four_eur_rounded": 335,
+          "shipping_verified": false
+        },
+        {
+          "product": "VikingFourTechPlus",
+          "variant": "195/55R16 87H",
+          "role": "recommendedbudgetalternative",
+          "unit_eur": 78.49,
+          "shipping_verified": false
+        },
+        {
+          "product": "NexenNblue4Season2",
+          "role": "rejectedtestcomparison",
+          "unit_eur_approx": 70,
+          "shipping_verified": false
+        },
+        {
+          "product": "VredesteinQuatrac",
+          "variant": "195/55R16 87H",
+          "role": "rejectedtestcomparison",
+          "unit_eur": 82.74,
+          "shipping_verified": false
+        },
+        {
+          "product": "BarumQuartaris5",
+          "role": "rejectedtestcomparison",
+          "unit_eur": 74,
+          "shipping_verified": false
+        },
+        {
+          "product": "GoodyearVector4SeasonsGen3",
+          "variant": "195/55R16 91HXL",
+          "role": "abovebudgetupgrade",
+          "unit_eur": 100.46,
+          "four_eur_rounded": 402,
+          "shipping_verified": false
+        },
+        {
+          "product": "ContinentalAllSeasonContact2",
+          "variant": "195/55R16 87HEVc",
+          "role": "abovebudgetupgrade",
+          "unit_eur": 105.44,
+          "four_eur": 421.76,
+          "shipping_verified": false
+        },
+        {
+          "product": "GoodrideZ401",
+          "variant": "195/55R16 91VXL",
+          "role": "rejectedbudgetcomparison",
+          "unit_eur": 44.18,
+          "four_eur": 176.72,
+          "shipping_claim": "included onVoelkner marketplaceoffer, not actualAmazoncheckout"
+        }
+      ],
+      "belegpruefung": [
+        "Belegt: Hankook 87 V 84,51 Euro, vier 338,04 Euro; passender Goodride 91 VXL 44,18 Euro, vier 176,72 Euro. Angaben stammen aus gelesenen Angebotszeilen, kein Amazon-Checkout.",
+        "BFGoodrich, Viking, Nexen, Barum, Quatrac und teurere Goodyear-/Continental-Varianten sind mit tatsächlichen Warenpreisen gefunden. Viererlieferbedingungen bleiben gesondert offen; Viking-Quellmetadaten sind intern widersprüchlich.",
+        "ADAC 2024 Hankook 2,7 und Fahrsicherheit 2,9 sind tatsächlich gelesen, aber in 205/55 R 16. Die schlechte Quatrac-Note 3,8 gehört zum anderen ModellQuatracPro+. Gute Preisfunde bleiben durch diesen Zuordnungsfehler erhalten.",
+        "Goodride-Schnee-/Sicherheits-/Lebensdaueraussagen und eine konkrete Versicherungszusage sind nicht passend belegt. Ein günstiger Preis oder Markenname beweist keine Messleistung."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/",
+        "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/205-55-r16/",
+        "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/225-45-r17/",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/200719256_-quatrac-195-55-r16-87h-vredestein.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/202814854_-allseasoncontact-2-195-55-r16-87h-evc-continental.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/209443760_-z-401-195-55-r16-91-v-xl-goodride.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/6817925_-kinergy-4s-2-h750-195-55-r16-87v-hankook.html",
+        "https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 8,
+        "read": 10
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "qwen38",
+      "oberflaeche": "cline",
+      "antwortdatei": "antworten/lokal/qwen38--cline-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "VredesteinQuatrac",
+        "variant": "195/55R16 87H",
+        "unit_eur_coupon": 86.44,
+        "four_eur_arithmetic": 345.76,
+        "shipping_claim": "gratis in observed offer",
+        "seller": "eBay/netzautoteile",
+        "coupon": {
+          "code": "PKW26",
+          "discount_percent": 10,
+          "cap_eur": 50,
+          "valid_until": "2026-11-18T23:59"
+        },
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "HankookKinergy4S2H750",
+          "variant": "195/55R16 91HXL",
+          "role": "secondchoice",
+          "unit_eur_approx": [
+            83.62,
+            84.24
+          ],
+          "shipping_verified": false
+        },
+        {
+          "product": "GoodyearVector4SeasonsGen3",
+          "variant": "195/55R16 91V",
+          "role": "abovebudgetupgrade",
+          "unit_eur_approx": 101,
+          "shipping_verified": false
+        },
+        {
+          "product": "ContinentalAllSeasonContact2",
+          "role": "testcomparisonabovebudget",
+          "unit_eur_above": 100,
+          "shipping_verified": false
+        },
+        {
+          "product": "PirelliCinturatoAllSeasonSF3",
+          "role": "testcomparisonnotexplicitrecommendation",
+          "unit_eur": null
+        },
+        {
+          "product": "NokianSeasonproof2",
+          "role": "testcomparisonnotexplicitrecommendation",
+          "unit_eur": null
+        },
+        {
+          "product": "KleberQuadraxer3",
+          "role": "testcomparisonnotexplicitrecommendation",
+          "unit_eur_approx": 85,
+          "shipping_verified": false
+        },
+        {
+          "product": "GoodrideZ401",
+          "variant": "195/55R16 91VXL",
+          "role": "rejectedbudgetcomparison",
+          "unit_eur_approx": [
+            44.18,
+            56
+          ],
+          "four_eur_claim_approx": [
+            177,
+            215
+          ],
+          "Amazoncheckout_verified": false
+        }
+      ],
+      "belegpruefung": [
+        "Belegt: Quatrac 87 H 86,44 Euro mit GutscheinPKW 26, maximal 50 Euro Nachlass, gültig bis 18.11.2026, Gratisversand.4×86,44=345,76 Euro; Gutschein-/Mengenberechtigung und Vierercheckout bleiben ungeprüft.",
+        "AMS-Original 2026 stützt Quatrac 8,2, Continental 8,7 und die weiteren genannten Modellnoten. AUTO-BILD-Kartennoten sind gelesen; Januar 2026 als Seitendatum beweist kein neues Testdurchführungsjahr.87 H ist nicht automatisch die getestete Ausführung.",
+        "Passende Labelunterschiede sind belegt. Die pauschale Behauptung, es gebe keinen unabhängigen Z-401-Test, ist zu weit: Ein Original-SUV-Test derselben Familie in anderer Größe existiert. Der exakte 195 erBremsvorauswahlbeleg bleibt offen.",
+        "Konkreter Herstellergegenbeleg: Vredestein gehört zu Apollo Tyres, nicht zur Goodyear-Gruppe. Keine pauschale Abwertung der ansonsten belegten Preis-/Testfunde."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://geizhals.de/vredestein-quatrac-195-55-r16-87h-a2390761.html",
+        "https://presse.adac.de/meldungen/adac-ev/tests/adac-testet-16-ganzjahresreifen-wenige-sind-wirklich-allwettertauglich.html",
+        "https://www.amazon.de/Goodride-Z-401-Ganzjahresreifen-T274429-Felge/dp/B089RN4CFK",
+        "https://www.auto-motor-und-sport.de/verkehr/die-besten-allwetterreifen-195-55-r-16-fuer-kleinwagen-im-test/",
+        "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/200719256_-quatrac-195-55-r16-87h-vredestein.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/209443760_-z-401-195-55-r16-91-v-xl-goodride.html",
+        "https://www.reifen.de/reifen/vredestein-195-55-16-quatrac/108+200+201+202+205"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 15,
+        "read": 8
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "qwen36-hauhau",
+      "oberflaeche": "opencode2",
+      "antwortdatei": "antworten/lokal/qwen36-hauhau--opencode2-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "HankookKinergy4S2H750",
+        "supported_variant": "195/55R16 91HXLFR",
+        "claimed_unit_eur_approx": [
+          84,
+          85
+        ],
+        "claimed_four_delivered_eur_approx": [
+          336,
+          340
+        ],
+        "actual_read_offer_unit_eur": 84.24,
+        "actual_offer_includes_shipping": true,
+        "actual_offer_mentions_coupon": true,
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "GoodyearVector4SeasonsGen3",
+          "role": "abovebudgettestwinner",
+          "read_variant": "195/55R16 91VXL",
+          "claimed_unit_eur_approx": 101,
+          "claimed_four_delivered_eur_approx": 420,
+          "shipping_total_verified": false
+        },
+        {
+          "product": "VredesteinQuatrac",
+          "role": "withinbudgetsecondplacecomparison",
+          "read_variant": "195/55R16 91VXL",
+          "claimed_unit_eur_approx": [
+            88,
+            89
+          ],
+          "claimed_four_delivered_eur_approx": [
+            360,
+            380
+          ],
+          "actual_read_offer": 87.63,
+          "actual_read_offer_includes_shipping": true,
+          "four_checkout_performed": false
+        },
+        {
+          "product": "GoodrideZ401",
+          "role": "budgetpositivebutnotmainrecommendation",
+          "read_variant": "195/55R16 91VXL",
+          "claimed_unit_eur_approx": [
+            50,
+            55
+          ],
+          "claimed_four_delivered_eur_approx": 230,
+          "actual_read_offer_unit": 50.31,
+          "actual_read_offer_includes_shipping": true,
+          "four_checkout_performed": false
+        }
+      ],
+      "belegpruefung": [
+        "Belegt: Hankook 91 HXLFR 84,24 Euro inklusive angezeigtem Versand und Gutscheinhinweis;4×84,24=336,96 Euro. Quatrac und Goodyear-Preiszeilen sind ebenfalls gefunden. Menge, Gutscheinbedingungen und Vierercheckout bleiben offen.",
+        "AUTO-BILD-Kartennoten 2,1/1,3/1,4 und Hankook-Felgenschutz sind gelesen. Seitendatum und Testjahr unterscheiden; Portal-Laufleistungsangaben sind keine individuelle Garantie.",
+        "Goodrides niedriger Preis und 3 PMSF sind positiv belegt. Ein fehlender Felgenschutz bei allen anderen Varianten, ein exakter 6 MeterBremsvorteil aus den Labelklassen oder garantierte Haltbarkeit sind nicht nachgewiesen.",
+        "Die Formulierung mit 4 cm und gleicherNote trotz 1,4/2,1 ist ein begrenzter Widerspruch im Text, kein neuer Sicherheitsmessbefund."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/202216437_-quatrac-195-55-r16-91v-xl-vredestein.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/6817922_-kinergy-4s-2-h750-195-55-r16-91h-xl-fr-hankook.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/7082407_-z-401-195-55-r16-91v-xl-goodride.html",
+        "https://www.welt.de/vergleich/ganzjahresreifen-195-55-r16/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 8,
+        "read": 5
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "qwen36-hauhau",
+      "oberflaeche": "cline",
+      "antwortdatei": "antworten/lokal/qwen36-hauhau--cline-r1--separat-angefordert.txt",
+      "gesondert_angeforderte_sitzung": true,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "VredesteinQuatracAllSeason",
+        "matching_card_variant": "195/55R16 87H",
+        "claimed_unit_eur": [
+          83,
+          88
+        ],
+        "claimed_four_delivered_eur": [
+          332,
+          352
+        ],
+        "actual_read_goods_price": 82.74,
+        "shipping_total_verified": false,
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "PirelliCinturatoAllSeasonSF3",
+          "role": "testwinnerabovebudget",
+          "claimed_unit_eur": [
+            98,
+            104
+          ],
+          "claimed_four_delivered_eur": [
+            392,
+            416
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "ContinentalAllSeasonContact2",
+          "role": "abovebudgetcomparison",
+          "claimed_unit_eur": [
+            99,
+            105
+          ],
+          "claimed_four_delivered_eur": [
+            396,
+            420
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "GoodyearVector4SeasonsGen3",
+          "role": "abovebudgetcomparison",
+          "claimed_unit_eur": [
+            100,
+            104
+          ],
+          "claimed_four_delivered_eur": [
+            400,
+            416
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "BridgestoneTuranzaAllSeason6",
+          "role": "comparisonpartlywithinbudget",
+          "claimed_unit_eur": [
+            93,
+            115
+          ],
+          "claimed_four_delivered_eur": [
+            372,
+            460
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "MichelinCrossClimate2",
+          "role": "abovebudgetcomparison",
+          "claimed_unit_eur": [
+            116,
+            134
+          ],
+          "claimed_four_delivered_eur": [
+            464,
+            536
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "HankookKinergy4S2",
+          "role": "budgetalternative",
+          "claimed_unit_eur": [
+            84,
+            84
+          ],
+          "claimed_four_delivered_eur": [
+            336,
+            336
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "NexenNblue4Season2",
+          "role": "budgetalternative",
+          "claimed_unit_eur": [
+            74,
+            80
+          ],
+          "claimed_four_delivered_eur": [
+            296,
+            320
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "KleberQuadraxer3",
+          "role": "budgetalternative",
+          "claimed_unit_eur": [
+            81,
+            83
+          ],
+          "claimed_four_delivered_eur": [
+            324,
+            332
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "GoodrideZ401",
+          "role": "rejectedbudgetcomparison",
+          "claimed_unit_eur": [
+            44,
+            44
+          ],
+          "claimed_four_delivered_eur": [
+            176,
+            196
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "SailunAtrezzo4SeasonsUltra",
+          "role": "budgetcomparison",
+          "claimed_unit_eur": [
+            53,
+            53
+          ],
+          "claimed_four_delivered_eur": [
+            212,
+            236
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "FortunaEcoPlus2 4S",
+          "role": "budgetcomparison",
+          "claimed_unit_eur": [
+            55,
+            55
+          ],
+          "claimed_four_delivered_eur": [
+            220,
+            244
+          ],
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        },
+        {
+          "product": "FalkenEuroALLSeasonAS210",
+          "role": "testrank8only",
+          "claimed_unit_eur": null,
+          "claimed_four_delivered_eur": null,
+          "four_checkout_verified": false,
+          "claim_scope": "Finalanswerstatedrange; exactsourceconfidenceinclaimALT, notallindividuallyprimaryconfirmed."
+        }
+      ],
+      "belegpruefung": [
+        "Zusätzlich angeforderte Sitzung, kein unabhängiger Erstversuch. Quatrac 87 H-Warenpreis ab 82,74 Euro stützt die Schätzung 83–88 Euro; Viererrechnung 332–352 Euro stimmt, Gratisversand nicht konkret bestätigt.",
+        "Original-Autoflotte-Testtext 2025 stützt Pirelli als Sieger und positive Quatrac-Komfort-/Geräuscheigenschaften. Exakte Rangfolge/Noten teils nur sekundär reproduziert, kein neuer Originalgrafik-Messbeleg.",
+        "Konkrete Goodride-/Quatrac-Brems- und Laufleistungsvergleiche bleiben unbelegt. Die eigene Schneetabelle 26 gegen 27–29 Meter ergibt 1–3 Meter, nicht spätere 4–5 Meter.",
+        "Pirelli-Angebot mit Gutscheinhinweis tatsächlich gelesen; übrige Preisbänder teils Kategorien/Suchauszüge. Keine abgeschlossenen Viererkäufe oder universelle Produktrotation-/Lebensdauerwirkung bestätigt."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://de.tyrereviews.com/Tyre-Tests/2024-ADAC-All-Season-Tyre-Test.htm",
+        "https://de.tyrereviews.com/Tyre-Tests/2025-die-reifentester-all-season-tyre-test-195-55-r16.htm",
+        "https://presse.adac.de/meldungen/adac-ev/tests/adac-testet-16-ganzjahresreifen-wenige-sind-wirklich-allwettertauglich.html",
+        "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+        "https://www.autoflotte.de/nachrichten/fuhrpark/endlich-erwachsen-3633306",
+        "https://www.autohaus.de/mediathek/ganzjahresreifen-test-2025-195-55-r16-alle-wertungen-alle-ergebnisse-3638986",
+        "https://www.idealo.de/preisvergleich/Liste/11990002/allwetterreifen-195-55-r16.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/204113013_-cinturato-all-season-sf-3-195-55-r16-91v-xl-pirelli.html",
+        "https://www.reifen.de/pirelli-cinturato-all-season-sf-3-195-55-r16-91v--4112529",
+        "https://www.reifen.de/reifen/goodride-195-55-16/108+200+201+202",
+        "https://www.reifen.de/reifen/pkw/ganzjahresreifen/195-55-16/200+201+202",
+        "https://www.reifenlab.de/reifentester/allseason/2025/195-55-r16/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 13,
+        "read": 12
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "qwen38-orca",
+      "oberflaeche": "opencode2",
+      "antwortdatei": "antworten/lokal/qwen38-orca--opencode2-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "VredesteinQuatrac",
+        "variant": "195/55R1687H",
+        "unit_eur": 82.74,
+        "claimed_four_delivered_eur": [
+          331,
+          337
+        ],
+        "observed_exact_bundle": {
+          "quantity": 2,
+          "price_eur": 168.28,
+          "advertised_shipping": "free",
+          "coupon_required": true,
+          "two_bundles_arithmetic_eur": 336.56
+        },
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "ContinentalAllSeasonContact2",
+          "variant": "195/55R1687HEVc",
+          "role": "explicitabovebudgetupgrade",
+          "unit_eur": 105.44,
+          "four_eur_rounded": 422,
+          "checkout_verified": false
+        },
+        {
+          "product": "GoodrideZ401",
+          "variant": "195/55R1691V",
+          "role": "rejectedbudgetcomparison",
+          "unit_eur": 53.1,
+          "four_eur_rounded": 212,
+          "shipping_claim": "PortalAmazonMarketplacecardfree;directAmazoncheckoutnotverified"
+        },
+        {
+          "product": "PirelliCinturatoAllSeasonSF3",
+          "role": "testcomparison8.0notexplicitpricedalternative",
+          "unit_eur": null
+        },
+        {
+          "product": "NokianSeasonproof2",
+          "role": "testcomparison7.9notexplicitpricedalternative",
+          "unit_eur": null
+        }
+      ],
+      "belegpruefung": [
+        "Belegt: Quatrac 87 H 82,74 Euro Warenpreis, vier 330,96 Euro. Tatsächliche 2 erPakete 87 H 168,28/169,47 Euro mit Gratisversand und Gutscheinhinweis;2×168,28=336,56 Euro. Menge/Gutscheinbedingungen nicht im Checkout geprüft.",
+        "AMS-Originalnoten und gute Quatrac-Nässe-/Schneebeschreibung tatsächlich gelesen. ADAC/test.de 2026 mit 185/65 R 15 ist als andere Größe angegeben.",
+        "Goodride-AmazonMarketplace 53,10 Euro/versandfrei steht auf einem Portal, kein direkter Amazon-Checkout.76 Punkte auf testsieger.de sind ein Portalscore, kein unabhängiger Messnotenbeleg.",
+        "Breite Aussagen über günstige Reifen im Gebirge und ein auf 195/55 R 16 übertragenerSUV-Nässebefund bleiben begrenzt. Das abweichende Preisdatum 12 November ist nicht unabhängig gebunden."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://www.amazon.de/Goodride-Z-401-Ganzjahresreifen-T274429-Felge/dp/B089RN4CFK",
+        "https://www.auto-motor-und-sport.de/verkehr/die-besten-allwetterreifen-195-55-r-16-fuer-kleinwagen-im-test/",
+        "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+        "https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/",
+        "https://www.testsieger.de/pkw-ganzjahresreifen/FA7WC61J77YT1-goodride-z-401-19555r16-91-v.html"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 8,
+        "read": 5
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "qwen38-orca",
+      "oberflaeche": "cline",
+      "antwortdatei": "antworten/lokal/qwen38-orca--cline-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "VredesteinQuatrac",
+        "variant": "195/55R1687H",
+        "unit_eur": 82.74,
+        "four_goods_eur": 330.96,
+        "claimed_delivered_eur_range": [
+          331,
+          360
+        ],
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "HankookKinergy4S2",
+          "actual_read_variant": "195/55R1691HXLFR",
+          "role": "explicitsecondchoice",
+          "claimed_unit_eur_approx": 84
+        },
+        {
+          "product": "KumhoSolus4SHA32+",
+          "actual_read_variant": "195/55R1691VXL",
+          "role": "explicitcheapestacceptablealternative",
+          "claimed_unit_eur_approx": 74
+        },
+        {
+          "product": "GoodyearVector4SeasonsGen3",
+          "role": "abovebudgettestwinner",
+          "unit_eur_range": [
+            100.46,
+            101.49
+          ],
+          "four_goods_eur_range": [
+            401.84,
+            405.96
+          ]
+        },
+        {
+          "product": "GoodrideZ401",
+          "variant": "195/55R1691VXL",
+          "role": "rejectedbudgetcomparison",
+          "unit_eur_approx": [
+            44,
+            55
+          ],
+          "four_eur_approx": [
+            177,
+            220
+          ]
+        },
+        {
+          "product": "PirelliCinturatoAllSeasonSF3",
+          "role": "abovebudgetother-testwinnercomparison",
+          "claimed_unit_eur": 116
+        },
+        {
+          "product": "KleberQuadraxer3",
+          "role": "testcomparisonnotpricedalternative",
+          "test_grade_claim": 2.2
+        },
+        {
+          "product": "ToyoCelsiusAS2",
+          "role": "testcomparisononly"
+        },
+        {
+          "product": "FalkenEuroALLSeasonAS210",
+          "role": "testcomparisononlygrade-rangeinaccurate"
+        },
+        {
+          "product": "FirestoneMultiseason2",
+          "role": "testcomparisononly"
+        },
+        {
+          "product": "MaxxisPremitraAllSeasonAP3",
+          "role": "testcomparisononly"
+        }
+      ],
+      "belegpruefung": [
+        "Belegt: Quatrac 87 H 82,74 Euro, vier 330,96 Euro Warenpreis. Goodyear- und Hankook-/Kumho-Preiszeilen sind gelesen; Kumho bezieht sich aufHA 32+91 VXL. Höhere Indizes sind nicht automatisch falsch.",
+        "AUTO-BILD-Kartennoten sind weitgehend korrekt übernommen. Die Zusammenfassung der hinteren Plätze ist für Falken ungenau: tatsächlich 2,7 statt pauschal 3,3–4,0. Januar 2026 ist kein gesichertes Testdurchführungsjahr.",
+        "Konkreter Skalenfehler: NassklasseC ist nicht die schlechteste; offizielle EU-SkalaA–E. Die tatsächlichen B/C- und 70/72 dB-Unterschiede bleiben belegt.",
+        "Versand 331–360 Euro ist ein Schätzbereich. TyreReviews-Aggregat und ein Test des anderen WintermodellsSW 608 sind keine primären Messwerte des angebotenenZ-401. Fahrzeugfreigabe, Verschleiß und Montagepreis bleiben offen."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://www.amazon.de/Goodride-Z-401-Ganzjahresreifen-T274429-Felge/dp/B089RN4CFK",
+        "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+        "https://www.autohaus.de/mediathek/ganzjahresreifen-test-2025-195-55-r16-alle-wertungen-alle-ergebnisse-3638986",
+        "https://www.idealo.de/preisvergleich/Liste/124211313/goodride-195-55r16-87v-allwetter.html",
+        "https://www.idealo.de/preisvergleich/Liste/124436907/goodyear-195-55-r16-87h-vector-4seasons.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/200719256_-quatrac-195-55-r16-87h-vredestein.html",
+        "https://www.reifen.de/reifen/vredestein-195-55-16-quatrac/108+200+201+202+205",
+        "https://www.reifendirekt.de/rshop/Ganzjahresreifen/195-55-R16-87H",
+        "https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 14,
+        "read": 11
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "minicpm",
+      "oberflaeche": "opencode2",
+      "antwortdatei": "antworten/lokal/minicpm--opencode2-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "Hankook Kinergy4S2 H750",
+        "variant": "195/55R16 87V",
+        "unit_eur": 84.51,
+        "four_goods_eur": 338.04,
+        "claimed_four_delivered_range_eur": [
+          338,
+          398
+        ],
+        "co_main": "Nokian Seasonproof2 87H84.71,four338.84,claimed339–399",
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "GoodRide Z-401",
+          "variant": "195/55R16 91V XL",
+          "unit_eur": 44.18,
+          "role": "rejected budget option",
+          "claimed_note": null,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Imperial All Season Driver",
+          "variant": "195/55R16 87V",
+          "unit_eur": 45.99,
+          "role": "table alternative",
+          "claimed_note": null,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Nexen N’blue 4Season 2",
+          "variant": "195/55R16 87H",
+          "unit_eur": 70.12,
+          "role": "table alternative",
+          "claimed_note": 3.2,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Kumho Solus4S HA32+",
+          "variant": "195/55R16 91V XL",
+          "unit_eur": 71.53,
+          "role": "table alternative",
+          "claimed_note": null,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Fulda Multicontrol",
+          "variant": "195/55R16 91H",
+          "unit_eur": 79.67,
+          "role": "table alternative",
+          "claimed_note": null,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Kleber Quadraxer3",
+          "variant": "195/55R16 87H",
+          "unit_eur": 81.18,
+          "role": "table alternative",
+          "claimed_note": 2.2,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Vredestein Quatrac",
+          "variant": "195/55R16 87H",
+          "unit_eur": 82.74,
+          "role": "table alternative",
+          "claimed_note": null,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Hankook Kinergy4S2 H750",
+          "variant": "195/55R16 87V",
+          "unit_eur": 84.51,
+          "role": "main choice",
+          "claimed_note": 2.1,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Nokian Seasonproof2",
+          "variant": "195/55R16 87H",
+          "unit_eur": 84.71,
+          "role": "co-main alternative",
+          "claimed_note": 2.0,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Goodyear Vector4Seasons Gen3",
+          "variant": "195/55R16 91H XL OP",
+          "unit_eur": 100.04,
+          "role": "above-budget table comparison",
+          "claimed_note": 1.3,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        },
+        {
+          "product": "Michelin CrossClimate2",
+          "variant": "195/55R16 91V XL",
+          "unit_eur": 111.78,
+          "role": "above-budget table comparison",
+          "claimed_note": 3.2,
+          "price_source": "Tatsächlich gelesene Idealo-Karte; kein Vierercheckout.",
+          "four_checkout_verified": false
+        }
+      ],
+      "belegpruefung": [
+        "Belegt: Hankook 87 V 84,51 Euro und NokianSeasonproof 2 87 H 84,71 Euro; vier 338,04 beziehungsweise 338,84 Euro Warenpreis. Alle zusätzlichen Tabellenpreise stammen aus tatsächlich gelesenen Karten.",
+        "Konkrete Produktverwechslung: Nexen 4 Season 2-Preis 70,12 Euro wird mit der 3,2-Note des Vorgängers ohne 2 kombiniert. Weitere Portal-Durchschnittsnoten sind keine einheitliche Messung aller angebotenen Größen.",
+        "Schneekennzeichnung ist auf passenden Karten vorhanden. Daraus oder aus Durchschnittsnoten folgt kein besseres Schneeverhalten gegenüber dem anderen Reifen.",
+        "Versand 0–60 Euro ist eine Annahme; Summen sind unter dieser Annahme korrekt. Keine konkrete Goodride-Winter-/Haltbarkeitsmessung und kein Vierercheckout belegt."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/",
+        "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=site%3Aidealo.de+195%2F55+R16+Ganzjahresreifen",
+        "https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 8,
+        "read": 2
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "minicpm",
+      "oberflaeche": "cline",
+      "antwortdatei": "antworten/lokal/minicpm--cline-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "Hankook Kinergy 4S H750",
+        "identity_note": "H750 spricht für Kinergy 4S²; vollständige Angebotsvariante nicht genannt.",
+        "claimed_unit_eur_approx": [
+          75,
+          85
+        ],
+        "claimed_four_delivered_eur_approx": [
+          300,
+          340
+        ],
+        "exact_dimension_in_final": null,
+        "load_speed_index_in_final": null,
+        "four_checkout_performed": false,
+        "shipping_verified": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "Goodyear Vector 4Seasons Gen-3",
+          "role": "Explizite alternative Hauptempfehlung vor abschließendem Hankook-Tipp.",
+          "claimed_unit_eur_approx": [
+            85,
+            95
+          ],
+          "four_goods_eur_approx": [
+            340,
+            380
+          ],
+          "variant_verified": false
+        },
+        {
+          "product": "Barum Quartaris 5",
+          "role": "Preisvergleich in Tabelle; keine ausdrückliche Rangfolge oder eigene abschließende Empfehlung.",
+          "claimed_unit_eur_approx": [
+            60,
+            70
+          ],
+          "four_goods_eur_approx": [
+            240,
+            280
+          ],
+          "variant_verified": false
+        },
+        {
+          "product": "Goodride All Seasons Elite",
+          "role": "Abgelehnter Budgetvergleich; Z-401 im Final nicht ausdrücklich genannt.",
+          "claimed_unit_eur_approx": [
+            50,
+            65
+          ],
+          "four_goods_eur_approx": [
+            200,
+            260
+          ],
+          "variant_verified": false
+        }
+      ],
+      "belegpruefung": [
+        "Viererrechnungen zu den angegebenen Preisintervallen sind korrekt. Alle vier genannten Produktfamilien stehen im tatsächlich gelesenen Ganzjahreskatalog; primärer Suchtreffer stützt ZC-Rubber-Zuordnung.",
+        "Gelesene ADAC/test.de-Anfänge enthalten keine Notentabellen; Idealo-Abschnitte nur Filter/Serien. Keine konkreten Angebotsvarianten oder Preise erreicht. Schätzpreise bleiben offen, nicht als erfunden bewiesen.",
+        "Der als Versandpreis genannte Gesamtbereich 300–340 Euro ist nicht durch einen konkreten Viererlieferbeleg gestützt. Exakte Angebotsgröße/Index fehlen; HankookH 750 ist eine plausible Familienbezeichnung."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://reifen.auto.check24.de/ul/ganzjahresreifen/195-55-r16",
+        "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/",
+        "https://www.idealo.de/preisvergleich/ProductCategory/7735F396691.html",
+        "https://www.idealo.de/preisvergleich/ProductCategory/7735F396691.html?msockid=300db2977c0e69460b77aa857d1c68f4",
+        "https://www.reifen.de/reifen/pkw/ganzjahresreifen/195-55-16/",
+        "https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 11,
+        "read": 6
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "minicpm-ad",
+      "oberflaeche": "opencode2",
+      "antwortdatei": "antworten/lokal/minicpm-ad--opencode2-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "Hankook Kinergy4S2 H750",
+        "variants": [
+          {
+            "variant": "195/55R16 87V",
+            "unit_eur": 84.51,
+            "four_goods_eur": 338.04
+          },
+          {
+            "variant": "195/55R16 91H XL FR",
+            "unit_eur": 84.24,
+            "four_goods_eur": 336.96
+          }
+        ],
+        "same_product_not_two_alternatives": true,
+        "claimed_four_delivered_range_eur": [
+          338,
+          368
+        ],
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "GoodrideZ401",
+          "variant": "195/55R16 91VXL",
+          "role": "rejectedbudgetcomparison",
+          "claimed_unit_range_eur": [
+            50,
+            70
+          ],
+          "actual_price_seen": false
+        },
+        {
+          "product": "MichelinCrossClimate2",
+          "variant": "195/55R16 87H product page",
+          "role": "explicitabovebudgetcomparison",
+          "claimed_unit_range_eur": [
+            110,
+            130
+          ],
+          "price_current_model_reads_unbound": true
+        },
+        {
+          "product": "ContinentalAllSeasonContact2",
+          "variant": "195/55R16 91HXL EV page",
+          "role": "explicitabovebudgetcomparison",
+          "claimed_unit_range_eur": [
+            100,
+            130
+          ],
+          "price_current_model_reads_unbound": true
+        }
+      ],
+      "belegpruefung": [
+        "Tatsächlich gelesene Hankook-Angebotskarten 87 V 84,51 Euro und 91 H 84,24 Euro sind passende Varianten, keine zwei unterschiedlichen Reifenempfehlungen. Viererwarenpreis 338 Euro ist plausibel gerundet.",
+        "AUTO-BILD-Portalnote 2,1 ist vorhanden; kein daraus abgeleiteter exakter gemeinsamer 195 erWintervergleich mit Goodride. Marken-/OEM-Beispiele sind nicht sämtlich unabhängig bestätigt.",
+        "Goodride-Preis 50–70 Euro und Winter-/Haltbarkeitsüberlegenheit bleiben nicht passend belegt. Versand 0–30 Euro ist eine Schätzung. Eigenes Preisintervall bedeutet etwa 14,51–34,51 Euro Aufpreis, nicht durchgehend 15–20 Euro.",
+        "Michelin und Continental sind ausdrücklich über Budget genannte Vergleiche, keine verfehlten unter 95 Euro-Hauptwahlen."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/",
+        "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+        "https://www.idealo.de/preisvergleich/Liste/121197054/hankook-kinergy-4s2-195-55-r16.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/201565087_-crossclimate-2-195-55-r16-87h-michelin.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/202814846_-allseasoncontact-2-195-55-r16-91h-xl-ev-continental.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/6817922_-kinergy-4s-2-h750-195-55-r16-91h-xl-fr-hankook.html",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/7082407_-z-401-195-55-r16-91v-xl-goodride.html",
+        "https://www.reifenpreisvergleicher.de/saison/ganzjahresreifen/195-55-r16",
+        "https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 12,
+        "read": 9
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "minicpm-ad",
+      "oberflaeche": "cline",
+      "antwortdatei": "antworten/lokal/minicpm-ad--cline-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": true,
+      "einschraenkung": "Belegprüfung einzelner Aussagen; keine globale Modellnote.",
+      "hauptwahl": {
+        "product": "Hankook Kinergy 4S² H750",
+        "dimension_scope_in_final": "195/55 R16 über Tabellenüberschrift",
+        "exact_index_in_final": null,
+        "actually_found_variants": [
+          "195/55 R16 91H",
+          "195/55 R16 91H XL FR"
+        ],
+        "unit_eur_approx": [
+          83.62,
+          86.67
+        ],
+        "four_goods_eur_approx": [
+          335,
+          347
+        ],
+        "claimed_four_delivered_eur_approx": [
+          340,
+          360
+        ],
+        "four_checkout_performed": false,
+        "shipping_verified": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "Uniroyal AllSeason Expert 3",
+          "role": "Explizite alternative Empfehlung; Sparbegründung widerspricht den eigenen gefundenen Hankook-Preisen.",
+          "unit_eur_approx": 89,
+          "four_goods_eur_approx": 356,
+          "price_scope": "Suchtreffer zum damaligen AMS-Testpreis, kein aktuelles konkretes Angebot.",
+          "index_in_final": null
+        },
+        {
+          "product": "Goodride Z-401",
+          "role": "Budgetvergleich und nur bei absolut knappem Budget bedingte Alternative.",
+          "unit_eur_approx": 51.86,
+          "four_goods_eur_approx": 207,
+          "found_variant": "195/55 R16 91V XL",
+          "Amazon_price_verified": false
+        },
+        {
+          "product": "Continental AllSeasonContact 2",
+          "role": "Preisvergleich oberhalb des95Euro-Stückbudgets, keine abschließende Kaufempfehlung.",
+          "unit_eur_approx": [
+            103,
+            106
+          ],
+          "four_goods_eur_approx": [
+            414,
+            425
+          ],
+          "found_variant": "195/55 R16 87H EVc"
+        },
+        {
+          "product": "Goodyear Vector 4Seasons Gen-3",
+          "role": "Preisvergleich oberhalb des Budgets, keine ausdrückliche alternative Empfehlung.",
+          "unit_eur_approx": 108,
+          "four_goods_eur_approx": 432,
+          "found_variant": "195/55 R16 91H"
+        }
+      ],
+      "belegpruefung": [
+        "Positiver Originalfund: AMS 19.09.2026 nennt Hankook 7,2 und den kürzesten Schneebremsweg sowie Uniroyal 7,5 und günstigsten Testreifen. Kein Gesamtsieg des Hankook in allen Schneedisziplinen daraus.",
+        "Tatsächliche Suchauszüge stützen Hankook 91 H 83,62–86,67 Euro, Goodride 91 VXL 51,86 Euro, Continental 87 H 103,52/106,14 Euro und Goodyear 91 H 108,04 Euro. Historische Suchpreisstände/Varianten getrennt halten.",
+        "Uniroyal 89 Euro ist ein Testpreis, kein aktuelles Viererangebot. Er ist höher als die separat gefundenen Hankook-Preise; die zusätzliche Sparbegründung trägt nicht.",
+        "Viererpreise sind ungefähr korrekt, Versand 340–360 Euro bleibt unbestätigt. Keine direkte Amazon-Preisbestätigung und kein konkreter Goodride-Schneetestertrag."
+      ],
+      "aufgerufene_oeffentliche_seiten": [
+        "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/",
+        "https://www.auto-motor-und-sport.de/verkehr/die-besten-allwetterreifen-195-55-r-16-fuer-kleinwagen-im-test/",
+        "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+        "https://www.billiger.de/products/1841431765-goodride-z-401-195-55-r16-91v",
+        "https://www.idealo.de/preisvergleich/OffersOfProduct/7082407_-z-401-195-55-r16-91v-xl-goodride.html",
+        "https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/"
+      ],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 10,
+        "read": 6
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "flint",
+      "oberflaeche": "opencode2",
+      "antwortdatei": "antworten/lokal/flint--opencode2-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": false,
+      "einschraenkung": "Quellenlage nicht ausreichend: Antwort erhalten, keine Qualitätswertung oder Modellnote.",
+      "hauptwahl": {
+        "original_name": "Vredestein Goodride891.6",
+        "original_variant": "195/55R16 H",
+        "product_identity_verified": false,
+        "claimed_unit_new_range_eur": [
+          45,
+          70
+        ],
+        "claimed_four_goods_range_eur": [
+          180,
+          280
+        ],
+        "claimed_four_delivered_range_eur": [
+          185,
+          295
+        ],
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "SchwalbeWinterTrekking",
+          "role": "genericwintercomparison",
+          "exact_model_variant_verified": false,
+          "claimed_group_unit_range_eur": [
+            80,
+            140
+          ]
+        },
+        {
+          "product": "SmartWinterContact",
+          "role": "genericwintercomparison",
+          "exact_model_variant_verified": false,
+          "claimed_group_unit_range_eur": [
+            80,
+            140
+          ]
+        },
+        {
+          "product": "ContinentalWinterContact",
+          "role": "genericwintercomparison",
+          "exact_model_variant_verified": false,
+          "claimed_group_unit_range_eur": [
+            80,
+            140
+          ]
+        },
+        {
+          "product": "Michelin",
+          "role": "genericwintercomparison",
+          "exact_model_variant_verified": false,
+          "claimed_group_unit_range_eur": [
+            80,
+            140
+          ]
+        }
+      ],
+      "belegpruefung": [
+        "Keine Qualitätswertung: konkret belegte Zugangsprobleme und keine ausreichenden Produkt-, Preis- oder Testbelege. Originalantwort bleibt vollständig erhalten.",
+        "Angegebene Produktnamen, Varianten und Preise sind unbestätigte Antwortangaben, keine nachgeprüften Kaufangebote. Richtige Addition geschätzter Zahlen bestätigt keinen Marktpreis."
+      ],
+      "aufgerufene_oeffentliche_seiten": [],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "read": 6,
+        "search": 3
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "lokal",
+      "modell": "flint",
+      "oberflaeche": "cline",
+      "antwortdatei": "antworten/lokal/flint--cline-r1.txt",
+      "gesondert_angeforderte_sitzung": false,
+      "qualitaetsvergleich_gewertet": false,
+      "einschraenkung": "Quellenlage nicht ausreichend: Antwort erhalten, keine Qualitätswertung oder Modellnote.",
+      "hauptwahl": {
+        "product": "Goodride GP-005",
+        "claimed_variant": "195/55 R16, Lastindex87 soll geprüft werden",
+        "claimed_snow_marking": "3PMSF",
+        "retailer_claim": "Amazon",
+        "four_goods_eur_approx": [
+          240,
+          280
+        ],
+        "shipping_eur_approx": [
+          5,
+          10
+        ],
+        "claimed_four_delivered_eur_approx": [
+          245,
+          290
+        ],
+        "all_product_price_and_delivery_claims_verified": false,
+        "four_checkout_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "product": "Continental AllSeasonContact",
+          "generation": "Final nennt keine Generation.",
+          "role": "Nur bei gelockertem Budget ausdrücklich als erste Alternative genannt.",
+          "price_scope": "Gemeinsame ungeprüfte Marken-Preisspanne85–115Euro, kein exaktes Angebot."
+        },
+        {
+          "product": "Michelin CrossClimate 2",
+          "role": "Nur bei gelockertem Budget ausdrücklich als erste Alternative genannt.",
+          "price_scope": "Gemeinsame ungeprüfte Marken-Preisspanne85–115Euro, kein exaktes Angebot."
+        },
+        {
+          "product": "Falken, Modell im Final nicht genannt",
+          "role": "Beispiel im Markenpreisvergleich, keine konkrete Kaufempfehlung.",
+          "price_scope": "Gemeinsame ungeprüfte Marken-Preisspanne85–115Euro."
+        }
+      ],
+      "belegpruefung": [
+        "Keine Qualitätswertung: keine ausreichenden konkreten Produkt-, Angebots- oder Testdaten erreicht. Originalantwort bleibt vollständig erhalten.",
+        "ZC-Rubber-Herstellerzuordnung erscheint als primärer Suchauszug. Kein GP-005-Angebot, konkrete Kennzeichnung oder Amazon-Viererlieferung bestätigt.",
+        "240–280 plus 5–10 ergibt 245–290 Euro lediglich unter diesen Annahmen. Keine Fehlergeschichte oder universelle Modellnote daraus."
+      ],
+      "aufgerufene_oeffentliche_seiten": [],
+      "hinweis_zu_seiten": "Aufgerufen bedeutet nicht automatisch fachlich vollständig gelesen oder als Beleg geeignet.",
+      "werkzeugzaehlung": {
+        "search": 3,
+        "read": 23
+      },
+      "versand_und_preise": "Alle genannten Beträge stammen aus der Antwort. Nur die einzelnen Belegbewertungen bestätigen konkrete Preis- oder Versandanteile; Vierercheckout nicht pauschal bestätigt."
+    },
+    {
+      "gruppe": "cloud",
+      "modell": "Gemini Auto",
+      "oberflaeche": "Nutzerexport der Browserantwort",
+      "antwortdatei": "antworten/cloud/gemini-auto.txt",
+      "backend_verifiziert": false,
+      "qualitaetsvergleich_gewertet": true,
+      "hauptwahl": {
+        "product": "Vredestein Quatrac",
+        "claimed_variant": "195/55 R16 87H",
+        "unit_eur_range": [
+          83,
+          87
+        ],
+        "four_goods_arithmetic_eur_range": [
+          332,
+          348
+        ],
+        "claimed_delivered_eur_range": [
+          332,
+          348
+        ],
+        "shipping_claim": "Kostenlos behauptet, ohne konkreten Händlerlink",
+        "delivered_offer_confirmed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "id": 2,
+          "model_label": "01-GEMINI-AUTO",
+          "role": "Alternative, ungerankt",
+          "rank": null,
+          "product_as_answered": "Hankook Kinergy 4S2",
+          "unit_price_as_answered": "knapp unter 90 €",
+          "four_price_as_answered": "nicht genannt",
+          "shipping_as_answered": "nicht genannt",
+          "source_disclosure": "Publikationsnamen im Fließtext, keine konkreten URLs oder aufgelösten Quellenverweise",
+          "assessment": "Keine konkrete Offerte oder Zuordnung einer Testnote geliefert.",
+          "line": 24,
+          "quote": "(Starke Alternativen knapp unter 90 €, falls der Vredestein vergriffen sein sollte: Hankook Kinergy 4S2 oder Kleber Quadraxer 3 – beides ebenfalls solide Test-Kandidaten mit guten Wintereigenschaften.)",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 3,
+          "model_label": "01-GEMINI-AUTO",
+          "role": "Alternative, gleichrangige Oder-Formulierung",
+          "rank": null,
+          "product_as_answered": "Kleber Quadraxer 3",
+          "unit_price_as_answered": "knapp unter 90 €",
+          "four_price_as_answered": "nicht genannt",
+          "shipping_as_answered": "nicht genannt",
+          "source_disclosure": "Publikationsnamen im Fließtext, keine konkreten URLs oder aufgelösten Quellenverweise",
+          "assessment": "Keine konkrete Offerte; Kleber-Test 2,2 separat positiv gebunden, aber anderer Index.",
+          "line": 24,
+          "quote": "(Starke Alternativen knapp unter 90 €, falls der Vredestein vergriffen sein sollte: Hankook Kinergy 4S2 oder Kleber Quadraxer 3 – beides ebenfalls solide Test-Kandidaten mit guten Wintereigenschaften.)",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 4,
+          "model_label": "01-GEMINI-AUTO",
+          "role": "Vergleich über Budget, keine Alternative im Limit",
+          "rank": null,
+          "product_as_answered": "Continental AllSeasonContact 2 / Pirelli Cinturato SF3 / Michelin CrossClimate",
+          "unit_price_as_answered": "gemeinsam 105–125 €",
+          "four_price_as_answered": "nicht genannt",
+          "shipping_as_answered": "nicht genannt",
+          "source_disclosure": "Publikationsnamen im Fließtext, keine konkreten URLs oder aufgelösten Quellenverweise",
+          "assessment": "Keine einzelnen Preise und beim Michelin keine Modellgeneration; nicht in drei konkrete Angebote umdeuten.",
+          "line": 20,
+          "quote": "    Passt ins Budget: Während die anderen Top-Reifen aus dem Test (Continental AllSeasonContact 2, Pirelli Cinturato SF3 oder Michelin CrossClimate) in dieser Größe meist zwischen 105 € und 125 € pro Stück kosten, bleibt der Vredestein klar unter deinem Limit von 95 €.",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "weitere_kaufwege_gleicher_reifen": [],
+      "belegpruefung": [
+        "AMS 2026 Quatrac-Platz 2/8,2 ist primär bestätigt; getesteter 91 H und angebotener 87 H sind nicht identisch.70 dB passt zum Angebotsexternlabel, nicht als Innenraumkomfortmessung.",
+        "4×83–87=332–348 Euro ist korrekt. Konkretes historisches Händlerangebot, kostenlose Viererlieferung und pauschale Haltbarkeits-/Schnee-/Nässebehauptungen bleiben offen. Publikationsnamen ohne konkrete Links."
+      ],
+      "quellenoffenlegung": "Publikationsnamen im Fließtext, keine konkreten Links",
+      "links_im_export": [],
+      "nummerierte_verweise_im_export": [],
+      "werkzeughistorie": null,
+      "hinweis": "Nicht vollständig exportierte Eingabe-/Browserhistorie bleibt unbekannt; kein Beleg fehlender Frage oder Suche. Preise und Bedingungen können vom lokalen Recherchezeitpunkt abweichen."
+    },
+    {
+      "gruppe": "cloud",
+      "modell": "Opus 5.5 mittel",
+      "oberflaeche": "Nutzerexport der Browserantwort",
+      "antwortdatei": "antworten/cloud/opus-5-5-mittel.txt",
+      "backend_verifiziert": false,
+      "qualitaetsvergleich_gewertet": true,
+      "hauptwahl": {
+        "product": "Vredestein Quatrac",
+        "claimed_variant": "195/55 R16 87H",
+        "unit_eur": 93.15,
+        "four_goods_arithmetic_eur": 372.6,
+        "claimed_delivered_eur": 372.6,
+        "seller_as_claimed": "reifen.com",
+        "shipping_claim": "Standardversand kostenlos behauptet",
+        "delivered_offer_confirmed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "id": 6,
+          "model_label": "02-OPUS-55-MITTEL",
+          "role": "Alternative im Budget, ungerankt",
+          "rank": null,
+          "product_as_answered": "Nokian Seasonproof 2",
+          "unit_price_as_answered": "89,25 €",
+          "four_price_as_answered": "kein exakter Satzpreis; etwa 16 € weniger",
+          "shipping_as_answered": "für diese Alternative nicht gesondert genannt",
+          "source_disclosure": "Quellenlabels und Quellenliste vorhanden, keine aufgelösten URLs im Export",
+          "assessment": "ADAC 3,1 in 185/65 R15 bestätigt; exakte Shopofferte offen.",
+          "line": 38,
+          "quote": "Alternative im Budget: Der Nokian Seasonproof 2 kostet 89,25 € und bekam im ADAC 2026 die Note 3,1 (befriedigend). Er ist knapp schwächer als der Quatrac und spart etwa 16 € für alle vier Reifen.",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 7,
+          "model_label": "02-OPUS-55-MITTEL",
+          "role": "Vergleich über Budget",
+          "rank": null,
+          "product_as_answered": "Continental AllSeasonContact 2",
+          "unit_price_as_answered": "etwa 120 €",
+          "four_price_as_answered": "nicht genannt",
+          "shipping_as_answered": "nicht genannt",
+          "source_disclosure": "Quellenlabels und Quellenliste vorhanden, keine aufgelösten URLs im Export",
+          "assessment": "ADAC 2,3 bestätigt in anderer Größe; Preis nicht quellengebunden.",
+          "line": 24,
+          "quote": "    Im ADAC-Ganzjahresreifentest 2026 (185/65 R15, also Kleinwagen wie dein Clio) kam er auf Platz 4 mit der Note 2,9 (befriedigend). Nur ein Reifen im Test schnitt mit „gut“ ab: der Continental AllSeasonContact 2 mit 2,3. Der kostet aber etwa 120 € und liegt damit über deinem Budget.",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 8,
+          "model_label": "02-OPUS-55-MITTEL",
+          "role": "Abgelehnter Vergleich",
+          "rank": null,
+          "product_as_answered": "Goodride All Season Elite Z-401 91V XL",
+          "unit_price_as_answered": "47–52 €; Beispiel 46,98 €",
+          "four_price_as_answered": "etwa 190–210 €",
+          "shipping_as_answered": "46,98-Beispiel gratis; Amazon ausdrücklich nicht geprüft",
+          "source_disclosure": "Quellenlabels und Quellenliste vorhanden, keine aufgelösten URLs im Export",
+          "assessment": "Kein Amazonbeleg; Testwerte verschiedener Größen nicht vermengen. Exakte Bremsvorauswahl 2022 derzeit Root-Gegenprüfung.",
+          "line": 19,
+          "quote": "    Der Preis liegt bei etwa 47–52 € pro Stück, in dieser Größe meist als 91V XL, zum Beispiel 46,98 € mit kostenlosem Versand. Den aktuellen Amazon-Preis habe ich nicht direkt geprüft. Andere Marktplätze liegen in diesem Bereich.",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "weitere_kaufwege_gleicher_reifen": [],
+      "belegpruefung": [
+        "Quatrac 93,15×4=372,60 Euro korrekt; historisches Angebot/Versand nicht vollständig nachgeprüft. NokianSeasonproof 2 ist ausdrücklich alternative Empfehlung.",
+        "ADAC 2026 Quatrac 2,9 und Nokian 3,1 sind für andere Größe 185/65 R 15 belegt; Goodride-Nässe wird differenziert von Schnee betrachtet. Exakte 195 erGoodride-Bremsvorauswahl sowie andere 44,2/60,6 Meter-Tabelle bleiben primär ungebunden."
+      ],
+      "quellenoffenlegung": "Quellenlabels und Quellenliste, aufgelöste URLs nicht mitkopiert",
+      "links_im_export": [],
+      "nummerierte_verweise_im_export": [],
+      "werkzeughistorie": null,
+      "hinweis": "Nicht vollständig exportierte Eingabe-/Browserhistorie bleibt unbekannt; kein Beleg fehlender Frage oder Suche. Preise und Bedingungen können vom lokalen Recherchezeitpunkt abweichen."
+    },
+    {
+      "gruppe": "cloud",
+      "modell": "GPT 6 mittel",
+      "oberflaeche": "Nutzerexport der Browserantwort",
+      "antwortdatei": "antworten/cloud/gpt-6-mittel.txt",
+      "backend_verifiziert": false,
+      "qualitaetsvergleich_gewertet": true,
+      "hauptwahl": {
+        "product": "Kleber Quadraxer 3",
+        "claimed_variant": "195/55 R16 87H",
+        "unit_eur": 90.23,
+        "four_goods_arithmetic_eur": 360.92,
+        "claimed_delivered_eur": 360.92,
+        "seller_as_claimed": "Superreifen",
+        "shipping_claim": "Kostenlos, inklusive MwSt.",
+        "external_later_read": {
+          "unit_eur": 90.21,
+          "four_eur": 360.84,
+          "same_variant": true,
+          "shipping_free_Germany_stated": true
+        },
+        "historical_exact_price_reconstructed": false,
+        "actual_purchase_performed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "id": 11,
+          "model_label": "03-GPT-6-MITTEL",
+          "role": "Alternative, preisbedingt",
+          "rank": null,
+          "product_as_answered": "Hankook Kinergy 4S2 H750; abschließend 91H XL prüfen",
+          "unit_price_as_answered": "kein konkreter Preis; bei gleichem Endpreis",
+          "four_price_as_answered": "nicht genannt",
+          "shipping_as_answered": "nicht genannt",
+          "source_disclosure": "Händlerkarte/Quellenlabels und konkreter Superreifen-Shoplink; Favicon ist kein Sachseitenlink",
+          "assessment": "AUTO-BILD 2,1 positiv gebunden; keine konkrete Offerte.",
+          "line": 69,
+          "quote": "Die Alternative wäre der Hankook Kinergy 4S 2 (H750). Der erzielte im AUTO-BILD-Test sogar die etwas bessere Note 2,1 und überzeugte auf Schnee. Bei gleichem Endpreis würde ich ihn ebenfalls in Betracht ziehen.&#x20;",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 12,
+          "model_label": "03-GPT-6-MITTEL",
+          "role": "Abgelehnter Vergleich",
+          "rank": null,
+          "product_as_answered": "Goodride AllSeason Elite Z-401",
+          "unit_price_as_answered": "keine konkrete Offerte",
+          "four_price_as_answered": "nicht genannt",
+          "shipping_as_answered": "nicht genannt",
+          "source_disclosure": "Händlerkarte/Quellenlabels und konkreter Superreifen-Shoplink; Favicon ist kein Sachseitenlink",
+          "assessment": "2025-Bremsvorauswahl in ausdrücklich anderer Größe 225/40 R18 positiv gebunden.",
+          "line": 53,
+          "quote": "Ein wichtiges Argument gegen den günstigen Goodride AllSeason Elite Z-401 liefern die Bremstests von AUTO BILD 2025. Er landete bei der Addition der Nass- und Trockenbremswege auf dem letzten Platz von 30 Reifen. Das war zwar die Größe 225/40 R18 und nicht deine Clio-Größe, ist aber ein deutliches Warnsignal.&#x20;",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "weitere_kaufwege_gleicher_reifen": [
+        {
+          "id": 10,
+          "model_label": "03-GPT-6-MITTEL",
+          "role": "Weiterer Kaufweg desselben Reifens, kein neuer Rang",
+          "rank": null,
+          "product_as_answered": "Kleber Quadraxer 3 87H (Gutschein)",
+          "unit_price_as_answered": "81,29 €",
+          "four_price_as_answered": "325,16 € theoretisch",
+          "shipping_as_answered": "inklusive behauptet, Gutschein für vier ausdrücklich bedingt",
+          "source_disclosure": "Händlerkarte/Quellenlabels und konkreter Superreifen-Shoplink; Favicon ist kein Sachseitenlink",
+          "assessment": "Historischer Gutschein und Vierermenge nicht unabhängig bestätigt; nicht mit regulärem Preis gleichsetzen.",
+          "line": 29,
+          "quote": "Der aktuelle Preisvergleich bei idealo zeigt sogar Angebote ab 81,29 € pro Reifen inklusive Versand, allerdings mit Gutscheinbedingungen. Ein entsprechend günstiger Vierersatz könnte 325,16 € kosten, sofern der Preis für alle vier Reifen gilt.&#x20;",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "belegpruefung": [
+        "Kleber 87 H 90,23 Euro und 360,92 Euro geliefert sind konkrete Angebotsangaben; spätere passende Shopseite 90,21 Euro mit Viererversand stützt sie bis auf 2 CentPreisdrift. Keine Erfindung daraus.",
+        "Gutschein 81,29 Euro und theoretisch 325,16 Euro gelten nur unter nicht vollständig geprüften Mengen-/Gutscheinbedingungen. Hankook ist echte Alternative. CHECK 24-Bildkarte 91 H weicht vom korrekten 87 H-Angebot ab.",
+        "Kleber-AUTO-BILD 2,2/Platz 4 sind mit 91 VXL-Testgrenze belegt; die Bremswarnung zum Goodride nennt ausdrücklich andere Größe 225/40 R 18."
+      ],
+      "quellenoffenlegung": "Händlerkarte, Quellenlabels/Favicons und konkrete Superreifen-URL",
+      "links_im_export": [
+        {
+          "url": "https://images.openai.com/static-rsc-4/FcPOaPB2ELDckdhWP5KQlbuuMyb86w7_K2tlURcZ1coXEN2gV70AeikJKHlm_wMEd_NTZo7JXk5FySE8eyVUQPf0YwH77QnjM541Qn4f83N-q7rSL9oopYNUz2EBh-XvNkvxApDRNc0EwhtxDw2zTDoGVR2x4znD9oLflIvNXj8?purpose=inline",
+          "role": "shopping_image_not_primary_test_or_offer_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://superreifen.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://superreifen.de/products/3528701299303-kleber-quadraxer-3-195-55-r16-87h?utm_source=chatgpt.com",
+          "role": "publisher_or_shop_link"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://www.idealo.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://www.autobild.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://reifenpresse.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://www.autobild.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://www.adac.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        }
+      ],
+      "nummerierte_verweise_im_export": [],
+      "werkzeughistorie": null,
+      "hinweis": "Nicht vollständig exportierte Eingabe-/Browserhistorie bleibt unbekannt; kein Beleg fehlender Frage oder Suche. Preise und Bedingungen können vom lokalen Recherchezeitpunkt abweichen."
+    },
+    {
+      "gruppe": "cloud",
+      "modell": "GPT 5.6 Sol mittel",
+      "oberflaeche": "Nutzerexport der Browserantwort",
+      "antwortdatei": "antworten/cloud/gpt-5-6-sol-mittel.txt",
+      "backend_verifiziert": false,
+      "qualitaetsvergleich_gewertet": true,
+      "hauptwahl": {
+        "product": "Kleber Quadraxer 3",
+        "claimed_variant": "195/55 R16 87H",
+        "unit_eur": 82,
+        "four_goods_arithmetic_eur": 328,
+        "claimed_delivered_eur": 328,
+        "claimed_price_date": "2026-11-10",
+        "shipping_claim": "0 Euro laut Preisvergleich; Verfügbarkeit für vier vor Bestellung prüfen",
+        "delivered_offer_confirmed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "id": 15,
+          "model_label": "04-GPT-56-SOL-MITTEL",
+          "role": "Abgelehnter Preisvergleich",
+          "rank": null,
+          "product_as_answered": "Goodride Z-401",
+          "unit_price_as_answered": "rund 44 € CHECK24",
+          "four_price_as_answered": "nicht genannt",
+          "shipping_as_answered": "nicht genannt",
+          "source_disclosure": "Händlerkarte und Quellenlabels/Faviconlinks; kein konkreter aufgelöster Händlerlink im Export",
+          "assessment": "Kein Amazonpreis. 328 minus 4×44 = 152 € passt zur gerundeten Mehrpreisangabe150; Versand offen.",
+          "line": 73,
+          "quote": "Für 12.000 Kilometer jährlich ist der Kleber ein guter Kompromiss aus Sicherheit und Kosten. Gegenüber dem Goodride für rund 44 € pro Stück bei CHECK24 zahlst du etwa 150 € mehr für den gesamten Satz, bekommst aber einen Reifen mit deutlich besser belegter Leistung.&#x20;",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "weitere_kaufwege_gleicher_reifen": [
+        {
+          "id": 14,
+          "model_label": "04-GPT-56-SOL-MITTEL",
+          "role": "Weiterer Kaufweg desselben Reifens, kein neuer Rang",
+          "rank": null,
+          "product_as_answered": "Kleber Quadraxer 3 (Gutschein)",
+          "unit_price_as_answered": "81,29 €",
+          "four_price_as_answered": "325,16 € theoretisch",
+          "shipping_as_answered": "inklusive; Gutschein für vier ausdrücklich bedingt",
+          "source_disclosure": "Händlerkarte und Quellenlabels/Faviconlinks; kein konkreter aufgelöster Händlerlink im Export",
+          "assessment": "Bedingte Offerte nicht bestätigt; keine zweite Reifenempfehlung daraus machen.",
+          "line": 69,
+          "quote": "Ein weiteres gelistetes Angebot liegt bei 81,29 € pro Reifen inklusive Versand, allerdings nur mit Gutschein. Damit wären theoretisch 325,16 € für vier Reifen möglich, sofern der Gutschein für alle vier gilt.",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "belegpruefung": [
+        "Einziger Reifen-Vorschlag Kleber; Gutschein ist ein weiterer Kaufweg, kein zweiter Reifen.82×4=328 Euro korrekt, Preisstand 10.11.2026 und Lieferbedingungen bleiben gesondert zu prüfen.",
+        "15,8 Meter ist korrekt die Differenz zweier Summen trocken+nass:103−87,2 in 225/40 R 18. Keine Übertragung als einzelne Bremsdifferenz oder Clio-Messwert. Bildkarte 91 H versus 87 H-Text bleibt Darstellungsvorbehalt."
+      ],
+      "quellenoffenlegung": "Händlerkarte und Quellenlabels/Favicons, keine direkte Händler-URL im Text",
+      "links_im_export": [
+        {
+          "url": "https://images.openai.com/static-rsc-4/FcPOaPB2ELDckdhWP5KQlbuuMyb86w7_K2tlURcZ1coXEN2gV70AeikJKHlm_wMEd_NTZo7JXk5FySE8eyVUQPf0YwH77QnjM541Qn4f83N-q7rSL9oopYNUz2EBh-XvNkvxApDRNc0EwhtxDw2zTDoGVR2x4znD9oLflIvNXj8?purpose=inline",
+          "role": "shopping_image_not_primary_test_or_offer_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://www.autobild.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://www.autobild.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://www.idealo.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://reifen.auto.check24.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://presse.adac.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        },
+        {
+          "url": "https://www.google.com/s2/favicons?domain=https://www.adac.de\\&sz=32",
+          "role": "favicon_including_domain_label_not_actual_source_page"
+        }
+      ],
+      "nummerierte_verweise_im_export": [],
+      "werkzeughistorie": null,
+      "hinweis": "Nicht vollständig exportierte Eingabe-/Browserhistorie bleibt unbekannt; kein Beleg fehlender Frage oder Suche. Preise und Bedingungen können vom lokalen Recherchezeitpunkt abweichen."
+    },
+    {
+      "gruppe": "cloud",
+      "modell": "Sonnet 5.5 mittel",
+      "oberflaeche": "Nutzerexport der Browserantwort",
+      "antwortdatei": "antworten/cloud/sonnet-5-5-mittel.txt",
+      "backend_verifiziert": false,
+      "qualitaetsvergleich_gewertet": true,
+      "hauptwahl": {
+        "product": "Vredestein Quatrac",
+        "claimed_variant": "195/55 R16 87H",
+        "unit_eur_examples": [
+          90.55,
+          90.36
+        ],
+        "unit_eur_table_range": [
+          90,
+          95
+        ],
+        "four_goods_arithmetic_table_range": [
+          360,
+          380
+        ],
+        "claimed_delivered_eur_range": [
+          360,
+          380
+        ],
+        "seller_as_claimed": "reifen.com 90,55; eBay 90,36 inklusive Versand; teils undatierte Händlerstichproben",
+        "delivered_offer_confirmed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "id": 17,
+          "model_label": "05-SONNET-55-MITTEL",
+          "role": "Alternative, Tabellen- und Textreihenfolge ohne Rangbehauptung",
+          "rank": null,
+          "product_as_answered": "Nokian Seasonproof 1 87H",
+          "unit_price_as_answered": "78–88 €",
+          "four_price_as_answered": "310–350 €",
+          "shipping_as_answered": "nicht gesondert genannt",
+          "source_disclosure": "Konkrete Quellen-URLs im Quellenblock; nicht automatisch Nachweis tatsächlich gelesener Seiten",
+          "assessment": "Exaktes Angebot offen; nicht mit Seasonproof2 verwechseln. Angegebene Bremswerte derzeit nicht neu primär geprüft.",
+          "line": 24,
+          "quote": "| Nokian Seasonproof 1 87H | Auto Bild 2,5 | ~78–88 | ~310–350 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 18,
+          "model_label": "05-SONNET-55-MITTEL",
+          "role": "Alternative, ungerankt",
+          "rank": null,
+          "product_as_answered": "Kleber Quadraxer 3 87H",
+          "unit_price_as_answered": "etwa 90 €",
+          "four_price_as_answered": "etwa 360 €",
+          "shipping_as_answered": "nicht gesondert genannt",
+          "source_disclosure": "Konkrete Quellen-URLs im Quellenblock; nicht automatisch Nachweis tatsächlich gelesener Seiten",
+          "assessment": "Test2,2 bestätigt anderer Index. Behauptung kürzester Trockenbremsweg40,3 falsch überhöht: Quelltabelle nennt Michelin39,9.",
+          "line": 25,
+          "quote": "| Kleber Quadraxer 3 87H | Auto Bild 2,2 | ~90 | ~360 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 19,
+          "model_label": "05-SONNET-55-MITTEL",
+          "role": "Alternative ausdrücklich über Budget",
+          "rank": null,
+          "product_as_answered": "Continental AllSeasonContact 2 87H",
+          "unit_price_as_answered": "104–110 €",
+          "four_price_as_answered": "420–440 €",
+          "shipping_as_answered": "nicht gesondert genannt",
+          "source_disclosure": "Konkrete Quellen-URLs im Quellenblock; nicht automatisch Nachweis tatsächlich gelesener Seiten",
+          "assessment": "ADAC2,3 bestätigt andere Größe; Endpreis nicht bestätigt.",
+          "line": 27,
+          "quote": "| Continental AllSeasonContact 2 87H | ADAC 2026: 2,3 | ~104–110 | ~420–440 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 20,
+          "model_label": "05-SONNET-55-MITTEL",
+          "role": "Abgelehnter Vergleich, kein Vorschlag",
+          "rank": null,
+          "product_as_answered": "Goodride Z-401 91V XL",
+          "unit_price_as_answered": "47–52 €",
+          "four_price_as_answered": "190–210 €",
+          "shipping_as_answered": "nicht gesondert genannt",
+          "source_disclosure": "Konkrete Quellen-URLs im Quellenblock; nicht automatisch Nachweis tatsächlich gelesener Seiten",
+          "assessment": "Primäre exakte Bremsvorauswahlbindung bleibt Root-Aufgabe. SUV-Schnee2− getrennt von exakter Größe behandeln.",
+          "line": 26,
+          "quote": "| Goodride Z-401 91V XL | Rang 30 von 35 (Bremsvorauswahl) | ~47–52 | ~190–210 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "weitere_kaufwege_gleicher_reifen": [],
+      "belegpruefung": [
+        "Quatrac, NokianSeasonproof 1 und Kleber sind Alternativen; Continental klar über Budget. Quatrac 1,4 sowie angegebene Schnee- und Nokian-Bremswerte sind im älteren Test belegt, andere angeboteneIndexausführung ausdrücklich benannt.",
+        "Kleber 40,3 Meter trocken ist ein echter Wert, aber nicht der kürzeste im Feld: Michelin 39,9 Meter ist kürzer. ExakteGoodride 195 er 58,5/48,7 Meter und Rang 30/35 bleiben primär offen; SUV 2022 stützt schwacheNässe inandererGröße, nicht jede Teilnote.",
+        "KonkreteURLs vorhanden, aber historische Händlerpreise/Versand sind nicht allein dadurch bestätigt."
+      ],
+      "quellenoffenlegung": "Konkrete URLs im Quellenblock",
+      "links_im_export": [
+        {
+          "url": "https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html",
+          "role": "publisher_or_shop_link"
+        },
+        {
+          "url": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/185-65-r15-2026/",
+          "role": "publisher_or_shop_link"
+        },
+        {
+          "url": "https://www.reifenlab.de/goodride-allseason-elite-z-401/tests",
+          "role": "publisher_or_shop_link"
+        },
+        {
+          "url": "https://thetirelab.com/goodride-allseason-elite-z-401/tests",
+          "role": "publisher_or_shop_link"
+        },
+        {
+          "url": "https://www.reifen.com/en-de/car/tyres/dimensions/16-inch/195-55-r16/195-55-r16-87h",
+          "role": "publisher_or_shop_link"
+        },
+        {
+          "url": "https://www.ebay.de/b/Vredestein-Ganzjahresreifen-fur-Autos-195-55R16/179680/bn_98280294",
+          "role": "publisher_or_shop_link"
+        },
+        {
+          "url": "https://www.billiger.de/pricelist/4570867645-continental-allseasoncontact-2-195-55-r16-87h",
+          "role": "publisher_or_shop_link"
+        },
+        {
+          "url": "https://www.testbericht.de/produkte/nokian-tyres-nokian-seasonproof-1-195-55r16-87h",
+          "role": "publisher_or_shop_link"
+        }
+      ],
+      "nummerierte_verweise_im_export": [],
+      "werkzeughistorie": null,
+      "hinweis": "Nicht vollständig exportierte Eingabe-/Browserhistorie bleibt unbekannt; kein Beleg fehlender Frage oder Suche. Preise und Bedingungen können vom lokalen Recherchezeitpunkt abweichen."
+    },
+    {
+      "gruppe": "cloud",
+      "modell": "Qwen 4 Max",
+      "oberflaeche": "Nutzerexport der Browserantwort",
+      "antwortdatei": "antworten/cloud/qwen-4-max.txt",
+      "backend_verifiziert": false,
+      "qualitaetsvergleich_gewertet": true,
+      "hauptwahl": {
+        "product": "Vredestein Quatrac",
+        "claimed_variant": "195/55 R16 87H",
+        "unit_eur": 82.74,
+        "four_goods_arithmetic_eur": 330.96,
+        "claimed_delivered_eur": 330.96,
+        "coupon": true,
+        "claimed_regular_delivered_eur_range": [
+          345,
+          347
+        ],
+        "shipping_claim": "Tabellenüberschrift inklusive Versand; vierfacher Gutschein/Versand nicht rekonstruiert",
+        "delivered_offer_confirmed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "id": 22,
+          "model_label": "06-QWEN-4-MAX-PREVIEW",
+          "role": "Alternative, ungerankt",
+          "rank": null,
+          "product_as_answered": "Kleber Quadraxer 3 87H",
+          "unit_price_as_answered": "81,18 € CHECK24",
+          "four_price_as_answered": "324,72 €",
+          "shipping_as_answered": "laut Tabellenüberschrift inklusive",
+          "source_disclosure": "Nummerierte Verweise [[n]], aber keine aufgelösten Quellen-URLs im Export",
+          "assessment": "Preis passt zu separaten lokalen Portalbelegen, rekonstruiert aber nicht Cloudhistorie oder Viererversand.",
+          "line": 30,
+          "quote": "| Kleber Quadraxer 3 87H | gut; leise, schneestark, **lange Nassbremswege** | 81,18 € (Check24) [[1]] | 324,72 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 23,
+          "model_label": "06-QWEN-4-MAX-PREVIEW",
+          "role": "Alternative, ungerankt",
+          "rank": null,
+          "product_as_answered": "Hankook Kinergy 4S2 87V",
+          "unit_price_as_answered": "84,51 € eBay DOT25/26",
+          "four_price_as_answered": "338,04 €",
+          "shipping_as_answered": "laut Tabellenüberschrift inklusive",
+          "source_disclosure": "Nummerierte Verweise [[n]], aber keine aufgelösten Quellen-URLs im Export",
+          "assessment": "Stückpreis in lokalen Originalportalbelegen positiv, Versand/DOT konkrete Cloudquelle offen.",
+          "line": 31,
+          "quote": "| Hankook Kinergy 4S2 87V | AutoBild „gut\" (3.); **bester Schneebremsweg** im ams-Test, aber nassschwach + laut | 84,51 € (eBay, DOT 25/26) [[29]] | 338,04 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 24,
+          "model_label": "06-QWEN-4-MAX-PREVIEW",
+          "role": "Vergleich ausdrücklich über Budget",
+          "rank": null,
+          "product_as_answered": "Continental AllSeasonContact 2 87H",
+          "unit_price_as_answered": "105,44 €",
+          "four_price_as_answered": "421,76 €",
+          "shipping_as_answered": "laut Tabellenüberschrift inklusive",
+          "source_disclosure": "Nummerierte Verweise [[n]], aber keine aufgelösten Quellen-URLs im Export",
+          "assessment": "AMS8,7 positiv primär bestätigt. Aktuelle Offerte/Versand nicht durch Cloudtooltrace belegt.",
+          "line": 33,
+          "quote": "| Continental AllSeasonContact 2 87H | ams-**Testsieger** (8,7) – aber über Budget | 105,44 € [[21]] | 421,76 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 25,
+          "model_label": "06-QWEN-4-MAX-PREVIEW",
+          "role": "Vergleich ausdrücklich über Budget",
+          "rank": null,
+          "product_as_answered": "Goodyear Vector 4Seasons Gen-3 91V XL",
+          "unit_price_as_answered": "101,69 €",
+          "four_price_as_answered": "406,76 €",
+          "shipping_as_answered": "laut Tabellenüberschrift inklusive",
+          "source_disclosure": "Nummerierte Verweise [[n]], aber keine aufgelösten Quellen-URLs im Export",
+          "assessment": "AUTO-BILD1,3 positiv; genauer Preis/Versand offen.",
+          "line": 34,
+          "quote": "| Goodyear Vector 4Seasons Gen-3 91V XL | AutoBild-**Testsieger** dieser Größe – über Budget | 101,69 € [[38]] | 406,76 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 26,
+          "model_label": "06-QWEN-4-MAX-PREVIEW",
+          "role": "Vergleich ausdrücklich über Budget",
+          "rank": null,
+          "product_as_answered": "Michelin CrossClimate 2 87H",
+          "unit_price_as_answered": "123,99 €",
+          "four_price_as_answered": "495,96 €",
+          "shipping_as_answered": "laut Tabellenüberschrift inklusive",
+          "source_disclosure": "Nummerierte Verweise [[n]], aber keine aufgelösten Quellen-URLs im Export",
+          "assessment": "Preis in separaten lokalen Portalbelegen vorhanden; Endpreis inkl. Versand nicht rekonstruiert.",
+          "line": 35,
+          "quote": "| Michelin CrossClimate 2 87H | in dieser Größe bei AutoBild nur „befriedigend\" – über Budget | 123,99 € [[60]] | 495,96 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 27,
+          "model_label": "06-QWEN-4-MAX-PREVIEW",
+          "role": "Abgelehnter Vergleich",
+          "rank": null,
+          "product_as_answered": "Goodride Z-401 91V XL",
+          "unit_price_as_answered": "45–55 €",
+          "four_price_as_answered": "180–220 €",
+          "shipping_as_answered": "laut Tabellenüberschrift inklusive",
+          "source_disclosure": "Nummerierte Verweise [[n]], aber keine aufgelösten Quellen-URLs im Export",
+          "assessment": "Keine rekonstruierbare Quelle für [[49]]/[[50]]; nicht allein deshalb falsch.",
+          "line": 32,
+          "quote": "| Goodride Z-401 91V XL | durchgefallen / „not recommended\" | ~45–55 € [[49]] | ~180–220 € |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "weitere_kaufwege_gleicher_reifen": [],
+      "belegpruefung": [
+        "AMS 2026 Quatrac 8,2/Platz 2 und Gewichtung 40 ProzentNässe/20 ProzentSchnee sowie Hankook-Schneebremsstärke sind primär bestätigt. Test 91 H und Angebote 87 H/87 V unterscheiden.",
+        "82,74×4=330,96 Euro,81,18×4=324,72 Euro und 84,51×4=338,04 Euro korrekt. Gutscheine, Viererversand und Lieferdaten bleiben nicht vollständig bestätigt. NummerierteQuellenverweise im Export sind nicht aufgelöst; keine fehlende Suche daraus.",
+        "ExakteGoodride 195 erBremsvorauswahl und behaupteteQuatrac-Erneuerung 2026 bleiben offen. Überbudgetprodukte sind Vergleichs- und Aufstiegsoptionen, keine verfehlte Hauptwahl."
+      ],
+      "quellenoffenlegung": "Nummerierte Verweise [[n]], zugehörige URL-Liste nicht mitkopiert",
+      "links_im_export": [],
+      "nummerierte_verweise_im_export": [
+        "1",
+        "2",
+        "7",
+        "11",
+        "21",
+        "29",
+        "38",
+        "49",
+        "50",
+        "60"
+      ],
+      "werkzeughistorie": null,
+      "hinweis": "Nicht vollständig exportierte Eingabe-/Browserhistorie bleibt unbekannt; kein Beleg fehlender Frage oder Suche. Preise und Bedingungen können vom lokalen Recherchezeitpunkt abweichen."
+    },
+    {
+      "gruppe": "cloud",
+      "modell": "Haiku 5.5 mittel",
+      "oberflaeche": "Nutzerexport der Browserantwort",
+      "antwortdatei": "antworten/cloud/haiku-5-5-mittel.txt",
+      "backend_verifiziert": false,
+      "qualitaetsvergleich_gewertet": true,
+      "hauptwahl": {
+        "product": "Hankook Kinergy 4S2 H750",
+        "claimed_variant": "195/55 R16 aus Fragekontext, Index in Preistabelle nicht wiederholt",
+        "condition": "Hauptwahl bei festem Limit95; Continental nur bei Budgeterhöhung",
+        "unit_eur_range": [
+          87,
+          93
+        ],
+        "four_goods_arithmetic_eur_range": [
+          348,
+          372
+        ],
+        "claimed_four_eur_range": [
+          347,
+          372
+        ],
+        "shipping_claim": "Ausdrücklich NICHT enthalten/nicht ermittelt",
+        "delivered_offer_confirmed": false
+      },
+      "alternativen_und_vergleiche": [
+        {
+          "id": 28,
+          "model_label": "07-HAIKU-55-MITTEL",
+          "role": "Bedingte Hauptwahl nur bei höherem Budget",
+          "rank": null,
+          "product_as_answered": "Continental AllSeasonContact 2",
+          "unit_price_as_answered": "etwa108 €",
+          "four_price_as_answered": "etwa432 €",
+          "shipping_as_answered": "ausdrücklich nicht enthalten/unbekannt",
+          "source_disclosure": "Nur Publikationsnamen/Vergleichsseite im Fließtext, kein Quellenblock, keine URLs oder aufgelösten Quellenverweise",
+          "assessment": "AMS2026 Sieg neun195/55R16 positiv bestätigt; Preis keine livegeprüfte Offerte.",
+          "line": 13,
+          "quote": "| Continental AllSeasonContact 2 | ca. 108 € | ca. 432 € | Testsieger, über deinem Budget |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 30,
+          "model_label": "07-HAIKU-55-MITTEL",
+          "role": "Günstigere Tabellenalternative, nicht als Rang3 bezeichnet",
+          "rank": null,
+          "product_as_answered": "Nexen N'blue 4Season",
+          "unit_price_as_answered": "etwa79 €",
+          "four_price_as_answered": "etwa314 €",
+          "shipping_as_answered": "ausdrücklich nicht enthalten/unbekannt",
+          "source_disclosure": "Nur Publikationsnamen/Vergleichsseite im Fließtext, kein Quellenblock, keine URLs oder aufgelösten Quellenverweise",
+          "assessment": "4×79=316 statt314; beide ca., kein exakter Rechnungsbetrug. Generation nicht genannt; kein 4Season2 nachtragen.",
+          "line": 15,
+          "quote": "| Nexen N'blue 4Season | ca. 79 € | ca. 314 € | Günstig, aber schwächer bewertet |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 31,
+          "model_label": "07-HAIKU-55-MITTEL",
+          "role": "Abgelehnter Vergleich",
+          "rank": null,
+          "product_as_answered": "Goodride Z-401 91V",
+          "unit_price_as_answered": "nicht ermittelt",
+          "four_price_as_answered": "nicht ermittelt",
+          "shipping_as_answered": "nicht ermittelt",
+          "source_disclosure": "Nur Publikationsnamen/Vergleichsseite im Fließtext, kein Quellenblock, keine URLs oder aufgelösten Quellenverweise",
+          "assessment": "Note2,1 ohne positive Bindung; Nichtfinden eines Vergleichs widerlegt keinen existierenden Test.",
+          "line": 16,
+          "quote": "| Goodride Z-401 (91V) | nicht ermittelt | – | Nicht empfohlen, siehe unten |",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        },
+        {
+          "id": 32,
+          "model_label": "07-HAIKU-55-MITTEL",
+          "role": "Ausdrücklich kein Ganzjahresvorschlag",
+          "rank": null,
+          "product_as_answered": "Goodride SW608",
+          "unit_price_as_answered": "nicht genannt",
+          "four_price_as_answered": "nicht genannt",
+          "shipping_as_answered": "nicht genannt",
+          "source_disclosure": "Nur Publikationsnamen/Vergleichsseite im Fließtext, kein Quellenblock, keine URLs oder aufgelösten Quellenverweise",
+          "assessment": "Positive Saisonzuordnung Winterreifen erhalten.",
+          "line": 18,
+          "quote": "**Zum Goodride:** Der Z-401 erscheint in einem Vergleich nur mit der Note 2,1, und ich habe keinen Test gefunden, der ihn in 195/55 R16 mit dem Continental oder Hankook vergleicht. Der Goodride-Winterreifen SW608 ist übrigens ein reiner Winterreifen und nicht das, was du suchst. Den genauen Amazon-Preis konnte ich nicht prüfen. Ein Budget-Reifen mit geringem Testnachweis ist für einen Satz, der dich im Schnee in Bayern tragen soll, zu viel Risiko.",
+          "backend_verified": false,
+          "assessment_note": "Bestehender detaillierter Produkt-/Preisreview; Rollen bleiben Originalrollen, keine neue Rangliste."
+        }
+      ],
+      "weitere_kaufwege_gleicher_reifen": [],
+      "belegpruefung": [
+        "Continental ist ausdrücklich nur bei Budgeterhöhung ersteWahl; bei fester 95 Euro-Grenze Hankook. Continental-AMS-Sieg ist primär bestätigt. Nexen erscheint als günstigere Tabellenalternative.",
+        "Versand ausdrücklich nicht ermittelt, keine falscheGratisversandbestätigung. Die genannten ungefähren ViererpreiseHankook 347–372 undNexen 314 passen nicht exakt zu 4×87–93=348–372 und 4×79=316; keine erfundene Händlerrechnung daraus.",
+        "Goodride-Note 2,1/Hankook 1,8 nicht konkret belegt. SW 608 ist korrekt als anderer reinerWinterreifen getrennt. Die M+S-Formulierungseit 2018 verkürzt die bisSeptember 2024 gültigeÜbergangsfrist bestimmterAltbestände; keine künstlich gleichschwereFehlergeschichte. Publikationsnamen ohnekonkreteURLs."
+      ],
+      "quellenoffenlegung": "Publikationsnamen/Vergleichsseite im Fließtext, keine konkreten Links",
+      "links_im_export": [],
+      "nummerierte_verweise_im_export": [],
+      "werkzeughistorie": null,
+      "hinweis": "Nicht vollständig exportierte Eingabe-/Browserhistorie bleibt unbekannt; kein Beleg fehlender Frage oder Suche. Preise und Bedingungen können vom lokalen Recherchezeitpunkt abweichen."
+    }
+  ]
+}

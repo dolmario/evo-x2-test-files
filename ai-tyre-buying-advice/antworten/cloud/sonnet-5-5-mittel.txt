@@ -1,0 +1,44 @@
+**Nimm den Markenreifen, kein Goodride. Konkret: Vredestein Quatrac 195/55 R16 87H.** Vier Stück kosten bei den Händlern, die ich gefunden habe, etwa 360–380 € inklusive Versand.
+
+**Warum nicht Goodride (Z-401)**
+- Auto Bild hat im 195/55-R16-Test 35 Ganzjahresreifen in der Bremsvorauswahl geprüft. Der Z-401 landete auf Platz 30 und kam nicht ins Finale: Goodride Z-401 mit 48,7 m trocken und 58,5 m nass. Der Quatrac schaffte 41,7 m trocken und 47,1 m nass. Das sind gut 7 m (+17 %) trocken und 11 m (+24 %) auf Nässe mehr.
+- Im Auto-Bild-Test 225/50 R18 bekam der Z-401 "nicht empfehlenswert" mit 5+ bei Nässe, bei 2- trocken und 2- auf Schnee. Für Thüringen und Sachsen ist die Nässe das Hauptproblem, nicht der Schnee.
+- Preislich bringt das nur wenig: Den Z-401 gibt es in dieser Größe nur als 91V XL für rund 47–52 € pro Stück. Vier kosten also ca. 190–210 €. Die Ersparnis liegt bei etwa 170 €, bei 4–5 Jahren Nutzung rund 35–40 € pro Jahr.
+
+**Warum der Quatrac**
+- Auto Bild 2022 (195/55 R16): Platz 2 mit Note 1,4. Der Quatrac fährt ausgewogen und hat kurze Nass- und Trockenbremswege. Die Schneewerte sind knapp hinter dem Feld: 28,3 m Bremsweg und 55,9 km/h Handling.
+- Er trägt das 3PMSF-Zeichen und ist damit für deinen Winterurlaub in Bayern zulässig.
+- ADAC 2026 (185/65 R15, 16 Reifen): Der Quatrac kam mit 2,9 auf Platz 4. Nur der Continental AllSeasonContact 2 erreichte "gut".
+- Schwäche: Auto Bild nennt eine mäßige Laufleistung. Bei 12.000 km im Jahr ist das verkraftbar.
+- Preislich: 90,55 € bei reifen.com, 90,36 € inklusive Versand bei einem eBay-Händler. Andere Angebote liegen bei 94–98 €. Bei Händlern über 95 € fällt er aus deinem Budget.
+
+**Alternativen**
+
+| Reifen | Test | € pro Stück | 4 Stück |
+|---|---|---|---|
+| Vredestein Quatrac 87H | Auto Bild 1,4 | ~90–95 | ~360–380 € |
+| Nokian Seasonproof 1 87H | Auto Bild 2,5 | ~78–88 | ~310–350 € |
+| Kleber Quadraxer 3 87H | Auto Bild 2,2 | ~90 | ~360 € |
+| Goodride Z-401 91V XL | Rang 30 von 35 (Bremsvorauswahl) | ~47–52 | ~190–210 € |
+| Continental AllSeasonContact 2 87H | ADAC 2026: 2,3 | ~104–110 | ~420–440 € |
+
+- **Nokian Seasonproof 1:** Er hat im Test die besten Schneewerte, aber 52,4 m nass und 46,3 m trocken. Das sind etwa 5 m mehr als beim Quatrac. Nur wenn dir die paar Wintertage in Bayern wichtiger sind als die Nässe im Alltag.
+- **Kleber Quadraxer 3:** Er hat den kürzesten Trockenbremsweg (40,3 m), bremst aber nass mit 49,4 m schlechter als der Quatrac. Auto Bild nennt zusätzlich Untersteuern auf nasser Piste.
+- **Continental AllSeasonContact 2:** Er ist sicherheitstechnisch die beste Wahl, liegt aber bei 104–110 € pro Stück und damit über deinem Limit.
+
+**Zum Kauf**
+- Die Preise sind Stichproben aus Händlerlisten, teils ohne Datum. Prüf sie vor der Bestellung bei Check24 oder billiger.de.
+- Der Auto-Bild-Test lief mit der 91V-XL-Version. Der 87H hat dasselbe Profil, ist aber nicht identisch.
+- Bei Amazon-Marktplatz- und eBay-Händlern vor dem Kauf auf den DOT-Code achten. Er sollte nicht älter als zwei Jahre sein.
+
+Sources:
+- [Auto Bild Ganzjahresreifen-Test 195/55 R16](https://www.autobild.de/produkttests/ganzjahresreifen-test-195-55-r-16-22638211.html)
+- [ADAC Ganzjahresreifentest 2026, 185/65 R15](https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifentest/ganzjahresreifen/185-65-r15-2026/)
+- [Goodride Z-401, Testübersicht (reifenlab.de)](https://www.reifenlab.de/goodride-allseason-elite-z-401/tests)
+- [Goodride Z-401, Auto-Bild-Bremswerte 195/55 R16 (thetirelab.com)](https://thetirelab.com/goodride-allseason-elite-z-401/tests)
+- [reifen.com, 195/55 R16 87H](https://www.reifen.com/en-de/car/tyres/dimensions/16-inch/195-55-r16/195-55-r16-87h)
+- [eBay, Vredestein 195/55 R16](https://www.ebay.de/b/Vredestein-Ganzjahresreifen-fur-Autos-195-55R16/179680/bn_98280294)
+- [billiger.de, Continental AllSeasonContact 2](https://www.billiger.de/pricelist/4570867645-continental-allseasoncontact-2-195-55-r16-87h)
+- [Nokian Seasonproof 1 Preise (testbericht.de)](https://www.testbericht.de/produkte/nokian-tyres-nokian-seasonproof-1-195-55r16-87h)
+
+

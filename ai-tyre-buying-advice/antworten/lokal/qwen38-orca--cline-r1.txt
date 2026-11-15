@@ -1,0 +1,36 @@
+Ich habe die aktuellen Tests und Preise zusammengetragen (Stand 14.11.2026, Black-Friday-Zeit – Preise bewegen sich gerade). Hier die Antwort:
+
+## Kurzfassung
+**Nimm den Markenreifen aus dem Test – konkret: Vredestein Quatrac 195/55 R16 87H.** Er ist Testsieger unter <95 €, während der Goodride bei dir (Thüringen/Sachsen + Alpen-Winter) zu viel Risiko im Nassen/Schnee birgt.
+
+## Die Testlage in 195/55 R16
+- **AUTO BILD-Test 01/2026** (14 Ganzjahresreifen):
+  1. Goodyear Vector 4Seasons Gen-3 – 1,3 (sehr gut) – aber **ab 100,46–101,49 €** (in 195/55 R16 gibt es ihn nur als 91H/91V XL) → knapp über deinem Budget
+  2. **Vredestein Quatrac – 1,4 (sehr gut)** – kurze Nass-/Trockenbremswege, agiles Verhalten, niedriger Rollwiderstand; nur Schwäche: mittlere Laufleistung
+  3. Hankook Kinergy 4S 2 – 2,1 – 4. Kleber Quadraxer 3 – 2,2 – 5. Kumho Solus 4S – 2,4 – danach Toyo/Falken/Firestone/Maxxis mit 3,3–4,0
+  - **Goodride war in diesem Test nicht dabei.**
+- **Reifentester.de/Autoflotte (2025, 195/55 R16):** Testsieger Pirelli Cinturato All Season SF3 – ab ca. **116 €** → ebenfalls über Budget
+- **ADAC 2025 (Ganzjahresreifen, 16 Modelle):** nur die Hälfte empfehlenswert, vier mit gravierenden Mängeln – Budgetreifen tauchen darin häufig als Verlierer auf.
+
+## Warum nicht der Goodride (Z-401 „All Season Elite“)
+- Preis: in 195/55 R16 (91V XL) **ab ~44–55 €** (idealo/Amazon) – also ~180–220 € für vier.
+- Aber: **EU-Label Nasshaftung Klasse C** (die schlechteste), Lautstärke 72 dB, Tyre Reviews nur **5,7/10** aus fünf Tests; der Goodride SW608 bekam vom ADAC (Wintertest) bei der Nässe gar „mangelhaft“.
+- Für 12.000 km/Jahr im Flachland wäre das vertretbar – aber du fährst **im Winter in die Alpen** (Passstraßen, Schneematsch, Eis) und das restliche Jahr nasse Mittelgebirgsstrecken. Genau da ist die Nass-/Schnee-Sicherheitsreserve der Unterschied, den ~120–180 € Aufpreis auf den Satz wert sind.
+
+## Meine konkrete Wahl: Vredestein Quatrac 195/55 R16 87H
+- 2. Platz AUTO BILD mit 1,4 – bester Reifen, der unter 95 € liegt
+- Nasshaftung Klasse B, 70 dB, 3PMSF-Schneeflocke (wintertauglich für Bayern)
+- Niedriger Rollwiderstand → spart bei deiner Fahrleistung Sprit
+- Einziger Minuspunkt (mittlere Laufleistung) fällt bei 12.000 km/Jahr kaum ins Gewicht
+- Der 87H passt exakt zur Clio-Spezifikation (545 kg); der teurere 91V XL geht auch, ist aber unnötig
+
+## Kosten für vier, mit Versand, ohne Montage
+| Option | Preis/Stück | 4 Reifen | Versand |
+|---|---|---|---|
+| **Vredestein Quatrac 87H** (empfohlen) | ab **82,74 €** (check24, 20 Angebote über idealo; reifen.de ab 83,96 €) | **330,96 €** | dort „zzgl. Versand“ – je Shop ~25–30 €, bei vielen Reifen-Shops (z. B. reifen.com, tyre-sale.de, reifendirekt.de, oft auch Amazon) **versandkostenfrei** → Gesamtbudget **ca. 331–360 €** |
+| Goodyear Vector 4Seasons Gen-3 (Testsieger) | 100,46–101,49 € (nur 91H/91V XL) | 401,84–405,96 € | je Shop |
+| Goodride Z-401 91V XL | ~44–55 € | ~177–220 € | meist frei |
+
+**Mein Fazit:** ~331–360 € für vier Quatracs investieren. Wenn du wirklich sparen willst, ist der Hankook Kinergy 4S 2 (3. Platz, ~84 €) die zweitbeste Option, der Kumho Solus 4S (5. Platz, ~74 €) die günstigste halbwegs sichere. Der Goodride würde den Satz ~150 € günstiger machen, bringt dir aber im alpinen Winter die schwächste Nasshaftungsklasse C – den Sparpreis würde ich dir nicht als Sicherheit anrechnen.
+
+**Tipp:** Es ist gerade Black-Friday-Zeit – lohnt sich, die Preise bei idealo/reifen.de über die nächsten 1–2 Wochen im Auge zu behalten; bei 4-Reifen-Sätzen gibt es da oft die besten Konditionen. Montage würde danach je nach Werkstatt ca. 20–30 € pro Rad obendraufkommen.

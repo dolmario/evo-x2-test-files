@@ -1,0 +1,5 @@
+PROMPT-NEUTRAL-VORLAGE.txt und die englische Übersetzung sind Fables kopierfertiger Entwurf vom14.11.2026,17:41. Beide ausdrücklich ungetestet im Film.
+PROMPT-ORIGINAL.txt ist die tatsächlich gestellte freie Käuferfrage; identisch in allen16 lokalen Primärsitzungen. Die Cloudrunde verwendet laut direkter Nutzerbestätigung dieselbe Frage. Englisch ist nur eine Übersetzung, kein anderssprachiger Versuch.
+KARTENPROBE-*.txt sind die sechs tatsächlich übergebenen System-/Nutzertexte der getrennten historischen Kartenaufgabe. Die drei Wiederholungen je Variante unterscheiden sich nur im Seed, nicht im Prompt. AB/BA bezeichnet ausschließlich die Darstellungsreihenfolge; A/B werden nicht neu vergeben.
+Die Kartenprobe hat keine Webwerkzeuge und eigene historische Laufgrenzen; sie darf nicht als freie Webrecherche ausgegeben werden. Bedingungen und Originalantworten im Begleitmaterial.
+Es wurden keine Hersteller-Masterprompts veröffentlicht und keine neuen Versuche gestartet.

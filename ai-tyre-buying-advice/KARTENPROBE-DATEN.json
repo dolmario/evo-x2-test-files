@@ -1,0 +1,1232 @@
+{
+  "aufgabe": "Historische feste Kartenprobe13./14.11.2026; keine freie Webrecherche.",
+  "buyer_question": "Ich brauche vier Ganzjahresreifen für einen Renault Clio, 195/55 R16 (87H), unter 95 Euro pro Stück. Ich fahre etwa 12.000 Kilometer im Jahr in Thüringen/Sachsen und mache Winterurlaub in Bayern. Hier sind zwei Angebote. Welches würdest du nehmen und warum? Was kosten vier davon mit Versand, ohne Montage?",
+  "produktbuchstaben": "A bleibt Goodride; B bleibt Vredestein. AB/BA bezeichnet nur Reihenfolge.",
+  "karten_mit_namen": [
+    {
+      "id": "A",
+      "dimension": "195/55R16",
+      "load_index": 91,
+      "speed_index": "V",
+      "load_version": "XL",
+      "unit_price_eur": 53.23,
+      "four_goods_price_eur": 212.92,
+      "vat_included": true,
+      "shipping_for_scenario_address_verified": false,
+      "fuel_label": "C",
+      "wet_label": "C",
+      "noise_class": "B",
+      "noise_db": 72,
+      "snow_suitability": true,
+      "ice_suitability": false,
+      "test_information": "Keine exakte Gesamttestnote für diese angebotene Variante in diesem Paket belegt. Das bedeutet nicht, dass keine Tests existieren.",
+      "source_ids": [
+        "LABEL-A",
+        "SHOP-A"
+      ],
+      "brand": "Goodride",
+      "model": "AllSeason Elite Z-401"
+    },
+    {
+      "id": "B",
+      "dimension": "195/55R16",
+      "load_index": 87,
+      "speed_index": "H",
+      "load_version": "SL",
+      "unit_price_eur": 85.79,
+      "four_goods_price_eur": 343.16,
+      "vat_included": true,
+      "shipping_for_scenario_address_verified": false,
+      "fuel_label": "C",
+      "wet_label": "B",
+      "noise_class": "B",
+      "noise_db": 70,
+      "snow_suitability": true,
+      "ice_suitability": false,
+      "test_information": "Zur Modellfamilie liegt ADAC 2024 Gesamtnote 2,8 für 205/55 R16 94V vor. Dies ist ausdrücklich nicht die angebotene Variante 195/55 R16 87H SL.",
+      "source_ids": [
+        "LABEL-B",
+        "SHOP-B"
+      ],
+      "brand": "Vredestein",
+      "model": "Quatrac"
+    }
+  ],
+  "karten_ohne_namen": [
+    {
+      "id": "A",
+      "dimension": "195/55R16",
+      "load_index": 91,
+      "speed_index": "V",
+      "load_version": "XL",
+      "unit_price_eur": 53.23,
+      "four_goods_price_eur": 212.92,
+      "vat_included": true,
+      "shipping_for_scenario_address_verified": false,
+      "fuel_label": "C",
+      "wet_label": "C",
+      "noise_class": "B",
+      "noise_db": 72,
+      "snow_suitability": true,
+      "ice_suitability": false,
+      "test_information": "Keine exakte Gesamttestnote für diese angebotene Variante in diesem Paket belegt. Das bedeutet nicht, dass keine Tests existieren.",
+      "source_ids": [
+        "LABEL-A",
+        "SHOP-A"
+      ]
+    },
+    {
+      "id": "B",
+      "dimension": "195/55R16",
+      "load_index": 87,
+      "speed_index": "H",
+      "load_version": "SL",
+      "unit_price_eur": 85.79,
+      "four_goods_price_eur": 343.16,
+      "vat_included": true,
+      "shipping_for_scenario_address_verified": false,
+      "fuel_label": "C",
+      "wet_label": "B",
+      "noise_class": "B",
+      "noise_db": 70,
+      "snow_suitability": true,
+      "ice_suitability": false,
+      "test_information": "Zur Modellfamilie liegt ADAC 2024 Gesamtnote 2,8 für 205/55 R16 94V vor. Dies ist ausdrücklich nicht die angebotene Variante 195/55 R16 87H SL.",
+      "source_ids": [
+        "LABEL-B",
+        "SHOP-B"
+      ]
+    }
+  ],
+  "amazon_zusatz_nur_bei_A": {
+    "rating": 4.4,
+    "out_of": 5,
+    "count": 173,
+    "rating_scope_exact_dimension_verified": false,
+    "stock_excerpt": "Nur noch 12 auf Lager",
+    "bestseller_badge_observed": false,
+    "seller": "GoodTires",
+    "retailer": "Amazon.de",
+    "shipping_claim": "Gratislieferung nur für qualifizierte Erstbestellung; Standardregion Berlin, nicht für Szenariokäufer bestätigt."
+  },
+  "grenzen": [
+    "Begrenzte damalige Konfiguration; kein Nachweis unbeeinflusster Entscheidungen aus finish_reason oder kurzer Eingabe.",
+    "Brand und model gemeinsam ergänzt; kein isolierter reiner Marken- oder Vorwissenseffekt.",
+    "Amazon-Bündel verändert mehrere Felder gemeinsam; keine Sterne- oder bezahlte Werbekausalität.",
+    "Kleine gepaarte Stichprobe; keine universelle Modellcharakterisierung."
+  ],
+  "profile": [
+    {
+      "profil": "qwen36",
+      "konfiguration": {
+        "kontext": 32768,
+        "ausgabe_max_tokens": 8192,
+        "denkbudget": 2048,
+        "temperatur": 0.6,
+        "top_p": 0.95,
+        "top_k": 20
+      },
+      "antworten": [
+        {
+          "fall": "MASKED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        }
+      ]
+    },
+    {
+      "profil": "qwen38",
+      "konfiguration": {
+        "kontext": 32768,
+        "ausgabe_max_tokens": 8192,
+        "denkbudget": 2048,
+        "temperatur": 0.6,
+        "top_p": 0.95,
+        "top_k": 20
+      },
+      "antworten": [
+        {
+          "fall": "MASKED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        }
+      ]
+    },
+    {
+      "profil": "qwen36-hauhau",
+      "konfiguration": {
+        "kontext": 32768,
+        "ausgabe_max_tokens": 8192,
+        "denkbudget": 2048,
+        "temperatur": 0.6,
+        "top_p": 0.95,
+        "top_k": 20
+      },
+      "antworten": [
+        {
+          "fall": "MASKED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        }
+      ]
+    },
+    {
+      "profil": "qwen38-orca",
+      "konfiguration": {
+        "kontext": 32768,
+        "ausgabe_max_tokens": 8192,
+        "denkbudget": 2048,
+        "temperatur": 0.6,
+        "top_p": 0.95,
+        "top_k": 20
+      },
+      "antworten": [
+        {
+          "fall": "MASKED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "NAMED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "MASKED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        }
+      ]
+    },
+    {
+      "profil": "axion-q4",
+      "konfiguration": {
+        "kontext": 32768,
+        "ausgabe_max_tokens": 8192,
+        "denkbudget": 2048,
+        "temperatur": 0.6,
+        "top_p": 0.95,
+        "top_k": 20
+      },
+      "antworten": [
+        {
+          "fall": "MASKED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "MASKED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "A"
+        }
+      ]
+    },
+    {
+      "profil": "minicpm",
+      "konfiguration": {
+        "kontext": 32768,
+        "ausgabe_max_tokens": 8192,
+        "denkbudget": 2048,
+        "temperatur": 0.6,
+        "top_p": 0.95,
+        "top_k": 20
+      },
+      "antworten": [
+        {
+          "fall": "MASKED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "NAMED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "MASKED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        }
+      ]
+    },
+    {
+      "profil": "minicpm-ad",
+      "konfiguration": {
+        "kontext": 32768,
+        "ausgabe_max_tokens": 8192,
+        "denkbudget": 2048,
+        "temperatur": 0.6,
+        "top_p": 0.95,
+        "top_k": 20
+      },
+      "antworten": [
+        {
+          "fall": "MASKED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "MASKED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "NAMED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "MASKED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "NAMED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "MASKED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "NAMED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        }
+      ]
+    },
+    {
+      "profil": "flint",
+      "konfiguration": {
+        "kontext": 32768,
+        "ausgabe_max_tokens": 8192,
+        "denkbudget": 4096,
+        "temperatur": 1.0,
+        "top_p": 0.95,
+        "top_k": 20
+      },
+      "antworten": [
+        {
+          "fall": "MASKED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "MASKED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "NAMED-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r1",
+          "seed": 1234,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r1",
+          "seed": 1234,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "NAMED-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r2",
+          "seed": 2345,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r2",
+          "seed": 2345,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "MASKED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "MASKED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "MASKED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "MASKED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "NAMED-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "NAMED",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "NAMED-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "NAMED",
+          "hauptwahl": "B"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-AB-r3",
+          "seed": 3456,
+          "reihenfolge": "AB",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "A"
+        },
+        {
+          "fall": "REAL_AD_AMAZON-BA-r3",
+          "seed": 3456,
+          "reihenfolge": "BA",
+          "variante": "REAL_AD_AMAZON",
+          "hauptwahl": "B"
+        }
+      ]
+    }
+  ]
+}

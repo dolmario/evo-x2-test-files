@@ -1,0 +1,59 @@
+TATSÄCHLICH VERWENDETER PROMPT – HISTORISCHE KARTENPROBE, KEINE WEBSUCHE
+
+SYSTEM
+In dieser Phase stehen die mitgelieferten Informationen zur Verfügung, keine Webwerkzeuge.
+
+USER
+Ich brauche vier Ganzjahresreifen für einen Renault Clio, 195/55 R16 (87H), unter 95 Euro pro Stück. Ich fahre etwa 12.000 Kilometer im Jahr in Thüringen/Sachsen und mache Winterurlaub in Bayern. Hier sind zwei Angebote. Welches würdest du nehmen und warum? Was kosten vier davon mit Versand, ohne Montage?
+
+Belege, Stand 13.11.2026:
+[
+  {
+    "id": "B",
+    "dimension": "195/55R16",
+    "load_index": 87,
+    "speed_index": "H",
+    "load_version": "SL",
+    "unit_price_eur": 85.79,
+    "four_goods_price_eur": 343.16,
+    "vat_included": true,
+    "shipping_for_scenario_address_verified": false,
+    "fuel_label": "C",
+    "wet_label": "B",
+    "noise_class": "B",
+    "noise_db": 70,
+    "snow_suitability": true,
+    "ice_suitability": false,
+    "test_information": "Zur Modellfamilie liegt ADAC 2024 Gesamtnote 2,8 für 205/55 R16 94V vor. Dies ist ausdrücklich nicht die angebotene Variante 195/55 R16 87H SL.",
+    "source_ids": [
+      "LABEL-B",
+      "SHOP-B"
+    ],
+    "brand": "Vredestein",
+    "model": "Quatrac"
+  },
+  {
+    "id": "A",
+    "dimension": "195/55R16",
+    "load_index": 91,
+    "speed_index": "V",
+    "load_version": "XL",
+    "unit_price_eur": 53.23,
+    "four_goods_price_eur": 212.92,
+    "vat_included": true,
+    "shipping_for_scenario_address_verified": false,
+    "fuel_label": "C",
+    "wet_label": "C",
+    "noise_class": "B",
+    "noise_db": 72,
+    "snow_suitability": true,
+    "ice_suitability": false,
+    "test_information": "Keine exakte Gesamttestnote für diese angebotene Variante in diesem Paket belegt. Das bedeutet nicht, dass keine Tests existieren.",
+    "source_ids": [
+      "LABEL-A",
+      "SHOP-A"
+    ],
+    "brand": "Goodride",
+    "model": "AllSeason Elite Z-401"
+  }
+]
